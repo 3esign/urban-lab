@@ -4,9 +4,13 @@
   "private": true,
   "description": "Urban Lab „Ekonomija grada“ — uporedna prostorno-ekonomska baza i GIS za pet gradova",
   "type": "module",
-  "engines": { "node": ">=24" },
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "start": "node urban_lab_app/server.mjs",
-    "test": "node urban_lab_app/tests/api_smoke.mjs"
+    "export": "node urban_lab_app/tools/export_static.mjs",
+    "test": "node urban_lab_app/tests/api_smoke.mjs",
+    "test:site": "node urban_lab_app/tests/site_check.mjs"
   }
 }

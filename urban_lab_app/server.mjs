@@ -13,7 +13,7 @@ import { DatabaseSync } from 'node:sqlite';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const PUBLIC_DIR = path.join(__dirname, 'public');
+const PUBLIC_DIR = path.resolve(__dirname, '../docs'); // isti statički sajt koji služi GitHub Pages
 const DB_PATH = process.env.URBAN_LAB_DB || path.resolve(__dirname, '../urban_lab_db/curated/urban_lab_5cities_v4.sqlite');
 const BOUNDARIES_DIR = path.resolve(__dirname, '../urban_lab_db/curated/boundaries');
 

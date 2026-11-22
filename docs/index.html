@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Urban Lab — Ekonomija grada · Beograd, Zagreb, Sarajevo, Novi Pazar, Travnik</title>
+  <meta name="description" content="Uporedni prostorno-ekonomski GIS za pet gradova: 2D/3D mapa, skale XS–XL, nivoi poverenja izvora i dosije po zoni.">
+  <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="right-collapsed">
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-dot"></span>
+      <h1>Urban Lab</h1>
+      <span class="ver" id="ver">v4.2</span>
+    </div>
+    <div class="pill-group" id="cityPills" role="group" aria-label="Grad"></div>
+    <div class="pill-group" id="scalePills" role="group" aria-label="Skala"></div>
+    <div class="pill-group" role="group" aria-label="Prikaz">
+      <button class="pill-btn active" id="btn2d">2D</button>
+      <button class="pill-btn mode-3d" id="btn3d">3D</button>
+    </div>
+    <div class="search-wrap">
+      <span class="search-icon">⌕</span>
+      <input id="search" type="search" placeholder="Traži zonu ili dokument…" autocomplete="off" aria-label="Pretraga">
+      <div class="search-results" id="searchResults"></div>
+    </div>
+    <div class="top-actions">
+      <button class="icon-btn active" id="btnLeft" title="Slojevi i filteri">Slojevi</button>
+      <button class="icon-btn" id="btnRight" title="Dosije zone">Dosije</button>
+    </div>
+  </header>
+
+  <div id="map"></div>
+  <div class="map-hud-top" id="hud"></div>
+  <div class="hud-chip loading-chip" id="loading" style="display:none">Učitavam…</div>
+
+  <aside class="sidebar-left">
+    <div class="panel-scroll">
+      <section>
+        <div class="section-hd"><span>Nivo poverenja izvora</span></div>
+        <div class="section-box">
+          <div class="tier-grid" id="tierGrid"></div>
+          <div class="tier-presets">
+            <button class="mini-btn" data-preset="A1,A2">Samo zvanično</button>
+            <button class="mini-btn" data-preset="A1,A2,B">Bez medija i modela</button>
+            <button class="mini-btn" data-preset="A1,A2,B,C,D">Sve</button>
+          </div>
+        </div>
+      </section>
+      <section>
+        <div class="section-hd"><span>Sočivo (boja zona)</span></div>
+        <div class="lens-list" id="lensList"></div>
+        <div id="legend" class="section-box" style="margin-top:8px"></div>
+      </section>
+      <section>
+        <div class="section-hd"><span>Slojevi</span><span id="layerCity"></span></div>
+        <div class="layer-list" id="layerList"></div>
+      </section>
+    </div>
+  </aside>
+
+  <aside class="sidebar-right">
+    <div class="dossier-hd">
+      <div class="dossier-title-row">
+        <h2 id="dTitle">Dosije zone</h2>
+        <button class="close-btn" id="dClose" aria-label="Zatvori">×</button>
+      </div>
+      <div class="dossier-sub" id="dSub">Klikni zonu na mapi.</div>
+    </div>
+    <div class="tab-bar" id="dTabs"></div>
+    <div class="tab-body" id="dBody"></div>
+  </aside>
+
+  <footer class="bottom-tray" id="tray">
+    <div class="tray-bar">
+      <div class="tray-tabs" id="trayTabs"></div>
+      <span class="layer-cnt" id="trayNote"></span>
+    </div>
+    <div class="tray-body" id="trayBody"></div>
+  </footer>
+  <div class="chart-tip" id="tip"></div>
+
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

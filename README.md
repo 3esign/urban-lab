@@ -3,6 +3,8 @@
 Uporedna prostorno-ekonomska baza i GIS za pet gradova: **Beograd, Zagreb, Sarajevo, Novi Pazar i Travnik**.
 Cilj je laboratorija u kojoj se isti podaci gledaju kroz različite ekonomske modele i skale, od parcele do makro-regiona.
 
+**Interfejs uživo: https://3esign.github.io/urban-lab/**
+
 *Comparative spatial-economics database and web GIS for five cities in Serbia, Croatia and Bosnia and Herzegovina. Documentation is in Serbian.*
 
 ## Stanje
@@ -11,14 +13,15 @@ Cilj je laboratorija u kojoj se isti podaci gledaju kroz različite ekonomske mo
 |---|---|
 | Baza v4.2 (SQLite) | 86 tabela, 28 pogleda; gradi se skriptama iz javnih izvora |
 | API server | radi; samo čita bazu, bez npm zavisnosti |
-| Web interfejs (mapa 2D/3D) | **još ne postoji** — u `urban_lab_app/public/` je samo `styles.css` |
+| Web interfejs (mapa 2D/3D) | statički sajt u `docs/`, objavljen preko GitHub Pages; radi bez servera i bez baze |
 | Ponovljivost gradnje od nule | **nije proverena** — skripte su nastajale talas po talas |
 
 ## Šta je u repozitorijumu
 
 | Putanja | Sadržaj |
 |---|---|
-| `urban_lab_app/` | `server.mjs` (Node 24, ugrađeni `node:sqlite`), stilovi, `tests/api_smoke.mjs` |
+| `docs/` | GitHub Pages sajt: `index.html`, `app.js`, `styles.css` i `data/` (statički izvoz baze, oko 39 MB) |
+| `urban_lab_app/` | `server.mjs` (Node 24, ugrađeni `node:sqlite`), `tools/export_static.mjs`, `tests/` |
 | `urban_lab_db/scripts/` | 84 Python skripte: sakupljanje, obrada, gradnja baze, analiza; redosled u `INDEX.md` |
 | `urban_lab_db/schema_v4/` | šema v4, migracija v4.2, JSON ugovor NLP→GIS |
 | `urban_lab_db/manifest.jsonl` | poreklo svakog preuzimanja: URL, SHA-256, status, relativna putanja |
@@ -31,7 +34,7 @@ Cilj je laboratorija u kojoj se isti podaci gledaju kroz različite ekonomske mo
 - `urban_lab_db/raw/` — sirovi preuzeti fajlovi (437 fajlova, 488 MB).
 - `urban_lab_db/curated/*.sqlite` — baze v3 (37 MB) i v4.2 (135 MB, iznad GitHub granice od 100 MB po fajlu).
 
-Oba su u `.gitignore`. Bez baze v4.2 server se ne pokreće. `manifest.jsonl` čuva URL i SHA-256 svakog sirovog fajla, ali alat koji bi ih ponovo preuzeo i proverio još nije napisan.
+Oba su u `.gitignore`. Bez baze v4.2 ne rade server i izvoz; sajt u `docs/` radi i bez nje, jer čita već izvezene fajlove. `manifest.jsonl` čuva URL i SHA-256 svakog sirovog fajla, ali alat koji bi ih ponovo preuzeo i proverio još nije napisan.
 
 ## Pokretanje
 
@@ -40,12 +43,25 @@ Potrebni su Node 24+ i Python 3.12+, i baza na putanji `urban_lab_db/curated/urb
 ```
 npm start          # server na http://127.0.0.1:8787
 npm test           # provera svih API ruta za pet gradova
+npm run export     # baza → statički fajlovi u docs/data/ (posle svake promene baze)
+npm run test:site  # provera sajta u headless Chrome-u; prima i URL, npr. adresu na Pages
 python urban_lab_db/scripts/36_build_inventory.py   # osvežava inventar
 ```
 
 Promenljive okruženja: `URBAN_LAB_DB` (putanja baze za server), `PORT`, `HOST`, `URBAN_LAB_DB_DIR` (koren podataka za skripte), `URBAN_LAB_SCRATCH` (privremeni arhivi; podrazumevano `.scratch/`).
 
-Test danas daje 100 od 101 provere; jedini pad je početna strana, jer `index.html` ne postoji.
+## Interfejs (GitHub Pages)
+
+Pages ne pokreće server, pa sajt ne zove API: `export_static.mjs` podiže `server.mjs`, snima svaki sloj kao GeoJSON, dosije za 418 zona i indeks pretrage u `docs/data/`. Lokalni server služi isti `docs/` folder, pa je lokalni prikaz isti kao objavljeni.
+
+- **Gradovi i skale:** pet gradova; XS–XL uključuje odgovarajuće slojeve i zum.
+- **Slojevi:** opštine/četvrti, mjesni odbori i naselja, poreske zone, mreža 1 km, Ookla, pekare i pijace, 3D zgrade, rent-gap parcele, javni prevoz, izbori, nabavke, zaleđe, dnevne migracije, namena zemljišta, koridori.
+- **Sočivo:** boji zone po izabranom pokazatelju, na skali zajedničkoj za svih pet gradova.
+- **Nivo poverenja (A1–D):** filtrira objekte na mapi i redove u dosijeu.
+- **Dosije zone:** pregled, prostor, politika, dokazi.
+- **Donja tabla:** uporedna tabela, šta-ako model pekare, studije događaja, izvori i granice.
+
+Granice statičkog izdanja: filter poverenja u dosijeu uklanja redove iz lista, ali zbirni brojevi ostaju nad svim nivoima; za Novi Pazar je izvezeno 8.000 najviših od 17.200 zgrada; 3D zgrade su kvadri nad okvirom zgrade. Podloga mape su OpenStreetMap pločice, a MapLibre GL se učitava sa unpkg.com.
 
 ## Skale
 
