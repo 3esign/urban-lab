@@ -1,0 +1,560 @@
+﻿id,city_id,unit_name,nace_section,nace_name,companies_count,unit_share_pct,benchmark_share_pct,location_quotient,benchmark_scope,source_doc
+1,beograd,Beograd (UKUPNO),A,"Agriculture, forestry and fishing",536,0.83,3.35,0.247,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+2,beograd,Beograd (UKUPNO),B,Mining and quarrying,161,0.25,0.34,0.74,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+3,beograd,Beograd (UKUPNO),C,Manufacturing,5461,8.44,13.28,0.635,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+4,beograd,Beograd (UKUPNO),D,"Electricity, gas, steam and air conditioning",613,0.95,1.02,0.933,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+5,beograd,Beograd (UKUPNO),E,"Water supply, sewerage, waste management",214,0.33,0.66,0.503,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+6,beograd,Beograd (UKUPNO),F,Construction,6696,10.35,10.27,1.007,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+7,beograd,Beograd (UKUPNO),G,Wholesale and retail trade,17829,27.55,27.07,1.018,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+8,beograd,Beograd (UKUPNO),H,Transportation and storage,3132,4.84,7.0,0.691,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+9,beograd,Beograd (UKUPNO),I,Accommodation and food service (Hospitality),3872,5.98,4.76,1.257,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+10,beograd,Beograd (UKUPNO),J,Information and communication (ICT),6343,9.8,7.45,1.315,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+11,beograd,Beograd (UKUPNO),K,Financial and insurance activities,722,1.12,0.86,1.293,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+12,beograd,Beograd (UKUPNO),L,Real estate activities,2255,3.48,2.56,1.362,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+13,beograd,Beograd (UKUPNO),M,"Professional, scientific and technical activities",10349,15.99,12.82,1.247,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+14,beograd,Beograd (UKUPNO),N,Administrative and support service activities,4133,6.39,5.28,1.209,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+15,beograd,Beograd (UKUPNO),O,Public administration and defence,3,0.0,0.01,0.413,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+16,beograd,Beograd (UKUPNO),P,Education,716,1.11,1.22,0.908,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+17,beograd,Beograd (UKUPNO),Q,Human health and social work,60,0.09,0.12,0.761,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+18,beograd,Beograd (UKUPNO),R,"Arts, entertainment and recreation",779,1.2,0.89,1.359,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+19,beograd,Beograd (UKUPNO),S,Other service activities,841,1.3,1.03,1.256,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+20,novi_pazar,Novi Pazar,A,"Agriculture, forestry and fishing",11,0.83,3.35,0.248,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+21,novi_pazar,Novi Pazar,B,Mining and quarrying,1,0.08,0.34,0.224,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+22,novi_pazar,Novi Pazar,C,Manufacturing,181,13.66,13.28,1.028,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+23,novi_pazar,Novi Pazar,D,"Electricity, gas, steam and air conditioning",6,0.45,1.02,0.446,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+24,novi_pazar,Novi Pazar,E,"Water supply, sewerage, waste management",4,0.3,0.66,0.459,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+25,novi_pazar,Novi Pazar,F,Construction,225,16.98,10.27,1.653,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+26,novi_pazar,Novi Pazar,G,Wholesale and retail trade,400,30.19,27.07,1.115,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+27,novi_pazar,Novi Pazar,H,Transportation and storage,277,20.91,7.0,2.986,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+28,novi_pazar,Novi Pazar,I,Accommodation and food service (Hospitality),31,2.34,4.76,0.492,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+29,novi_pazar,Novi Pazar,J,Information and communication (ICT),28,2.11,7.45,0.284,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+30,novi_pazar,Novi Pazar,K,Financial and insurance activities,4,0.3,0.86,0.35,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+31,novi_pazar,Novi Pazar,L,Real estate activities,12,0.91,2.56,0.354,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+32,novi_pazar,Novi Pazar,M,"Professional, scientific and technical activities",76,5.74,12.82,0.447,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+33,novi_pazar,Novi Pazar,N,Administrative and support service activities,29,2.19,5.28,0.414,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+34,novi_pazar,Novi Pazar,P,Education,29,2.19,1.22,1.797,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+35,novi_pazar,Novi Pazar,R,"Arts, entertainment and recreation",7,0.53,0.89,0.596,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+36,novi_pazar,Novi Pazar,S,Other service activities,4,0.3,1.03,0.292,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+37,beograd,Barajevo,A,"Agriculture, forestry and fishing",13,3.72,3.35,1.111,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+38,beograd,Barajevo,B,Mining and quarrying,1,0.29,0.34,0.852,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+39,beograd,Barajevo,C,Manufacturing,80,22.92,13.28,1.726,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+40,beograd,Barajevo,D,"Electricity, gas, steam and air conditioning",2,0.57,1.02,0.564,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+41,beograd,Barajevo,E,"Water supply, sewerage, waste management",2,0.57,0.66,0.871,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+42,beograd,Barajevo,F,Construction,43,12.32,10.27,1.199,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+43,beograd,Barajevo,G,Wholesale and retail trade,92,26.36,27.07,0.974,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+44,beograd,Barajevo,H,Transportation and storage,24,6.88,7.0,0.982,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+45,beograd,Barajevo,I,Accommodation and food service (Hospitality),18,5.16,4.76,1.084,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+46,beograd,Barajevo,J,Information and communication (ICT),12,3.44,7.45,0.461,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+47,beograd,Barajevo,L,Real estate activities,4,1.15,2.56,0.448,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+48,beograd,Barajevo,M,"Professional, scientific and technical activities",25,7.16,12.82,0.559,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+49,beograd,Barajevo,N,Administrative and support service activities,21,6.02,5.28,1.139,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+50,beograd,Barajevo,P,Education,5,1.43,1.22,1.176,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+51,beograd,Barajevo,Q,Human health and social work,4,1.15,0.12,9.408,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+52,beograd,Barajevo,R,"Arts, entertainment and recreation",1,0.29,0.89,0.324,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+53,beograd,Barajevo,S,Other service activities,2,0.57,1.03,0.554,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+54,beograd,Voždovac,A,"Agriculture, forestry and fishing",41,0.71,3.35,0.21,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+55,beograd,Voždovac,B,Mining and quarrying,10,0.17,0.34,0.511,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+56,beograd,Voždovac,C,Manufacturing,508,8.74,13.28,0.658,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+57,beograd,Voždovac,D,"Electricity, gas, steam and air conditioning",35,0.6,1.02,0.593,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+58,beograd,Voždovac,E,"Water supply, sewerage, waste management",25,0.43,0.66,0.654,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+59,beograd,Voždovac,F,Construction,797,13.71,10.27,1.334,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+60,beograd,Voždovac,G,Wholesale and retail trade,1631,28.05,27.07,1.036,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+61,beograd,Voždovac,H,Transportation and storage,267,4.59,7.0,0.656,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+62,beograd,Voždovac,I,Accommodation and food service (Hospitality),302,5.19,4.76,1.092,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+63,beograd,Voždovac,J,Information and communication (ICT),525,9.03,7.45,1.212,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+64,beograd,Voždovac,K,Financial and insurance activities,33,0.57,0.86,0.658,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+65,beograd,Voždovac,L,Real estate activities,148,2.55,2.56,0.995,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+66,beograd,Voždovac,M,"Professional, scientific and technical activities",944,16.24,12.82,1.266,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+67,beograd,Voždovac,N,Administrative and support service activities,314,5.4,5.28,1.022,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+68,beograd,Voždovac,P,Education,78,1.34,1.22,1.101,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+69,beograd,Voždovac,Q,Human health and social work,9,0.15,0.12,1.271,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+70,beograd,Voždovac,R,"Arts, entertainment and recreation",71,1.22,0.89,1.379,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+71,beograd,Voždovac,S,Other service activities,76,1.31,1.03,1.264,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+72,beograd,Vračar,A,"Agriculture, forestry and fishing",40,0.79,3.35,0.234,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+73,beograd,Vračar,B,Mining and quarrying,13,0.26,0.34,0.76,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+74,beograd,Vračar,C,Manufacturing,276,5.42,13.28,0.408,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+75,beograd,Vračar,D,"Electricity, gas, steam and air conditioning",77,1.51,1.02,1.49,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+76,beograd,Vračar,E,"Water supply, sewerage, waste management",15,0.29,0.66,0.448,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+77,beograd,Vračar,F,Construction,497,9.77,10.27,0.951,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+78,beograd,Vračar,G,Wholesale and retail trade,1125,22.11,27.07,0.817,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+79,beograd,Vračar,H,Transportation and storage,118,2.32,7.0,0.331,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+80,beograd,Vračar,I,Accommodation and food service (Hospitality),335,6.58,4.76,1.383,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+81,beograd,Vračar,J,Information and communication (ICT),621,12.2,7.45,1.638,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+82,beograd,Vračar,K,Financial and insurance activities,84,1.65,0.86,1.914,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+83,beograd,Vračar,L,Real estate activities,241,4.74,2.56,1.852,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+84,beograd,Vračar,M,"Professional, scientific and technical activities",1109,21.79,12.82,1.7,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+85,beograd,Vračar,N,Administrative and support service activities,315,6.19,5.28,1.172,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+86,beograd,Vračar,P,Education,60,1.18,1.22,0.968,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+87,beograd,Vračar,R,"Arts, entertainment and recreation",71,1.4,0.89,1.575,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+88,beograd,Vračar,S,Other service activities,92,1.81,1.03,1.748,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+89,beograd,Grocka,A,"Agriculture, forestry and fishing",19,1.58,3.35,0.47,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+90,beograd,Grocka,B,Mining and quarrying,1,0.08,0.34,0.247,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+91,beograd,Grocka,C,Manufacturing,167,13.85,13.28,1.042,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+92,beograd,Grocka,D,"Electricity, gas, steam and air conditioning",6,0.5,1.02,0.49,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+93,beograd,Grocka,E,"Water supply, sewerage, waste management",13,1.08,0.66,1.639,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+94,beograd,Grocka,F,Construction,174,14.43,10.27,1.404,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+95,beograd,Grocka,G,Wholesale and retail trade,425,35.24,27.07,1.302,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+96,beograd,Grocka,H,Transportation and storage,120,9.95,7.0,1.421,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+97,beograd,Grocka,I,Accommodation and food service (Hospitality),33,2.74,4.76,0.575,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+98,beograd,Grocka,J,Information and communication (ICT),56,4.64,7.45,0.623,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+99,beograd,Grocka,K,Financial and insurance activities,4,0.33,0.86,0.385,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+100,beograd,Grocka,L,Real estate activities,17,1.41,2.56,0.551,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+101,beograd,Grocka,M,"Professional, scientific and technical activities",111,9.2,12.82,0.718,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+102,beograd,Grocka,N,Administrative and support service activities,34,2.82,5.28,0.534,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+103,beograd,Grocka,O,Public administration and defence,1,0.08,0.01,7.396,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+104,beograd,Grocka,P,Education,8,0.66,1.22,0.544,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+105,beograd,Grocka,Q,Human health and social work,1,0.08,0.12,0.681,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+106,beograd,Grocka,R,"Arts, entertainment and recreation",3,0.25,0.89,0.281,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+107,beograd,Grocka,S,Other service activities,13,1.08,1.03,1.042,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+108,beograd,Zvezdara,A,"Agriculture, forestry and fishing",36,0.65,3.35,0.194,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+109,beograd,Zvezdara,B,Mining and quarrying,10,0.18,0.34,0.539,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+110,beograd,Zvezdara,C,Manufacturing,469,8.49,13.28,0.639,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+111,beograd,Zvezdara,D,"Electricity, gas, steam and air conditioning",26,0.47,1.02,0.464,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+112,beograd,Zvezdara,E,"Water supply, sewerage, waste management",20,0.36,0.66,0.551,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+113,beograd,Zvezdara,F,Construction,720,13.04,10.27,1.269,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+114,beograd,Zvezdara,G,Wholesale and retail trade,1495,27.08,27.07,1.0,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+115,beograd,Zvezdara,H,Transportation and storage,266,4.82,7.0,0.688,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+116,beograd,Zvezdara,I,Accommodation and food service (Hospitality),301,5.45,4.76,1.146,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+117,beograd,Zvezdara,J,Information and communication (ICT),567,10.27,7.45,1.378,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+118,beograd,Zvezdara,K,Financial and insurance activities,37,0.67,0.86,0.777,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+119,beograd,Zvezdara,L,Real estate activities,140,2.54,2.56,0.991,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+120,beograd,Zvezdara,M,"Professional, scientific and technical activities",914,16.55,12.82,1.291,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+121,beograd,Zvezdara,N,Administrative and support service activities,308,5.58,5.28,1.056,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+122,beograd,Zvezdara,P,Education,70,1.27,1.22,1.041,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+123,beograd,Zvezdara,Q,Human health and social work,4,0.07,0.12,0.595,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+124,beograd,Zvezdara,R,"Arts, entertainment and recreation",54,0.98,0.89,1.104,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+125,beograd,Zvezdara,S,Other service activities,84,1.52,1.03,1.471,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+126,beograd,Zemun,A,"Agriculture, forestry and fishing",45,0.75,3.35,0.222,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+127,beograd,Zemun,B,Mining and quarrying,9,0.15,0.34,0.443,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+128,beograd,Zemun,C,Manufacturing,714,11.83,13.28,0.89,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+129,beograd,Zemun,D,"Electricity, gas, steam and air conditioning",52,0.86,1.02,0.848,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+130,beograd,Zemun,E,"Water supply, sewerage, waste management",11,0.18,0.66,0.277,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+131,beograd,Zemun,F,Construction,658,10.9,10.27,1.061,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+132,beograd,Zemun,G,Wholesale and retail trade,2002,33.16,27.07,1.225,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+133,beograd,Zemun,H,Transportation and storage,399,6.61,7.0,0.944,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+134,beograd,Zemun,I,Accommodation and food service (Hospitality),329,5.45,4.76,1.145,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+135,beograd,Zemun,J,Information and communication (ICT),347,5.75,7.45,0.771,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+136,beograd,Zemun,K,Financial and insurance activities,34,0.56,0.86,0.653,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+137,beograd,Zemun,L,Real estate activities,172,2.85,2.56,1.114,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+138,beograd,Zemun,M,"Professional, scientific and technical activities",712,11.79,12.82,0.92,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+139,beograd,Zemun,N,Administrative and support service activities,370,6.13,5.28,1.16,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+140,beograd,Zemun,O,Public administration and defence,2,0.03,0.01,2.955,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+141,beograd,Zemun,P,Education,49,0.81,1.22,0.666,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+142,beograd,Zemun,Q,Human health and social work,7,0.12,0.12,0.952,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+143,beograd,Zemun,R,"Arts, entertainment and recreation",58,0.96,0.89,1.085,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+144,beograd,Zemun,S,Other service activities,67,1.11,1.03,1.073,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+145,beograd,Lazarevac,A,"Agriculture, forestry and fishing",6,1.17,3.35,0.349,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+146,beograd,Lazarevac,B,Mining and quarrying,3,0.58,0.34,1.739,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+147,beograd,Lazarevac,C,Manufacturing,59,11.5,13.28,0.866,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+148,beograd,Lazarevac,D,"Electricity, gas, steam and air conditioning",1,0.19,1.02,0.192,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+149,beograd,Lazarevac,E,"Water supply, sewerage, waste management",3,0.58,0.66,0.889,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+150,beograd,Lazarevac,F,Construction,76,14.81,10.27,1.442,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+151,beograd,Lazarevac,G,Wholesale and retail trade,171,33.33,27.07,1.231,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+152,beograd,Lazarevac,H,Transportation and storage,64,12.48,7.0,1.782,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+153,beograd,Lazarevac,I,Accommodation and food service (Hospitality),17,3.31,4.76,0.696,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+154,beograd,Lazarevac,J,Information and communication (ICT),17,3.31,7.45,0.445,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+155,beograd,Lazarevac,K,Financial and insurance activities,3,0.58,0.86,0.678,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+156,beograd,Lazarevac,L,Real estate activities,5,0.97,2.56,0.381,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+157,beograd,Lazarevac,M,"Professional, scientific and technical activities",41,7.99,12.82,0.623,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+158,beograd,Lazarevac,N,Administrative and support service activities,29,5.65,5.28,1.07,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+159,beograd,Lazarevac,P,Education,10,1.95,1.22,1.6,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+160,beograd,Lazarevac,Q,Human health and social work,1,0.19,0.12,1.6,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+161,beograd,Lazarevac,R,"Arts, entertainment and recreation",3,0.58,0.89,0.66,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+162,beograd,Lazarevac,S,Other service activities,4,0.78,1.03,0.754,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+163,beograd,Mladenovac,A,"Agriculture, forestry and fishing",27,5.45,3.35,1.627,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+164,beograd,Mladenovac,B,Mining and quarrying,2,0.4,0.34,1.201,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+165,beograd,Mladenovac,C,Manufacturing,113,22.83,13.28,1.718,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+166,beograd,Mladenovac,D,"Electricity, gas, steam and air conditioning",1,0.2,1.02,0.199,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+167,beograd,Mladenovac,E,"Water supply, sewerage, waste management",5,1.01,0.66,1.536,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+168,beograd,Mladenovac,F,Construction,60,12.12,10.27,1.18,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+169,beograd,Mladenovac,G,Wholesale and retail trade,134,27.07,27.07,1.0,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+170,beograd,Mladenovac,H,Transportation and storage,42,8.48,7.0,1.212,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+171,beograd,Mladenovac,I,Accommodation and food service (Hospitality),8,1.62,4.76,0.34,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+172,beograd,Mladenovac,J,Information and communication (ICT),17,3.43,7.45,0.461,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+173,beograd,Mladenovac,K,Financial and insurance activities,3,0.61,0.86,0.703,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+174,beograd,Mladenovac,L,Real estate activities,10,2.02,2.56,0.79,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+175,beograd,Mladenovac,M,"Professional, scientific and technical activities",44,8.89,12.82,0.693,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+176,beograd,Mladenovac,N,Administrative and support service activities,15,3.03,5.28,0.574,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+177,beograd,Mladenovac,P,Education,7,1.41,1.22,1.161,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+178,beograd,Mladenovac,R,"Arts, entertainment and recreation",4,0.81,0.89,0.912,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+179,beograd,Mladenovac,S,Other service activities,3,0.61,1.03,0.586,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+180,beograd,Novi Beograd,A,"Agriculture, forestry and fishing",78,0.61,3.35,0.181,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+181,beograd,Novi Beograd,B,Mining and quarrying,38,0.3,0.34,0.879,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+182,beograd,Novi Beograd,C,Manufacturing,736,5.73,13.28,0.431,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+183,beograd,Novi Beograd,D,"Electricity, gas, steam and air conditioning",179,1.39,1.02,1.372,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+184,beograd,Novi Beograd,E,"Water supply, sewerage, waste management",24,0.19,0.66,0.284,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+185,beograd,Novi Beograd,F,Construction,1056,8.22,10.27,0.8,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+186,beograd,Novi Beograd,G,Wholesale and retail trade,3801,29.59,27.07,1.093,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+187,beograd,Novi Beograd,H,Transportation and storage,580,4.51,7.0,0.645,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+188,beograd,Novi Beograd,I,Accommodation and food service (Hospitality),532,4.14,4.76,0.87,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+189,beograd,Novi Beograd,J,Information and communication (ICT),1561,12.15,7.45,1.631,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+190,beograd,Novi Beograd,K,Financial and insurance activities,198,1.54,0.86,1.787,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+191,beograd,Novi Beograd,L,Real estate activities,542,4.22,2.56,1.649,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+192,beograd,Novi Beograd,M,"Professional, scientific and technical activities",2116,16.47,12.82,1.285,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+193,beograd,Novi Beograd,N,Administrative and support service activities,974,7.58,5.28,1.435,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+194,beograd,Novi Beograd,P,Education,130,1.01,1.22,0.831,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+195,beograd,Novi Beograd,Q,Human health and social work,2,0.02,0.12,0.128,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+196,beograd,Novi Beograd,R,"Arts, entertainment and recreation",157,1.22,0.89,1.38,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+197,beograd,Novi Beograd,S,Other service activities,143,1.11,1.03,1.076,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+198,beograd,Obrenovac,A,"Agriculture, forestry and fishing",18,2.24,3.35,0.669,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+199,beograd,Obrenovac,B,Mining and quarrying,1,0.12,0.34,0.37,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+200,beograd,Obrenovac,C,Manufacturing,112,13.95,13.28,1.05,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+201,beograd,Obrenovac,D,"Electricity, gas, steam and air conditioning",5,0.62,1.02,0.613,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+202,beograd,Obrenovac,E,"Water supply, sewerage, waste management",8,1.0,0.66,1.515,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+203,beograd,Obrenovac,F,Construction,129,16.06,10.27,1.564,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+204,beograd,Obrenovac,G,Wholesale and retail trade,191,23.79,27.07,0.879,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+205,beograd,Obrenovac,H,Transportation and storage,118,14.69,7.0,2.099,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+206,beograd,Obrenovac,I,Accommodation and food service (Hospitality),26,3.24,4.76,0.68,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+207,beograd,Obrenovac,J,Information and communication (ICT),35,4.36,7.45,0.585,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+208,beograd,Obrenovac,K,Financial and insurance activities,11,1.37,0.86,1.588,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+209,beograd,Obrenovac,L,Real estate activities,10,1.25,2.56,0.487,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+210,beograd,Obrenovac,M,"Professional, scientific and technical activities",81,10.09,12.82,0.787,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+211,beograd,Obrenovac,N,Administrative and support service activities,37,4.61,5.28,0.872,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+212,beograd,Obrenovac,P,Education,9,1.12,1.22,0.92,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+213,beograd,Obrenovac,R,"Arts, entertainment and recreation",6,0.75,0.89,0.844,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+214,beograd,Obrenovac,S,Other service activities,6,0.75,1.03,0.722,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+215,beograd,Palilula,A,"Agriculture, forestry and fishing",40,0.77,3.35,0.228,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+216,beograd,Palilula,B,Mining and quarrying,12,0.23,0.34,0.683,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+217,beograd,Palilula,C,Manufacturing,537,10.27,13.28,0.773,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+218,beograd,Palilula,D,"Electricity, gas, steam and air conditioning",20,0.38,1.02,0.377,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+219,beograd,Palilula,E,"Water supply, sewerage, waste management",26,0.5,0.66,0.756,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+220,beograd,Palilula,F,Construction,603,11.54,10.27,1.123,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+221,beograd,Palilula,G,Wholesale and retail trade,1526,29.19,27.07,1.078,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+222,beograd,Palilula,H,Transportation and storage,246,4.71,7.0,0.672,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+223,beograd,Palilula,I,Accommodation and food service (Hospitality),330,6.31,4.76,1.327,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+224,beograd,Palilula,J,Information and communication (ICT),450,8.61,7.45,1.155,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+225,beograd,Palilula,K,Financial and insurance activities,52,0.99,0.86,1.153,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+226,beograd,Palilula,L,Real estate activities,130,2.49,2.56,0.972,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+227,beograd,Palilula,M,"Professional, scientific and technical activities",774,14.81,12.82,1.155,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+228,beograd,Palilula,N,Administrative and support service activities,299,5.72,5.28,1.083,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+229,beograd,Palilula,P,Education,54,1.03,1.22,0.848,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+230,beograd,Palilula,Q,Human health and social work,6,0.11,0.12,0.942,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+231,beograd,Palilula,R,"Arts, entertainment and recreation",57,1.09,0.89,1.231,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+232,beograd,Palilula,S,Other service activities,65,1.24,1.03,1.202,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+233,beograd,Rakovica,A,"Agriculture, forestry and fishing",16,0.72,3.35,0.216,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+234,beograd,Rakovica,B,Mining and quarrying,2,0.09,0.34,0.269,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+235,beograd,Rakovica,C,Manufacturing,250,11.31,13.28,0.851,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+236,beograd,Rakovica,D,"Electricity, gas, steam and air conditioning",13,0.59,1.02,0.579,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+237,beograd,Rakovica,E,"Water supply, sewerage, waste management",7,0.32,0.66,0.481,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+238,beograd,Rakovica,F,Construction,218,9.86,10.27,0.96,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+239,beograd,Rakovica,G,Wholesale and retail trade,679,30.71,27.07,1.134,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+240,beograd,Rakovica,H,Transportation and storage,144,6.51,7.0,0.93,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+241,beograd,Rakovica,I,Accommodation and food service (Hospitality),106,4.79,4.76,1.008,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+242,beograd,Rakovica,J,Information and communication (ICT),164,7.42,7.45,0.995,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+243,beograd,Rakovica,K,Financial and insurance activities,20,0.9,0.86,1.049,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+244,beograd,Rakovica,L,Real estate activities,50,2.26,2.56,0.884,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+245,beograd,Rakovica,M,"Professional, scientific and technical activities",301,13.61,12.82,1.062,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+246,beograd,Rakovica,N,Administrative and support service activities,158,7.15,5.28,1.353,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+247,beograd,Rakovica,P,Education,30,1.36,1.22,1.114,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+248,beograd,Rakovica,Q,Human health and social work,2,0.09,0.12,0.742,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+249,beograd,Rakovica,R,"Arts, entertainment and recreation",27,1.22,0.89,1.379,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+250,beograd,Rakovica,S,Other service activities,24,1.09,1.03,1.049,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+251,beograd,Savski venac,A,"Agriculture, forestry and fishing",41,0.78,3.35,0.233,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+252,beograd,Savski venac,B,Mining and quarrying,26,0.5,0.34,1.473,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+253,beograd,Savski venac,C,Manufacturing,334,6.36,13.28,0.479,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+254,beograd,Savski venac,D,"Electricity, gas, steam and air conditioning",95,1.81,1.02,1.782,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+255,beograd,Savski venac,E,"Water supply, sewerage, waste management",19,0.36,0.66,0.55,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+256,beograd,Savski venac,F,Construction,542,10.33,10.27,1.005,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+257,beograd,Savski venac,G,Wholesale and retail trade,1169,22.28,27.07,0.823,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+258,beograd,Savski venac,H,Transportation and storage,196,3.73,7.0,0.533,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+259,beograd,Savski venac,I,Accommodation and food service (Hospitality),427,8.14,4.76,1.71,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+260,beograd,Savski venac,J,Information and communication (ICT),525,10.0,7.45,1.342,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+261,beograd,Savski venac,K,Financial and insurance activities,93,1.77,0.86,2.055,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+262,beograd,Savski venac,L,Real estate activities,272,5.18,2.56,2.026,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+263,beograd,Savski venac,M,"Professional, scientific and technical activities",916,17.45,12.82,1.361,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+264,beograd,Savski venac,N,Administrative and support service activities,376,7.16,5.28,1.356,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+265,beograd,Savski venac,P,Education,59,1.12,1.22,0.923,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+266,beograd,Savski venac,Q,Human health and social work,8,0.15,0.12,1.251,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+267,beograd,Savski venac,R,"Arts, entertainment and recreation",85,1.62,0.89,1.829,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+268,beograd,Savski venac,S,Other service activities,65,1.24,1.03,1.197,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+269,beograd,Sopot,A,"Agriculture, forestry and fishing",3,1.18,3.35,0.352,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+270,beograd,Sopot,C,Manufacturing,56,22.05,13.28,1.66,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+271,beograd,Sopot,D,"Electricity, gas, steam and air conditioning",1,0.39,1.02,0.388,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+272,beograd,Sopot,E,"Water supply, sewerage, waste management",2,0.79,0.66,1.197,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+273,beograd,Sopot,F,Construction,31,12.2,10.27,1.188,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+274,beograd,Sopot,G,Wholesale and retail trade,63,24.8,27.07,0.916,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+275,beograd,Sopot,H,Transportation and storage,17,6.69,7.0,0.956,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+276,beograd,Sopot,I,Accommodation and food service (Hospitality),9,3.54,4.76,0.745,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+277,beograd,Sopot,J,Information and communication (ICT),11,4.33,7.45,0.581,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+278,beograd,Sopot,K,Financial and insurance activities,1,0.39,0.86,0.456,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+279,beograd,Sopot,L,Real estate activities,12,4.72,2.56,1.847,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+280,beograd,Sopot,M,"Professional, scientific and technical activities",30,11.81,12.82,0.921,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+281,beograd,Sopot,N,Administrative and support service activities,10,3.94,5.28,0.745,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+282,beograd,Sopot,P,Education,2,0.79,1.22,0.646,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+283,beograd,Sopot,Q,Human health and social work,1,0.39,0.12,3.232,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+284,beograd,Sopot,R,"Arts, entertainment and recreation",4,1.57,0.89,1.778,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+285,beograd,Sopot,S,Other service activities,1,0.39,1.03,0.381,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+286,beograd,Stari grad,A,"Agriculture, forestry and fishing",43,0.58,3.35,0.174,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+287,beograd,Stari grad,B,Mining and quarrying,17,0.23,0.34,0.684,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+288,beograd,Stari grad,C,Manufacturing,420,5.68,13.28,0.428,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+289,beograd,Stari grad,D,"Electricity, gas, steam and air conditioning",83,1.12,1.02,1.106,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+290,beograd,Stari grad,E,"Water supply, sewerage, waste management",8,0.11,0.66,0.165,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+291,beograd,Stari grad,F,Construction,492,6.66,10.27,0.648,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+292,beograd,Stari grad,G,Wholesale and retail trade,1564,21.16,27.07,0.782,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+293,beograd,Stari grad,H,Transportation and storage,157,2.12,7.0,0.303,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+294,beograd,Stari grad,I,Accommodation and food service (Hospitality),790,10.69,4.76,2.247,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+295,beograd,Stari grad,J,Information and communication (ICT),1025,13.87,7.45,1.861,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+296,beograd,Stari grad,K,Financial and insurance activities,116,1.57,0.86,1.82,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+297,beograd,Stari grad,L,Real estate activities,349,4.72,2.56,1.846,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+298,beograd,Stari grad,M,"Professional, scientific and technical activities",1437,19.45,12.82,1.517,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+299,beograd,Stari grad,N,Administrative and support service activities,551,7.46,5.28,1.411,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+300,beograd,Stari grad,P,Education,84,1.14,1.22,0.933,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+301,beograd,Stari grad,Q,Human health and social work,6,0.08,0.12,0.666,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+302,beograd,Stari grad,R,"Arts, entertainment and recreation",121,1.64,0.89,1.849,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+303,beograd,Stari grad,S,Other service activities,127,1.72,1.03,1.661,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+304,beograd,Čukarica,A,"Agriculture, forestry and fishing",27,0.6,3.35,0.18,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+305,beograd,Čukarica,B,Mining and quarrying,12,0.27,0.34,0.798,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+306,beograd,Čukarica,C,Manufacturing,494,11.04,13.28,0.831,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+307,beograd,Čukarica,D,"Electricity, gas, steam and air conditioning",14,0.31,1.02,0.308,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+308,beograd,Čukarica,E,"Water supply, sewerage, waste management",25,0.56,0.66,0.85,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+309,beograd,Čukarica,F,Construction,438,9.79,10.27,0.953,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+310,beograd,Čukarica,G,Wholesale and retail trade,1352,30.23,27.07,1.116,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+311,beograd,Čukarica,H,Transportation and storage,235,5.25,7.0,0.75,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+312,beograd,Čukarica,I,Accommodation and food service (Hospitality),243,5.43,4.76,1.142,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+313,beograd,Čukarica,J,Information and communication (ICT),385,8.61,7.45,1.155,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+314,beograd,Čukarica,K,Financial and insurance activities,28,0.63,0.86,0.726,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+315,beograd,Čukarica,L,Real estate activities,123,2.75,2.56,1.075,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+316,beograd,Čukarica,M,"Professional, scientific and technical activities",689,15.4,12.82,1.201,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+317,beograd,Čukarica,N,Administrative and support service activities,249,5.57,5.28,1.054,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+318,beograd,Čukarica,P,Education,48,1.07,1.22,0.881,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+319,beograd,Čukarica,Q,Human health and social work,7,0.16,0.12,1.285,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+320,beograd,Čukarica,R,"Arts, entertainment and recreation",46,1.03,0.89,1.161,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+321,beograd,Čukarica,S,Other service activities,58,1.3,1.03,1.254,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+322,beograd,Surčin,A,"Agriculture, forestry and fishing",43,3.47,3.35,1.036,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+323,beograd,Surčin,B,Mining and quarrying,4,0.32,0.34,0.961,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+324,beograd,Surčin,C,Manufacturing,136,10.99,13.28,0.827,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+325,beograd,Surčin,D,"Electricity, gas, steam and air conditioning",3,0.24,1.02,0.239,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+326,beograd,Surčin,E,"Water supply, sewerage, waste management",1,0.08,0.66,0.123,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+327,beograd,Surčin,F,Construction,162,13.09,10.27,1.274,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+328,beograd,Surčin,G,Wholesale and retail trade,409,33.04,27.07,1.22,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+329,beograd,Surčin,H,Transportation and storage,139,11.23,7.0,1.604,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+330,beograd,Surčin,I,Accommodation and food service (Hospitality),66,5.33,4.76,1.12,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+331,beograd,Surčin,J,Information and communication (ICT),25,2.02,7.45,0.271,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+332,beograd,Surčin,K,Financial and insurance activities,5,0.4,0.86,0.468,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+333,beograd,Surčin,L,Real estate activities,30,2.42,2.56,0.947,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+334,beograd,Surčin,M,"Professional, scientific and technical activities",105,8.48,12.82,0.661,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+335,beograd,Surčin,N,Administrative and support service activities,73,5.9,5.28,1.116,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+336,beograd,Surčin,P,Education,13,1.05,1.22,0.862,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+337,beograd,Surčin,Q,Human health and social work,2,0.16,0.12,1.326,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+338,beograd,Surčin,R,"Arts, entertainment and recreation",11,0.89,0.89,1.003,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+339,beograd,Surčin,S,Other service activities,11,0.89,1.03,0.859,Serbia APR national,openapi.apr.gov.rs (2026-10-31)
+340,sarajevo,Kanton Sarajevo (UKUPNO),A,"Agriculture, forestry and fishing",164,0.7,0.7,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+341,sarajevo,Kanton Sarajevo (UKUPNO),B,Mining and quarrying,26,0.11,0.11,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+342,sarajevo,Kanton Sarajevo (UKUPNO),C,Manufacturing,1348,5.79,5.79,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+343,sarajevo,Kanton Sarajevo (UKUPNO),D,"Electricity, gas, steam and air conditioning",158,0.68,0.68,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+344,sarajevo,Kanton Sarajevo (UKUPNO),E,"Water supply, sewerage, waste management",57,0.24,0.24,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+345,sarajevo,Kanton Sarajevo (UKUPNO),F,Construction,1118,4.8,4.8,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+346,sarajevo,Kanton Sarajevo (UKUPNO),G,Wholesale and retail trade,5275,22.65,22.65,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+347,sarajevo,Kanton Sarajevo (UKUPNO),H,Transportation and storage,555,2.38,2.38,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+348,sarajevo,Kanton Sarajevo (UKUPNO),I,Accommodation and food service (Hospitality),994,4.27,4.27,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+349,sarajevo,Kanton Sarajevo (UKUPNO),J,Information and communication (ICT),1120,4.81,4.81,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+350,sarajevo,Kanton Sarajevo (UKUPNO),K,Financial and insurance activities,169,0.73,0.73,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+351,sarajevo,Kanton Sarajevo (UKUPNO),L,Real estate activities,1519,6.52,6.52,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+352,sarajevo,Kanton Sarajevo (UKUPNO),M,"Professional, scientific and technical activities",2734,11.74,11.74,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+353,sarajevo,Kanton Sarajevo (UKUPNO),N,Administrative and support service activities,1220,5.24,5.24,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+354,sarajevo,Kanton Sarajevo (UKUPNO),O,Public administration and defence,292,1.25,1.25,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+355,sarajevo,Kanton Sarajevo (UKUPNO),P,Education,435,1.87,1.87,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+356,sarajevo,Kanton Sarajevo (UKUPNO),Q,Human health and social work,355,1.52,1.52,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+357,sarajevo,Kanton Sarajevo (UKUPNO),R,"Arts, entertainment and recreation",1355,5.82,5.82,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+358,sarajevo,Kanton Sarajevo (UKUPNO),S,Other service activities,4361,18.72,18.72,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+359,sarajevo,Kanton Sarajevo (UKUPNO),U,Activities of extraterritorial organisations,39,0.17,0.17,1.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+360,sarajevo,Centar Sarajevo,A,"Agriculture, forestry and fishing",26,0.44,0.7,0.622,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+361,sarajevo,Centar Sarajevo,B,Mining and quarrying,9,0.15,0.11,1.359,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+362,sarajevo,Centar Sarajevo,C,Manufacturing,193,3.25,5.79,0.562,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+363,sarajevo,Centar Sarajevo,D,"Electricity, gas, steam and air conditioning",42,0.71,0.68,1.043,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+364,sarajevo,Centar Sarajevo,E,"Water supply, sewerage, waste management",8,0.13,0.24,0.551,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+365,sarajevo,Centar Sarajevo,F,Construction,198,3.34,4.8,0.695,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+366,sarajevo,Centar Sarajevo,G,Wholesale and retail trade,1086,18.3,22.65,0.808,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+367,sarajevo,Centar Sarajevo,H,Transportation and storage,70,1.18,2.38,0.495,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+368,sarajevo,Centar Sarajevo,I,Accommodation and food service (Hospitality),251,4.23,4.27,0.991,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+369,sarajevo,Centar Sarajevo,J,Information and communication (ICT),401,6.76,4.81,1.405,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+370,sarajevo,Centar Sarajevo,K,Financial and insurance activities,64,1.08,0.73,1.487,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+371,sarajevo,Centar Sarajevo,L,Real estate activities,204,3.44,6.52,0.527,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+372,sarajevo,Centar Sarajevo,M,"Professional, scientific and technical activities",982,16.55,11.74,1.41,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+373,sarajevo,Centar Sarajevo,N,Administrative and support service activities,267,4.5,5.24,0.859,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+374,sarajevo,Centar Sarajevo,O,Public administration and defence,101,1.7,1.25,1.358,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+375,sarajevo,Centar Sarajevo,P,Education,95,1.6,1.87,0.857,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+376,sarajevo,Centar Sarajevo,Q,Human health and social work,102,1.72,1.52,1.128,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+377,sarajevo,Centar Sarajevo,R,"Arts, entertainment and recreation",398,6.71,5.82,1.153,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+378,sarajevo,Centar Sarajevo,S,Other service activities,1415,23.85,18.72,1.274,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+379,sarajevo,Centar Sarajevo,U,Activities of extraterritorial organisations,22,0.37,0.17,2.214,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+380,sarajevo,Hadžići,A,"Agriculture, forestry and fishing",24,3.65,0.7,5.181,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+381,sarajevo,Hadžići,B,Mining and quarrying,0,0.0,0.11,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+382,sarajevo,Hadžići,C,Manufacturing,89,13.53,5.79,2.337,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+383,sarajevo,Hadžići,D,"Electricity, gas, steam and air conditioning",7,1.06,0.68,1.568,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+384,sarajevo,Hadžići,E,"Water supply, sewerage, waste management",5,0.76,0.24,3.105,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+385,sarajevo,Hadžići,F,Construction,48,7.29,4.8,1.52,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+386,sarajevo,Hadžići,G,Wholesale and retail trade,115,17.48,22.65,0.772,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+387,sarajevo,Hadžići,H,Transportation and storage,30,4.56,2.38,1.914,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+388,sarajevo,Hadžići,I,Accommodation and food service (Hospitality),20,3.04,4.27,0.712,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+389,sarajevo,Hadžići,J,Information and communication (ICT),7,1.06,4.81,0.221,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+390,sarajevo,Hadžići,K,Financial and insurance activities,0,0.0,0.73,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+391,sarajevo,Hadžići,L,Real estate activities,78,11.85,6.52,1.818,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+392,sarajevo,Hadžići,M,"Professional, scientific and technical activities",31,4.71,11.74,0.401,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+393,sarajevo,Hadžići,N,Administrative and support service activities,36,5.47,5.24,1.045,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+394,sarajevo,Hadžići,O,Public administration and defence,19,2.89,1.25,2.304,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+395,sarajevo,Hadžići,P,Education,17,2.58,1.87,1.383,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+396,sarajevo,Hadžići,Q,Human health and social work,7,1.06,1.52,0.698,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+397,sarajevo,Hadžići,R,"Arts, entertainment and recreation",45,6.84,5.82,1.176,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+398,sarajevo,Hadžići,S,Other service activities,80,12.16,18.72,0.649,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+399,sarajevo,Hadžići,U,Activities of extraterritorial organisations,0,0.0,0.17,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+400,sarajevo,Ilidža,A,"Agriculture, forestry and fishing",41,0.88,0.7,1.254,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+401,sarajevo,Ilidža,B,Mining and quarrying,9,0.19,0.11,1.736,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+402,sarajevo,Ilidža,C,Manufacturing,338,7.28,5.79,1.257,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+403,sarajevo,Ilidža,D,"Electricity, gas, steam and air conditioning",24,0.52,0.68,0.762,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+404,sarajevo,Ilidža,E,"Water supply, sewerage, waste management",9,0.19,0.24,0.792,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+405,sarajevo,Ilidža,F,Construction,291,6.26,4.8,1.305,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+406,sarajevo,Ilidža,G,Wholesale and retail trade,1285,27.66,22.65,1.222,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+407,sarajevo,Ilidža,H,Transportation and storage,132,2.84,2.38,1.193,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+408,sarajevo,Ilidža,I,Accommodation and food service (Hospitality),180,3.88,4.27,0.908,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+409,sarajevo,Ilidža,J,Information and communication (ICT),134,2.88,4.81,0.6,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+410,sarajevo,Ilidža,K,Financial and insurance activities,13,0.28,0.73,0.386,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+411,sarajevo,Ilidža,L,Real estate activities,688,14.81,6.52,2.271,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+412,sarajevo,Ilidža,M,"Professional, scientific and technical activities",416,8.96,11.74,0.763,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+413,sarajevo,Ilidža,N,Administrative and support service activities,339,7.3,5.24,1.393,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+414,sarajevo,Ilidža,O,Public administration and defence,23,0.5,1.25,0.395,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+415,sarajevo,Ilidža,P,Education,75,1.61,1.87,0.865,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+416,sarajevo,Ilidža,Q,Human health and social work,46,0.99,1.52,0.65,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+417,sarajevo,Ilidža,R,"Arts, entertainment and recreation",169,3.64,5.82,0.625,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+418,sarajevo,Ilidža,S,Other service activities,433,9.32,18.72,0.498,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+419,sarajevo,Ilidža,U,Activities of extraterritorial organisations,0,0.0,0.17,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+420,sarajevo,Ilijaš,A,"Agriculture, forestry and fishing",21,4.09,0.7,5.803,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+421,sarajevo,Ilijaš,B,Mining and quarrying,1,0.19,0.11,1.743,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+422,sarajevo,Ilijaš,C,Manufacturing,85,16.54,5.79,2.858,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+423,sarajevo,Ilijaš,D,"Electricity, gas, steam and air conditioning",2,0.39,0.68,0.574,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+424,sarajevo,Ilijaš,E,"Water supply, sewerage, waste management",5,0.97,0.24,3.975,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+425,sarajevo,Ilijaš,F,Construction,16,3.11,4.8,0.649,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+426,sarajevo,Ilijaš,G,Wholesale and retail trade,94,18.29,22.65,0.808,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+427,sarajevo,Ilijaš,H,Transportation and storage,23,4.47,2.38,1.878,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+428,sarajevo,Ilijaš,I,Accommodation and food service (Hospitality),7,1.36,4.27,0.319,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+429,sarajevo,Ilijaš,J,Information and communication (ICT),5,0.97,4.81,0.202,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+430,sarajevo,Ilijaš,K,Financial and insurance activities,0,0.0,0.73,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+431,sarajevo,Ilijaš,L,Real estate activities,66,12.84,6.52,1.969,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+432,sarajevo,Ilijaš,M,"Professional, scientific and technical activities",21,4.09,11.74,0.348,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+433,sarajevo,Ilijaš,N,Administrative and support service activities,15,2.92,5.24,0.557,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+434,sarajevo,Ilijaš,O,Public administration and defence,20,3.89,1.25,3.104,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+435,sarajevo,Ilijaš,P,Education,14,2.72,1.87,1.459,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+436,sarajevo,Ilijaš,Q,Human health and social work,5,0.97,1.52,0.638,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+437,sarajevo,Ilijaš,R,"Arts, entertainment and recreation",30,5.84,5.82,1.003,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+438,sarajevo,Ilijaš,S,Other service activities,84,16.34,18.72,0.873,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+439,sarajevo,Ilijaš,U,Activities of extraterritorial organisations,0,0.0,0.17,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+440,sarajevo,Novi Grad Sarajevo,A,"Agriculture, forestry and fishing",17,0.42,0.7,0.597,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+441,sarajevo,Novi Grad Sarajevo,B,Mining and quarrying,2,0.05,0.11,0.443,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+442,sarajevo,Novi Grad Sarajevo,C,Manufacturing,247,6.1,5.79,1.055,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+443,sarajevo,Novi Grad Sarajevo,D,"Electricity, gas, steam and air conditioning",16,0.4,0.68,0.583,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+444,sarajevo,Novi Grad Sarajevo,E,"Water supply, sewerage, waste management",17,0.42,0.24,1.717,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+445,sarajevo,Novi Grad Sarajevo,F,Construction,225,5.56,4.8,1.159,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+446,sarajevo,Novi Grad Sarajevo,G,Wholesale and retail trade,1097,27.11,22.65,1.197,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+447,sarajevo,Novi Grad Sarajevo,H,Transportation and storage,172,4.25,2.38,1.784,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+448,sarajevo,Novi Grad Sarajevo,I,Accommodation and food service (Hospitality),119,2.94,4.27,0.689,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+449,sarajevo,Novi Grad Sarajevo,J,Information and communication (ICT),179,4.42,4.81,0.92,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+450,sarajevo,Novi Grad Sarajevo,K,Financial and insurance activities,21,0.52,0.73,0.715,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+451,sarajevo,Novi Grad Sarajevo,L,Real estate activities,146,3.61,6.52,0.553,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+452,sarajevo,Novi Grad Sarajevo,M,"Professional, scientific and technical activities",389,9.61,11.74,0.819,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+453,sarajevo,Novi Grad Sarajevo,N,Administrative and support service activities,202,4.99,5.24,0.953,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+454,sarajevo,Novi Grad Sarajevo,O,Public administration and defence,41,1.01,1.25,0.808,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+455,sarajevo,Novi Grad Sarajevo,P,Education,79,1.95,1.87,1.046,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+456,sarajevo,Novi Grad Sarajevo,Q,Human health and social work,61,1.51,1.52,0.989,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+457,sarajevo,Novi Grad Sarajevo,R,"Arts, entertainment and recreation",297,7.34,5.82,1.262,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+458,sarajevo,Novi Grad Sarajevo,S,Other service activities,717,17.72,18.72,0.947,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+459,sarajevo,Novi Grad Sarajevo,U,Activities of extraterritorial organisations,2,0.05,0.17,0.295,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+460,sarajevo,Novo Sarajevo,A,"Agriculture, forestry and fishing",12,0.28,0.7,0.397,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+461,sarajevo,Novo Sarajevo,B,Mining and quarrying,2,0.05,0.11,0.417,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+462,sarajevo,Novo Sarajevo,C,Manufacturing,183,4.26,5.79,0.736,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+463,sarajevo,Novo Sarajevo,D,"Electricity, gas, steam and air conditioning",34,0.79,0.68,1.166,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+464,sarajevo,Novo Sarajevo,E,"Water supply, sewerage, waste management",7,0.16,0.24,0.666,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+465,sarajevo,Novo Sarajevo,F,Construction,215,5.0,4.8,1.042,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+466,sarajevo,Novo Sarajevo,G,Wholesale and retail trade,937,21.8,22.65,0.963,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+467,sarajevo,Novo Sarajevo,H,Transportation and storage,67,1.56,2.38,0.654,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+468,sarajevo,Novo Sarajevo,I,Accommodation and food service (Hospitality),167,3.89,4.27,0.911,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+469,sarajevo,Novo Sarajevo,J,Information and communication (ICT),290,6.75,4.81,1.403,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+470,sarajevo,Novo Sarajevo,K,Financial and insurance activities,46,1.07,0.73,1.475,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+471,sarajevo,Novo Sarajevo,L,Real estate activities,154,3.58,6.52,0.549,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+472,sarajevo,Novo Sarajevo,M,"Professional, scientific and technical activities",615,14.31,11.74,1.219,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+473,sarajevo,Novo Sarajevo,N,Administrative and support service activities,208,4.84,5.24,0.924,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+474,sarajevo,Novo Sarajevo,O,Public administration and defence,48,1.12,1.25,0.891,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+475,sarajevo,Novo Sarajevo,P,Education,90,2.09,1.87,1.121,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+476,sarajevo,Novo Sarajevo,Q,Human health and social work,81,1.88,1.52,1.237,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+477,sarajevo,Novo Sarajevo,R,"Arts, entertainment and recreation",215,5.0,5.82,0.86,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+478,sarajevo,Novo Sarajevo,S,Other service activities,917,21.34,18.72,1.14,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+479,sarajevo,Novo Sarajevo,U,Activities of extraterritorial organisations,10,0.23,0.17,1.39,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+480,sarajevo,Stari Grad Sarajevo,A,"Agriculture, forestry and fishing",8,0.38,0.7,0.537,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+481,sarajevo,Stari Grad Sarajevo,B,Mining and quarrying,2,0.09,0.11,0.846,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+482,sarajevo,Stari Grad Sarajevo,C,Manufacturing,93,4.39,5.79,0.759,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+483,sarajevo,Stari Grad Sarajevo,D,"Electricity, gas, steam and air conditioning",20,0.94,0.68,1.393,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+484,sarajevo,Stari Grad Sarajevo,E,"Water supply, sewerage, waste management",1,0.05,0.24,0.193,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+485,sarajevo,Stari Grad Sarajevo,F,Construction,66,3.12,4.8,0.65,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+486,sarajevo,Stari Grad Sarajevo,G,Wholesale and retail trade,387,18.28,22.65,0.807,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+487,sarajevo,Stari Grad Sarajevo,H,Transportation and storage,24,1.13,2.38,0.476,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+488,sarajevo,Stari Grad Sarajevo,I,Accommodation and food service (Hospitality),215,10.16,4.27,2.38,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+489,sarajevo,Stari Grad Sarajevo,J,Information and communication (ICT),75,3.54,4.81,0.737,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+490,sarajevo,Stari Grad Sarajevo,K,Financial and insurance activities,22,1.04,0.73,1.432,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+491,sarajevo,Stari Grad Sarajevo,L,Real estate activities,90,4.25,6.52,0.652,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+492,sarajevo,Stari Grad Sarajevo,M,"Professional, scientific and technical activities",221,10.44,11.74,0.889,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+493,sarajevo,Stari Grad Sarajevo,N,Administrative and support service activities,113,5.34,5.24,1.019,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+494,sarajevo,Stari Grad Sarajevo,O,Public administration and defence,28,1.32,1.25,1.055,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+495,sarajevo,Stari Grad Sarajevo,P,Education,43,2.03,1.87,1.088,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+496,sarajevo,Stari Grad Sarajevo,Q,Human health and social work,39,1.84,1.52,1.209,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+497,sarajevo,Stari Grad Sarajevo,R,"Arts, entertainment and recreation",124,5.86,5.82,1.007,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+498,sarajevo,Stari Grad Sarajevo,S,Other service activities,541,25.56,18.72,1.365,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+499,sarajevo,Stari Grad Sarajevo,U,Activities of extraterritorial organisations,5,0.24,0.17,1.411,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+500,sarajevo,Trnovo,A,"Agriculture, forestry and fishing",6,6.59,0.7,9.365,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+501,sarajevo,Trnovo,B,Mining and quarrying,0,0.0,0.11,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+502,sarajevo,Trnovo,C,Manufacturing,2,2.2,5.79,0.38,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+503,sarajevo,Trnovo,D,"Electricity, gas, steam and air conditioning",6,6.59,0.68,9.721,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+504,sarajevo,Trnovo,E,"Water supply, sewerage, waste management",1,1.1,0.24,4.491,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+505,sarajevo,Trnovo,F,Construction,8,8.79,4.8,1.832,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+506,sarajevo,Trnovo,G,Wholesale and retail trade,4,4.4,22.65,0.194,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+507,sarajevo,Trnovo,H,Transportation and storage,0,0.0,2.38,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+508,sarajevo,Trnovo,I,Accommodation and food service (Hospitality),10,10.99,4.27,2.575,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+509,sarajevo,Trnovo,J,Information and communication (ICT),0,0.0,4.81,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+510,sarajevo,Trnovo,K,Financial and insurance activities,0,0.0,0.73,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+511,sarajevo,Trnovo,L,Real estate activities,2,2.2,6.52,0.337,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+512,sarajevo,Trnovo,M,"Professional, scientific and technical activities",2,2.2,11.74,0.187,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+513,sarajevo,Trnovo,N,Administrative and support service activities,6,6.59,5.24,1.259,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+514,sarajevo,Trnovo,O,Public administration and defence,2,2.2,1.25,1.753,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+515,sarajevo,Trnovo,P,Education,1,1.1,1.87,0.588,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+516,sarajevo,Trnovo,Q,Human health and social work,2,2.2,1.52,1.442,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+517,sarajevo,Trnovo,R,"Arts, entertainment and recreation",13,14.29,5.82,2.456,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+518,sarajevo,Trnovo,S,Other service activities,26,28.57,18.72,1.526,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+519,sarajevo,Trnovo,U,Activities of extraterritorial organisations,0,0.0,0.17,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+520,sarajevo,Vogošća,A,"Agriculture, forestry and fishing",9,0.91,0.7,1.29,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+521,sarajevo,Vogošća,B,Mining and quarrying,1,0.1,0.11,0.904,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+522,sarajevo,Vogošća,C,Manufacturing,118,11.91,5.79,2.058,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+523,sarajevo,Vogošća,D,"Electricity, gas, steam and air conditioning",7,0.71,0.68,1.041,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+524,sarajevo,Vogošća,E,"Water supply, sewerage, waste management",4,0.4,0.24,1.65,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+525,sarajevo,Vogošća,F,Construction,51,5.15,4.8,1.072,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+526,sarajevo,Vogošća,G,Wholesale and retail trade,270,27.25,22.65,1.203,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+527,sarajevo,Vogošća,H,Transportation and storage,37,3.73,2.38,1.567,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+528,sarajevo,Vogošća,I,Accommodation and food service (Hospitality),25,2.52,4.27,0.591,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+529,sarajevo,Vogošća,J,Information and communication (ICT),29,2.93,4.81,0.609,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+530,sarajevo,Vogošća,K,Financial and insurance activities,3,0.3,0.73,0.417,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+531,sarajevo,Vogošća,L,Real estate activities,91,9.18,6.52,1.408,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+532,sarajevo,Vogošća,M,"Professional, scientific and technical activities",57,5.75,11.74,0.49,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+533,sarajevo,Vogošća,N,Administrative and support service activities,34,3.43,5.24,0.655,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+534,sarajevo,Vogošća,O,Public administration and defence,10,1.01,1.25,0.805,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+535,sarajevo,Vogošća,P,Education,21,2.12,1.87,1.135,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+536,sarajevo,Vogošća,Q,Human health and social work,12,1.21,1.52,0.795,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+537,sarajevo,Vogošća,R,"Arts, entertainment and recreation",64,6.46,5.82,1.11,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+538,sarajevo,Vogošća,S,Other service activities,148,14.93,18.72,0.798,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+539,sarajevo,Vogošća,U,Activities of extraterritorial organisations,0,0.0,0.17,0.0,Kanton Sarajevo FZS 2024,FZS Kanton Sarajevo u brojkama 2025/2026
+540,travnik,Travnik,A,"Agriculture, forestry and fishing",28,2.39,2.62,0.913,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+541,travnik,Travnik,B,Mining and quarrying,3,0.26,0.52,0.489,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+542,travnik,Travnik,C,Manufacturing,157,13.4,14.81,0.904,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+543,travnik,Travnik,D,"Electricity, gas, steam and air conditioning",14,1.19,1.4,0.856,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+544,travnik,Travnik,E,"Water supply, sewerage, waste management",6,0.51,0.84,0.611,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+545,travnik,Travnik,F,Construction,40,3.41,3.37,1.013,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+546,travnik,Travnik,G,Wholesale and retail trade,157,13.4,18.55,0.722,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+547,travnik,Travnik,H,Transportation and storage,49,4.18,4.69,0.891,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+548,travnik,Travnik,I,Accommodation and food service (Hospitality),37,3.16,1.95,1.615,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+549,travnik,Travnik,J,Information and communication (ICT),14,1.19,1.27,0.938,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+550,travnik,Travnik,K,Financial and insurance activities,2,0.17,0.1,1.63,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+551,travnik,Travnik,L,Real estate activities,12,1.02,0.99,1.029,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+552,travnik,Travnik,M,"Professional, scientific and technical activities",39,3.33,3.07,1.084,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+553,travnik,Travnik,N,Administrative and support service activities,18,1.54,1.2,1.276,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+554,travnik,Travnik,O,Public administration and defence,59,5.03,4.45,1.131,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+555,travnik,Travnik,P,Education,52,4.44,3.05,1.453,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+556,travnik,Travnik,Q,Human health and social work,40,3.41,2.86,1.193,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+557,travnik,Travnik,R,"Arts, entertainment and recreation",119,10.15,10.17,0.998,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+558,travnik,Travnik,S,Other service activities,326,27.82,24.06,1.156,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025
+559,travnik,Travnik,U,Activities of extraterritorial organisations,0,0.0,0.0,,SBK FZS 2024,FZS Srednjobosanski kanton u brojkama 2025

@@ -1,0 +1,14 @@
+# Podaci koji ne idu u git (videti docs/PODACI.md)
+urban_lab_db/raw/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.scratch/
+
+# Izvedeno i lokalno
+__pycache__/
+*.pyc
+node_modules/
+urban_lab_app/tests/api_smoke_result.json
+.env
+.env.*

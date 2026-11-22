@@ -1,0 +1,40 @@
+import json
+import sys
+import time
+import urllib.parse
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).parent))
+from common_net import RAW_DIR, fetch_url
+
+EP = "https://overpass.private.coffee/api/interpreter"
+TARGETS = [
+    ("travnik",    "Travnik",    44.2264, 17.6658, 3500),
+    ("novi_pazar", "Novi Pazar", 43.1367, 20.5122, 4000),
+    ("sarajevo",   "Sarajevo",   43.8590, 18.4290, 6500),
+    ("zagreb",     "Zagreb",     45.8131, 15.9775, 5500),
+]
+for cid, cname, lat, lon, rad in TARGETS:
+    dest = RAW_DIR / cid / f"osm_economic_pois_{cid}.json"
+    if dest.exists() and dest.stat().st_size > 2000:
+        continue
+    ql = f"""[out:json][timeout:18];
+(
+  node["shop"](around:{rad},{lat},{lon});
+  node["office"](around:{rad},{lat},{lon});
+  node["craft"](around:{rad},{lat},{lon});
+  node["amenity"~"^(restaurant|cafe|bar|fast_food|bank|atm|school|university|hospital|clinic|pharmacy|townhall|post_office|bus_station)$"](around:{rad},{lat},{lon});
+  node["tourism"~"^(hotel|hostel|museum)$"](around:{rad},{lat},{lon});
+  node["railway"~"^(station|tram_stop)$"](around:{rad},{lat},{lon});
+);
+out tags;"""
+    payload = urllib.parse.urlencode({"data": ql}).encode("utf-8")
+    r = fetch_url(EP, dest=dest, city=cid, layer="osm_economic_pois",
+                  source_name=f"OSM Overpass Economic POIs ({cname}, r={rad}m)",
+                  timeout=22, headers={"Content-Type": "application/x-www-form-urlencoded"},
+                  data=payload, retries=0)
+    if r["ok"] and r.get("bytes", 0) > 200:
+        obj = json.loads(r["_bytes"].decode("utf-8"))
+        print(f"[OSM-ALT] {cid}: OK {len(obj.get('elements',[]))} POIs ({r['bytes']:,} B) in {r['elapsed_s']}s")
+    else:
+        print(f"[OSM-ALT] {cid}: FAIL {r.get('error')}")
+    time.sleep(1.5)

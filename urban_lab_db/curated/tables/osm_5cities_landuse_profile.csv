@@ -1,0 +1,6 @@
+﻿city_id,total_polygons,mapped_area_km2,forest_km2,agriculture_km2,industrial_km2,commercial_retail_km2,residential_km2,quarry_km2
+beograd,49140,5270.22,1085.43,3257.36,54.9,12.62,560.94,66.44
+sarajevo,10979,3931.88,2950.37,766.96,9.08,2.12,99.75,8.8
+travnik,4556,3105.11,2170.32,852.38,7.93,1.61,51.83,3.46
+zagreb,112844,3058.11,1707.79,840.12,24.4,19.01,264.41,2.24
+novi_pazar,2577,1875.04,1696.91,73.3,2.04,0.12,34.92,1.58

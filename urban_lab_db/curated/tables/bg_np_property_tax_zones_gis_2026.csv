@@ -1,0 +1,22 @@
+﻿city_id,zone_name,zone_rank,polygon_count,total_area_km2,pop_2022_settlements,stan_eur_m2,kuca_eur_m2,poslovne_eur_m2,gradj_zem_eur_m2,polj_zem_eur_m2,sumsko_zem_eur_m2,geometry_bases,geojson_file
+beograd,Prva zona - Ekstra zona poslovanja,0,4,4.08,,2270.61,1858.04,3071.19,685.18,,,digitized_from_official_gazette_street_block_bounds,beograd_poreske_zone_2026.geojson
+beograd,Prva zona - Ekstra zona stanovanja,0,2,5.06,,2346.45,2117.19,1879.01,688.55,,,digitized_from_official_gazette_street_block_bounds,beograd_poreske_zone_2026.geojson
+beograd,Prva zona,1,5,50.82,136842,2172.29,1858.04,2290.41,685.18,,,digitized_from_official_gazette_street_block_bounds; official_rzs_settlement_urban_base,beograd_poreske_zone_2026.geojson
+beograd,Druga zona,2,7,289.08,842533,1609.69,1343.34,1734.47,288.81,4.56,,digitized_from_official_gazette_street_block_bounds; official_rzs_settlement_urban_base,beograd_poreske_zone_2026.geojson
+beograd,Treća zona,3,4,148.7,218339,1174.9,912.47,1181.4,98.31,4.56,1.56,digitized_from_official_gazette_street_block_bounds; official_rzs_settlement_urban_base,beograd_poreske_zone_2026.geojson
+beograd,Četvrta zona,4,3,8.6,,985.52,659.77,979.16,42.69,4.56,1.56,digitized_from_official_gazette_street_block_bounds,beograd_poreske_zone_2026.geojson
+beograd,Peta zona,5,9,429.76,124507,885.27,572.09,824.13,29.27,2.97,1.56,official_rzs_settlement_polygon_exact_ko; official_rzs_settlement_polygon_muni_default,beograd_poreske_zone_2026.geojson
+beograd,Šesta zona,6,29,444.49,194259,675.04,439.74,671.91,17.21,1.76,1.56,official_rzs_settlement_polygon_exact_ko,beograd_poreske_zone_2026.geojson
+beograd,Sedma zona,7,39,735.08,91126,588.27,402.67,504.31,11.71,1.03,1.15,official_rzs_settlement_polygon_exact_ko,beograd_poreske_zone_2026.geojson
+beograd,Osma zona,8,79,1229.74,73799,412.46,317.26,385.24,8.33,0.79,0.75,official_rzs_settlement_polygon_exact_ko; official_rzs_settlement_polygon_muni_default,beograd_poreske_zone_2026.geojson
+beograd,Zona zaštite zelenila 1,9,3,28.18,,1377.88,1243.81,1526.88,175.26,4.0,1.15,digitized_from_official_gazette_street_block_bounds,beograd_poreske_zone_2026.geojson
+beograd,Zona zaštite zelenila 2,10,2,20.17,,640.26,432.94,596.39,16.63,1.63,1.15,digitized_from_official_gazette_street_block_bounds,beograd_poreske_zone_2026.geojson
+beograd,Zona ulaznih pravaca,11,4,58.67,,986.45,785.48,1389.62,66.27,4.56,1.36,digitized_from_official_gazette_street_block_bounds,beograd_poreske_zone_2026.geojson
+beograd,Zona specifičnih namena,12,2,141.36,,640.26,432.94,520.49,12.42,1.19,1.15,digitized_from_official_gazette_street_block_bounds,beograd_poreske_zone_2026.geojson
+novi_pazar,I zona,1,1,0.89,,1089.31,980.38,2132.67,326.79,18.71,16.4,digitized_from_official_gazette_street_bounds,novi_pazar_poreske_zone_2026.geojson
+novi_pazar,II zona,2,1,4.85,,788.9,700.28,1523.33,315.93,10.69,9.38,digitized_from_official_gazette_street_bounds,novi_pazar_poreske_zone_2026.geojson
+novi_pazar,III zona,3,1,12.69,,622.48,561.98,1218.66,186.72,5.98,5.2,digitized_from_official_gazette_street_bounds,novi_pazar_poreske_zone_2026.geojson
+novi_pazar,IV zona,4,1,26.31,,414.96,362.45,812.46,124.49,3.63,3.19,digitized_from_official_gazette_street_bounds,novi_pazar_poreske_zone_2026.geojson
+novi_pazar,V zona,5,6,34.19,81428,276.64,248.98,542.26,82.99,2.1,1.84,official_rzs_settlement_polygon_exact; official_rzs_settlement_urban_base_outer_v_zona,novi_pazar_poreske_zone_2026.geojson
+novi_pazar,VI zona,6,19,141.31,17935,181.55,163.4,355.45,70.93,0.6,0.52,official_rzs_settlement_polygon_exact,novi_pazar_poreske_zone_2026.geojson
+novi_pazar,VII zona,7,74,566.04,7357,104.39,107.0,204.37,31.32,0.26,0.23,official_rzs_settlement_polygon_exact,novi_pazar_poreske_zone_2026.geojson

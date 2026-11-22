@@ -1,0 +1,121 @@
+﻿id,country_iso3,indicator_id,indicator_name,year,value
+1,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,1.73592901689708
+2,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,1.80756356165183
+3,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,1.80920280030081
+4,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,1.85932587706093
+5,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,1.65360615435867
+6,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,1.71697049519218
+7,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,1.74708646136072
+8,BIH,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,1.65698544113543
+9,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,0.88496895841236
+10,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,0.923889546117607
+11,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,0.924839558470698
+12,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,7.1597415
+13,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,6.36008316666667
+14,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,6.6140555
+15,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,6.62254516666667
+16,HRV,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,6.27902525
+17,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2025,103.9754
+18,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2024,108.207741666666
+19,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2023,108.402691666666
+20,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2022,111.662183333333
+21,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2021,99.3959416666666
+22,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2020,103.163291666666
+23,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2019,105.249558333333
+24,SRB,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)",2018,100.175075
+25,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2025,25814.2641520511
+26,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2024,25148.0128390147
+27,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2023,23376.3069324282
+28,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2022,21651.3043527017
+29,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2021,18286.6614977175
+30,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2020,16369.9392465531
+31,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2019,16428.7132755213
+32,BIH,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2018,14858.6247595644
+33,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2025,50946.1671131832
+34,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2024,49550.8073348367
+35,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2023,47759.6272293173
+36,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2022,42125.1926231817
+37,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2021,36930.076102199
+38,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2020,31594.0082486835
+39,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2019,33063.9987060793
+40,HRV,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2018,29789.4340021154
+41,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2025,33909.7605745332
+42,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2024,32832.274492238
+43,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2023,29776.9743496564
+44,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2022,26142.9143111159
+45,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2021,23406.3065657117
+46,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2020,21013.0562995823
+47,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2019,20587.2567440786
+48,SRB,NY.GDP.PCAP.PP.CD,"GDP per capita, PPP (current international $)",2018,18469.1042989985
+49,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,10381.8460703874
+50,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,9397.90942855997
+51,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,8663.02326458629
+52,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,7655.59421024383
+53,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,7295.34378682258
+54,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,6130.31187968266
+55,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,6122.37541352353
+56,BIH,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,6047.84707207392
+57,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,27103.9116109268
+58,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,24049.9441746337
+59,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,22183.4982258492
+60,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,18465.531473659
+61,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,17788.7601163765
+62,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,14807.5559227544
+63,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,15563.7354996625
+64,HRV,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,15460.4560798984
+65,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2025,15262.0464193413
+66,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2024,13677.7794863909
+67,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2023,12281.707946167
+68,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2022,10024.8191112596
+69,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2021,9680.52798074468
+70,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2020,8098.70955668849
+71,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2019,7755.632986437
+72,SRB,NY.GDP.PCAP.CD,GDP per capita (current US$),2018,7559.86165747394
+73,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,3.97821271880433
+74,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,1.69212733599715
+75,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,6.10590112848287
+76,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,14.020844082677
+77,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,1.98163900587621
+78,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,-1.05129600763489
+79,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.562782154061229
+80,BIH,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.41710814018033
+81,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,3.69153459605728
+82,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,2.97200477643625
+83,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,7.94128177586822
+84,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,10.7805806758686
+85,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,2.5545069964204
+86,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,0.154811374562106
+87,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,0.771820346498111
+88,HRV,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.50012501041747
+89,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2025,3.89036786060009
+90,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2024,4.6705297488997
+91,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2023,12.3719043552519
+92,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2022,11.9815117344702
+93,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2021,4.08510285335102
+94,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2020,1.57553290083414
+95,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2019,1.84922984511086
+96,SRB,FP.CPI.TOTL.ZG,"Inflation, consumer prices (annual %)",2018,1.959840762938
+97,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,11.037
+98,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,10.69
+99,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,10.668
+100,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,12.657
+101,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,14.897
+102,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,15.868
+103,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,15.692
+104,BIH,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,18.4
+105,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,5.002
+106,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,5.0
+107,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,6.121
+108,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,6.811
+109,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,7.483
+110,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,7.389
+111,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,6.551
+112,HRV,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,8.322
+113,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2025,7.123
+114,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2024,7.24
+115,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2023,8.268
+116,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2022,8.439
+117,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2021,9.843
+118,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2020,9.011
+119,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2019,10.395
+120,SRB,SL.UEM.TOTL.ZS,"Unemployment, total (% of total labor force) (modeled ILO estimate)",2018,12.733

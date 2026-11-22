@@ -1,0 +1,6 @@
+﻿city_id,city_name,country_iso,flour_t500_eur_kg,firewood_hardwood_eur_prm,elec_eur_kwh_small,min_wage_gross_eur,commercial_rent_eur_m2_month,vat_bread_pct,monthly_flour_eur,monthly_wood_eur,monthly_elec_eur,monthly_labor_eur,monthly_rent_eur,monthly_total_cost_eur,bread_500g_retail_eur,breakeven_loaves_per_day,cost_share_flour_pct,cost_share_labor_pct,cost_share_rent_pct,osm_bakeries_in_region
+zagreb,Zagreb,HRV,0.4,75.0,0.222,1050.0,22.0,5.0,2640.0,900.0,399.6,5871.6,1320.0,11840.33,1.45,286,22.3,49.6,11.1,426
+sarajevo,Sarajevo,BIH,0.55,56.0,0.1383,825.0,16.0,17.0,3630.0,672.0,248.94,4375.8,960.0,10705.91,1.02,410,33.9,40.9,9.0,134
+travnik,Travnik,BIH,0.55,45.0,0.1383,825.0,9.0,17.0,3630.0,540.0,248.94,4375.8,540.0,10130.15,0.92,430,35.8,43.2,5.3,26
+beograd,Beograd,SRB,0.29,78.0,0.156,744.0,18.0,10.0,1914.0,936.0,280.8,4112.24,1080.0,8886.58,0.7,466,21.5,46.3,12.2,575
+novi_pazar,Novi Pazar,SRB,0.33,52.0,0.156,744.0,14.0,10.0,2178.0,624.0,280.8,4112.24,840.0,8589.94,0.65,485,25.4,47.9,9.8,9

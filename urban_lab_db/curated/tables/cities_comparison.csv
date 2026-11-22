@@ -1,0 +1,6 @@
+﻿city_id,name,country_iso3,currency,population,population_year,area_km2,density_per_km2,budget_2026_eur_m,budget_per_capita_eur,avg_net_wage_eur,avg_apt_price_eur_m2,affordability_m2_per_wage,years_wage_for_55m2,registered_companies
+beograd,Beograd,SRB,RSD,1681405,2022,3222.68,521.7,1755.44,1044.03,1278.44,2172.29,0.589,7.79,64715
+zagreb,Zagreb,HRV,EUR,767131,2021,641.24,1196.3,3154.0,4111.42,1760.0,3518.0,0.5,9.16,
+sarajevo,Sarajevo,BIH,BAM,421531,2024,1276.9,330.1,1021.86,2424.17,871.24,1994.04,0.437,10.49,23336
+novi_pazar,Novi Pazar,SRB,RSD,106720,2022,742.0,143.8,44.87,420.46,797.25,1089.31,0.732,6.26,1325
+travnik,Travnik,BIH,BAM,50970,2024,529.0,96.4,20.4,400.25,591.05,823.18,0.718,6.38,1172

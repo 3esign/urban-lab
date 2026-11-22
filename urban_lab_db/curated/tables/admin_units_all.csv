@@ -1,0 +1,363 @@
+﻿id,city_id,unit_code,unit_name,admin_level,parent_name,population,population_year,area_km2,density_per_km2,employees,avg_net_wage_local,avg_net_wage_eur,companies_count,companies_rev_local_k,companies_rev_eur_m,avg_apt_price_local_m2,avg_apt_price_eur_m2,centroid_lon,centroid_lat,dist_cbd_km,source_note
+1,beograd,70165,Lazarevac,municipality,Grad Beograd,55146,2022,383.72,143.7,5273,123704.0,1057.3,513,40555937.0,346.63,,,20.29453,44.39458,48.68,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+2,beograd,70254,Čukarica,municipality,Grad Beograd,175793,2022,157.17,1118.5,25150,141158.0,1206.48,4473,518111103.0,4428.3,,,20.40145,44.6809,15.74,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+3,beograd,70092,Barajevo,municipality,Grad Beograd,26431,2022,213.19,124.0,1957,106662.0,911.64,349,19770863.0,168.98,,,20.38714,44.56564,28.45,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+4,beograd,70106,Voždovac,municipality,Grad Beograd,174864,2022,148.48,1177.7,35549,154729.0,1322.47,5814,622301884.0,5318.82,,,20.5142,44.68614,15.08,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+5,beograd,70238,Sopot,municipality,Grad Beograd,19126,2022,270.81,70.6,1505,105697.0,903.39,254,14924467.0,127.56,,,20.54006,44.50868,34.77,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+6,beograd,70211,Rakovica,municipality,Grad Beograd,104456,2022,30.04,3477.2,11636,133742.0,1143.09,2211,169776977.0,1451.09,,,20.45462,44.72448,10.21,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+7,beograd,70114,Vračar,municipality,Grad Beograd,55406,2022,2.89,19171.6,35845,196384.0,1678.5,5089,564489342.0,4824.7,,,20.47587,44.79819,2.35,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+8,beograd,70181,Novi Beograd,municipality,Grad Beograd,209763,2022,40.77,5145.0,183728,188455.0,1610.73,12847,3678698934.0,31441.87,,,20.39017,44.81252,5.54,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+9,beograd,70190,Obrenovac,municipality,Grad Beograd,68882,2022,410.68,167.7,16048,115686.0,988.77,803,120437687.0,1029.38,,,20.15655,44.57362,36.11,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+10,beograd,70149,Zvezdara,municipality,Grad Beograd,172625,2022,31.15,5541.7,31452,152706.0,1305.18,5521,388072206.0,3316.86,,,20.53153,44.77673,7.14,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+11,beograd,70203,Palilula,municipality,Grad Beograd,182624,2022,451.82,404.2,57015,134793.0,1152.08,5227,791671798.0,6766.43,,,20.51782,44.88799,9.18,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+12,beograd,70122,Grocka,municipality,Grad Beograd,82810,2022,299.36,276.6,7253,108065.0,923.63,1206,105976676.0,905.78,,,20.67572,44.64536,25.51,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+13,beograd,70173,Mladenovac,municipality,Grad Beograd,48683,2022,338.88,143.7,2574,102456.0,875.69,495,32034367.0,273.8,,,20.72824,44.43767,47.13,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+14,beograd,71293,Surčin,municipality,Grad Beograd,45452,2022,288.28,157.7,18618,112075.0,957.91,1238,367882103.0,3144.29,,,20.20051,44.74975,21.79,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+15,beograd,70220,Savski venac,municipality,Grad Beograd,36699,2022,14.1,2602.8,55634,195256.0,1668.85,5248,977251331.0,8352.58,,,20.45083,44.78119,3.96,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+16,beograd,70157,Zemun,municipality,Grad Beograd,177908,2022,149.86,1187.2,62774,138780.0,1186.15,6037,1128885779.0,9648.6,,,20.29185,44.85784,14.06,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+17,beograd,70246,Stari grad,municipality,Grad Beograd,44737,2022,5.43,8238.9,68642,213244.0,1822.6,7390,1378344535.0,11780.72,,,20.46526,44.82036,0.61,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+18,novi_pazar,70874,Novi Pazar,city,Grad Novi Pazar,106720,2022,742.0,143.8,7561,93278.0,797.25,1325,78334269.0,669.52,127449.0,1089.31,20.46027,43.14651,0.0,RZS Popis 2022 + RZS zarade jul 2026 + APR RGFI
+19,novi_pazar,729990,ALULOVIĆE,settlement,Novi Pazar,280,2022,,,,,,,,,,,20.46256,43.22259,10.36,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+20,novi_pazar,730009,BAJEVICA,settlement,Novi Pazar,730,2022,,,,,,,,,,,20.46266,43.09738,5.94,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+21,novi_pazar,730017,BANJA,settlement,Novi Pazar,576,2022,,,,,,,,,,,20.55205,43.15849,4.04,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+22,novi_pazar,730025,BARE,settlement,Novi Pazar,10,2022,,,,,,,,,,,20.64501,43.06588,13.35,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+23,novi_pazar,730033,BATNJIK,settlement,Novi Pazar,33,2022,,,,,,,,,,,20.57648,43.21002,9.68,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+24,novi_pazar,730041,BEKOVA,settlement,Novi Pazar,52,2022,,,,,,,,,,,20.4691,43.26344,14.52,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+25,novi_pazar,730050,BELE VODE,settlement,Novi Pazar,948,2022,,,,,,,,,,,20.25598,43.23225,23.33,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+26,novi_pazar,730068,BOTUROVINA,settlement,Novi Pazar,206,2022,,,,,,,,,,,20.49273,43.17212,4.24,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+27,novi_pazar,730076,BRĐANI,settlement,Novi Pazar,64,2022,,,,,,,,,,,20.58695,43.083,8.51,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+28,novi_pazar,730084,BRESTOVO,settlement,Novi Pazar,3,2022,,,,,,,,,,,20.59277,43.13717,6.54,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+29,novi_pazar,730092,VAREVO,settlement,Novi Pazar,786,2022,,,,,,,,,,,20.47036,43.1324,3.43,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+30,novi_pazar,730106,VEVER,settlement,Novi Pazar,19,2022,,,,,,,,,,,20.36551,43.19332,13.46,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+31,novi_pazar,730114,VIDOVO,settlement,Novi Pazar,69,2022,,,,,,,,,,,20.46235,43.16293,4.99,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+32,novi_pazar,730122,VITKOVIĆE,settlement,Novi Pazar,40,2022,,,,,,,,,,,20.54431,42.98239,17.36,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+33,novi_pazar,730149,VOJKOVIĆE,settlement,Novi Pazar,8,2022,,,,,,,,,,,20.56884,43.03835,11.86,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+34,novi_pazar,730157,VOJNIĆE,settlement,Novi Pazar,133,2022,,,,,,,,,,,20.48134,43.15956,3.57,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+35,novi_pazar,730165,VRANOVINA,settlement,Novi Pazar,229,2022,,,,,,,,,,,20.44521,43.2412,12.83,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+36,novi_pazar,730173,VUČINIĆE,settlement,Novi Pazar,141,2022,,,,,,,,,,,20.34382,43.16368,13.99,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+37,novi_pazar,730181,VUČJA LOKVA,settlement,Novi Pazar,0,2022,,,,,,,,,,,20.68021,43.11266,13.89,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+38,novi_pazar,730190,GOLICE,settlement,Novi Pazar,34,2022,,,,,,,,,,,20.53076,43.22739,10.2,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+39,novi_pazar,730203,GORNJA TUŠIMLJA,settlement,Novi Pazar,12,2022,,,,,,,,,,,20.4974,43.23977,11.52,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+40,novi_pazar,730211,GOŠEVO,settlement,Novi Pazar,33,2022,,,,,,,,,,,20.3473,43.21669,16.06,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+41,novi_pazar,730220,GRAĐANOVIĆE,settlement,Novi Pazar,14,2022,,,,,,,,,,,20.58994,43.18036,7.96,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+42,novi_pazar,730238,GRAČANE,settlement,Novi Pazar,8,2022,,,,,,,,,,,20.36388,43.13717,12.03,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+43,novi_pazar,730246,GRUBETIĆE,settlement,Novi Pazar,64,2022,,,,,,,,,,,20.54427,43.01983,13.25,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+44,novi_pazar,730254,DEŽEVA,settlement,Novi Pazar,301,2022,,,,,,,,,,,20.48116,43.19934,7.41,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+45,novi_pazar,730262,DOJINOVIĆE,settlement,Novi Pazar,49,2022,,,,,,,,,,,20.37962,43.19736,12.69,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+46,novi_pazar,730289,DOLAC,settlement,Novi Pazar,109,2022,,,,,,,,,,,20.49993,43.19797,6.89,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+47,novi_pazar,730297,DOLJANI,settlement,Novi Pazar,71,2022,,,,,,,,,,,20.37857,43.12032,11.0,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+48,novi_pazar,730319,DRAGOČEVO,settlement,Novi Pazar,49,2022,,,,,,,,,,,20.52539,43.00321,14.88,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+49,novi_pazar,730327,DRAMIĆE,settlement,Novi Pazar,39,2022,,,,,,,,,,,20.38736,43.26429,17.43,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+50,novi_pazar,730335,ŽUNJEVIĆE,settlement,Novi Pazar,154,2022,,,,,,,,,,,20.49699,43.03478,11.4,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+51,novi_pazar,730343,ZABRĐE,settlement,Novi Pazar,16,2022,,,,,,,,,,,20.39452,43.13392,9.55,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+52,novi_pazar,730351,ZLATARE,settlement,Novi Pazar,4,2022,,,,,,,,,,,20.62748,43.01418,16.53,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+53,novi_pazar,730360,IVANČA,settlement,Novi Pazar,1417,2022,,,,,,,,,,,20.45847,43.14635,4.49,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+54,novi_pazar,730378,IZBICE,settlement,Novi Pazar,1886,2022,,,,,,,,,,,20.57083,43.12536,4.92,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+55,novi_pazar,730386,JABLANICA,settlement,Novi Pazar,7,2022,,,,,,,,,,,20.60085,43.19098,9.39,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+56,novi_pazar,730394,JAVOR,settlement,Novi Pazar,4,2022,,,,,,,,,,,20.61211,43.02752,14.6,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+57,novi_pazar,730408,JANČA,settlement,Novi Pazar,299,2022,,,,,,,,,,,20.28884,43.21962,20.32,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+58,novi_pazar,730416,JOVA,settlement,Novi Pazar,0,2022,,,,,,,,,,,20.60629,43.15928,8.04,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+59,novi_pazar,730424,KAŠALJ,settlement,Novi Pazar,10,2022,,,,,,,,,,,20.6455,43.04063,15.21,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+60,novi_pazar,730432,KOVAČEVO,settlement,Novi Pazar,235,2022,,,,,,,,,,,20.4248,43.21714,11.41,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+61,novi_pazar,730459,KOŽLJE,settlement,Novi Pazar,443,2022,,,,,,,,,,,20.46134,43.0254,13.05,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+62,novi_pazar,730467,KOPRIVNICA,settlement,Novi Pazar,75,2022,,,,,,,,,,,20.56056,43.19994,8.05,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+63,novi_pazar,730475,KOSURIĆE,settlement,Novi Pazar,93,2022,,,,,,,,,,,20.46348,43.18675,6.83,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+64,novi_pazar,730483,KRUŠEVO,settlement,Novi Pazar,401,2022,,,,,,,,,,,20.45455,43.06019,9.71,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+65,novi_pazar,730491,KUZMIČEVO,settlement,Novi Pazar,70,2022,,,,,,,,,,,20.36729,43.25452,17.6,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+66,novi_pazar,730505,LEČA,settlement,Novi Pazar,265,2022,,,,,,,,,,,20.53922,43.08253,6.41,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+67,novi_pazar,730513,LOPUŽNJE,settlement,Novi Pazar,9,2022,,,,,,,,,,,20.64686,43.09186,12.01,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+68,novi_pazar,730521,LUKARE,settlement,Novi Pazar,437,2022,,,,,,,,,,,20.4626,43.07898,7.58,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+69,novi_pazar,730530,LUKARSKO GOŠEVO,settlement,Novi Pazar,896,2022,,,,,,,,,,,20.50098,43.06933,7.55,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+70,novi_pazar,730548,LUKOCREVO,settlement,Novi Pazar,140,2022,,,,,,,,,,,20.4502,43.12561,5.18,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+71,novi_pazar,730556,MIŠČIĆE,settlement,Novi Pazar,134,2022,,,,,,,,,,,20.49651,43.1863,5.66,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+72,novi_pazar,730564,MUR,settlement,Novi Pazar,4818,2022,,,,,,,,,,,20.49798,43.11114,3.07,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+73,novi_pazar,730572,MUHOVO,settlement,Novi Pazar,316,2022,,,,,,,,,,,20.29101,43.27584,23.68,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+74,novi_pazar,730599,NEGOTINAC,settlement,Novi Pazar,4,2022,,,,,,,,,,,20.63298,43.1073,10.33,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+75,novi_pazar,730602,NOVI PAZAR,settlement,Novi Pazar,71462,2022,,,,,,,,,,,20.51523,43.1415,0.59,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+76,novi_pazar,730629,ODOJEVIĆE,settlement,Novi Pazar,7,2022,,,,,,,,,,,20.65029,43.14039,11.21,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+77,novi_pazar,730637,OKOSE,settlement,Novi Pazar,14,2022,,,,,,,,,,,20.34327,43.20046,15.43,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+78,novi_pazar,730645,OSAONICA,settlement,Novi Pazar,98,2022,,,,,,,,,,,20.3002,43.19991,18.57,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+79,novi_pazar,730653,OSOJE,settlement,Novi Pazar,1622,2022,,,,,,,,,,,20.53219,43.11371,3.03,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+80,novi_pazar,730661,OHOLJE,settlement,Novi Pazar,101,2022,,,,,,,,,,,20.50518,43.08651,5.61,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+81,novi_pazar,730670,PAVLJE,settlement,Novi Pazar,125,2022,,,,,,,,,,,20.34949,43.17794,13.97,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+82,novi_pazar,730688,PARALOVO,settlement,Novi Pazar,1819,2022,,,,,,,,,,,20.48064,43.12058,3.13,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+83,novi_pazar,730696,PASJI POTOK,settlement,Novi Pazar,8,2022,,,,,,,,,,,20.61284,43.12141,8.34,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+84,novi_pazar,730700,PILARETA,settlement,Novi Pazar,11,2022,,,,,,,,,,,20.5291,43.21304,8.6,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+85,novi_pazar,730718,POBRĐE,settlement,Novi Pazar,3602,2022,,,,,,,,,,,20.47721,43.1437,2.94,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+86,novi_pazar,730726,POŽEGA,settlement,Novi Pazar,724,2022,,,,,,,,,,,20.41339,43.15295,8.22,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+87,novi_pazar,730734,POŽEŽINA,settlement,Novi Pazar,78,2022,,,,,,,,,,,20.54543,43.21818,9.45,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+88,novi_pazar,730742,POLOKCE,settlement,Novi Pazar,46,2022,,,,,,,,,,,20.41486,43.24474,14.37,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+89,novi_pazar,730769,POPE,settlement,Novi Pazar,40,2022,,,,,,,,,,,20.38938,43.18091,11.11,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+90,novi_pazar,730777,POSTENJE,settlement,Novi Pazar,4232,2022,,,,,,,,,,,20.53875,43.18297,5.58,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+91,novi_pazar,730785,PRĆENOVA,settlement,Novi Pazar,184,2022,,,,,,,,,,,20.50821,43.17627,4.41,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+92,novi_pazar,730793,PUSTA TUŠIMLJA,settlement,Novi Pazar,17,2022,,,,,,,,,,,20.50812,43.22496,9.82,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+93,novi_pazar,730807,PUSTOVLAH,settlement,Novi Pazar,13,2022,,,,,,,,,,,20.41018,43.20091,10.93,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+94,novi_pazar,730815,RADALJICA,settlement,Novi Pazar,91,2022,,,,,,,,,,,20.32119,43.25194,20.1,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+95,novi_pazar,730823,RAJETIĆE,settlement,Novi Pazar,8,2022,,,,,,,,,,,20.61328,43.06054,11.79,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+96,novi_pazar,730831,RAJKOVIĆE,settlement,Novi Pazar,9,2022,,,,,,,,,,,20.48405,43.22253,9.81,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+97,novi_pazar,730840,RAJČINOVIĆE,settlement,Novi Pazar,885,2022,,,,,,,,,,,20.45053,43.15868,5.57,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+98,novi_pazar,730858,RAJČINOVIĆKA TRNAVA,settlement,Novi Pazar,102,2022,,,,,,,,,,,20.43655,43.17606,7.54,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+99,novi_pazar,730866,RAKOVAC,settlement,Novi Pazar,3,2022,,,,,,,,,,,20.33531,43.20797,16.39,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+100,novi_pazar,730874,RAST,settlement,Novi Pazar,26,2022,,,,,,,,,,,20.34902,43.24746,18.07,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+101,novi_pazar,730882,SEBEČEVO,settlement,Novi Pazar,681,2022,,,,,,,,,,,20.42722,43.10287,7.86,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+102,novi_pazar,730904,SITNIČE,settlement,Novi Pazar,908,2022,,,,,,,,,,,20.42215,43.16285,7.86,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+103,novi_pazar,730912,SKUKOVO,settlement,Novi Pazar,13,2022,,,,,,,,,,,20.51163,43.2113,8.3,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+104,novi_pazar,730939,SLATINA,settlement,Novi Pazar,246,2022,,,,,,,,,,,20.39167,43.10152,10.54,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+105,novi_pazar,730947,SMILOV LAZ,settlement,Novi Pazar,0,2022,,,,,,,,,,,20.64045,43.02725,16.02,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+106,novi_pazar,730955,SREDNJA TUŠIMLJA,settlement,Novi Pazar,13,2022,,,,,,,,,,,20.51007,43.2434,11.87,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+107,novi_pazar,730963,STRADOVO,settlement,Novi Pazar,12,2022,,,,,,,,,,,20.36762,43.21308,14.48,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+108,novi_pazar,730971,SUDSKO SELO,settlement,Novi Pazar,47,2022,,,,,,,,,,,20.4909,43.2143,8.8,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+109,novi_pazar,730980,TENKOVO,settlement,Novi Pazar,35,2022,,,,,,,,,,,20.36761,43.23568,16.08,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+110,novi_pazar,730998,TRNAVA,settlement,Novi Pazar,1036,2022,,,,,,,,,,,20.57425,43.09989,6.49,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+111,novi_pazar,731005,TUNOVO,settlement,Novi Pazar,51,2022,,,,,,,,,,,20.42217,43.27256,16.78,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+112,novi_pazar,731013,HOTKOVO,settlement,Novi Pazar,326,2022,,,,,,,,,,,20.53556,43.14129,1.96,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+113,novi_pazar,731021,COKOVIĆE,settlement,Novi Pazar,9,2022,,,,,,,,,,,20.5755,43.16101,5.8,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+114,novi_pazar,731030,ČAŠIĆ DOLAC,settlement,Novi Pazar,128,2022,,,,,,,,,,,20.45068,43.04211,11.64,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+115,novi_pazar,731048,ŠAVCI,settlement,Novi Pazar,341,2022,,,,,,,,,,,20.43297,43.13731,6.43,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+116,novi_pazar,731056,ŠARONJE,settlement,Novi Pazar,274,2022,,,,,,,,,,,20.40274,43.22867,13.54,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+117,novi_pazar,731064,ŠTITARE,settlement,Novi Pazar,30,2022,,,,,,,,,,,20.32921,43.22351,17.7,RZS ArcGIS Popis 2022 PS22_IND1_NAS
+118,zagreb,,00051,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.90138,45.68345,15.58,data.zagreb.hr RPJ_GC + DZS Popis 2021
+119,zagreb,,00094,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.93196,45.84006,4.63,data.zagreb.hr RPJ_GC + DZS Popis 2021
+120,zagreb,,00108,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,16.06488,45.8189,6.8,data.zagreb.hr RPJ_GC + DZS Popis 2021
+121,zagreb,,00116,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.97839,45.8105,0.3,data.zagreb.hr RPJ_GC + DZS Popis 2021
+122,zagreb,,00132,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,16.05945,45.86458,8.55,data.zagreb.hr RPJ_GC + DZS Popis 2021
+123,zagreb,,00159,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.97584,45.82775,1.63,data.zagreb.hr RPJ_GC + DZS Popis 2021
+124,zagreb,,00329,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,16.00415,45.83838,3.49,data.zagreb.hr RPJ_GC + DZS Popis 2021
+125,zagreb,,00426,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,16.0041,45.75772,6.49,data.zagreb.hr RPJ_GC + DZS Popis 2021
+126,zagreb,,00434,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.93,45.75405,7.53,data.zagreb.hr RPJ_GC + DZS Popis 2021
+127,zagreb,,00442,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,16.04258,45.80011,5.25,data.zagreb.hr RPJ_GC + DZS Popis 2021
+128,zagreb,,00493,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.99665,45.87111,6.62,data.zagreb.hr RPJ_GC + DZS Popis 2021
+129,zagreb,,00507,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.88151,45.84158,8.08,data.zagreb.hr RPJ_GC + DZS Popis 2021
+130,zagreb,,00566,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,16.13296,45.87893,14.09,data.zagreb.hr RPJ_GC + DZS Popis 2021
+131,zagreb,,00612,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.89368,45.80325,6.59,data.zagreb.hr RPJ_GC + DZS Popis 2021
+132,zagreb,,00663,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.92881,45.78975,4.58,data.zagreb.hr RPJ_GC + DZS Popis 2021
+133,zagreb,,00671,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.93753,45.80018,3.42,data.zagreb.hr RPJ_GC + DZS Popis 2021
+134,zagreb,,00680,district,Grad Zagreb,,2021,,,,1760.0,1760.0,,,,,,15.98853,45.79747,1.94,data.zagreb.hr RPJ_GC + DZS Popis 2021
+135,zagreb,,"{'JMS_MB': '48585', 'JMS_IME': 'Brezovica', 'MBR_NADR': '51', 'Shape_Area': 12078021.5873998, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.90145,45.71931,11.98,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+136,zagreb,,"{'JMS_MB': '48593', 'JMS_IME': 'Demerje', 'MBR_NADR': '51', 'Shape_Area': 10355563.4183505, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.8534,45.71407,14.63,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+137,zagreb,,"{'JMS_MB': '48607', 'JMS_IME': 'Dragonožec', 'MBR_NADR': '51', 'Shape_Area': 10363989.8460496, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94889,45.67162,15.89,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+138,zagreb,,"{'JMS_MB': '48615', 'JMS_IME': 'Havidići', 'MBR_NADR': '51', 'Shape_Area': 1950262.05514993, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.92653,45.62262,21.55,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+139,zagreb,,"{'JMS_MB': '48623', 'JMS_IME': 'Horvati', 'MBR_NADR': '51', 'Shape_Area': 20763546.4067498, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.82372,45.71397,16.24,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+140,zagreb,,"{'JMS_MB': '48631', 'JMS_IME': 'Kupinečki Kraljevec - centar', 'MBR_NADR': '51', 'Shape_Area': 8935394.13315011, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.85613,45.67431,18.08,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+141,zagreb,,"{'JMS_MB': '48640', 'JMS_IME': 'Kupinečki Kraljevec I.', 'MBR_NADR': '51', 'Shape_Area': 15427701.2458, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.88267,45.6802,16.51,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+142,zagreb,,"{'JMS_MB': '48658', 'JMS_IME': 'Kupinečki Kraljevec II.', 'MBR_NADR': '51', 'Shape_Area': 5952444.9146998, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.82151,45.68424,18.76,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+143,zagreb,,"{'JMS_MB': '48666', 'JMS_IME': 'Lipnica', 'MBR_NADR': '51', 'Shape_Area': 3534060.45675021, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.91156,45.62527,21.5,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+144,zagreb,,"{'JMS_MB': '48674', 'JMS_IME': 'Odranski Obrež', 'MBR_NADR': '51', 'Shape_Area': 15980939.5266502, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94553,45.69464,13.4,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+145,zagreb,,"{'JMS_MB': '48682', 'JMS_IME': 'Odranski Strmec', 'MBR_NADR': '51', 'Shape_Area': 8333620.81335013, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.90315,45.68994,14.86,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+146,zagreb,,"{'JMS_MB': '48704', 'JMS_IME': 'Trpuci', 'MBR_NADR': '51', 'Shape_Area': 13622802.8928, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.91852,45.66505,17.09,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+147,zagreb,,"{'JMS_MB': '47511', 'JMS_IME': '""Ban Keglević""', 'MBR_NADR': '94', 'Shape_Area': 284281.570799971, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95262,45.81196,1.93,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+148,zagreb,,"{'JMS_MB': '47520', 'JMS_IME': '""Bartol Kašić""', 'MBR_NADR': '94', 'Shape_Area': 628276.197249955, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94204,45.81289,2.75,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+149,zagreb,,"{'JMS_MB': '47589', 'JMS_IME': '""Sveti Duh""', 'MBR_NADR': '94', 'Shape_Area': 1873850.53590001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.93575,45.82454,3.48,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+150,zagreb,,"{'JMS_MB': '47538', 'JMS_IME': 'Gornja Kustošija', 'MBR_NADR': '94', 'Shape_Area': 4829113.34485003, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.91885,45.83158,4.99,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+151,zagreb,,"{'JMS_MB': '47546', 'JMS_IME': 'Jelenovac', 'MBR_NADR': '94', 'Shape_Area': 1573320.67600005, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95348,45.82572,2.33,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+152,zagreb,,"{'JMS_MB': '47554', 'JMS_IME': 'Kustošija - centar', 'MBR_NADR': '94', 'Shape_Area': 899681.064249977, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.92547,45.81547,4.04,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+153,zagreb,,"{'JMS_MB': '47562', 'JMS_IME': 'Medvedgrad', 'MBR_NADR': '94', 'Shape_Area': 11975407.676, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.92918,45.85206,5.73,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+154,zagreb,,"{'JMS_MB': '47597', 'JMS_IME': 'Šestinski dol - Vrhovec', 'MBR_NADR': '94', 'Shape_Area': 2093404.27334997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94635,45.82558,2.78,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+155,zagreb,,"{'JMS_MB': '47848', 'JMS_IME': '""30. svibnja 1990.""', 'MBR_NADR': '108', 'Shape_Area': 562091.319700022, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05645,45.82514,6.26,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+156,zagreb,,"{'JMS_MB': '47805', 'JMS_IME': '""Ivan Mažuranić""', 'MBR_NADR': '108', 'Shape_Area': 507687.672800042, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05085,45.82439,5.82,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+157,zagreb,,"{'JMS_MB': '47783', 'JMS_IME': 'Čulinec', 'MBR_NADR': '108', 'Shape_Area': 578181.386850078, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.06551,45.81717,6.84,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+158,zagreb,,"{'JMS_MB': '47791', 'JMS_IME': 'Donja Dubrava', 'MBR_NADR': '108', 'Shape_Area': 711102.606649971, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.04404,45.82308,5.27,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+159,zagreb,,"{'JMS_MB': '47813', 'JMS_IME': 'Novi Retkovec', 'MBR_NADR': '108', 'Shape_Area': 770786.438099961, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.06513,45.82672,6.96,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+160,zagreb,,"{'JMS_MB': '47821', 'JMS_IME': 'Resnički gaj', 'MBR_NADR': '108', 'Shape_Area': 3691944.59444997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.07797,45.80956,7.8,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+161,zagreb,,"{'JMS_MB': '47830', 'JMS_IME': 'Stari Retkovec', 'MBR_NADR': '108', 'Shape_Area': 1719389.68240004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.08234,45.82269,8.19,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+162,zagreb,,"{'JMS_MB': '47856', 'JMS_IME': 'Trnava', 'MBR_NADR': '108', 'Shape_Area': 2252454.75519981, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05587,45.81061,6.08,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+163,zagreb,,"{'JMS_MB': '46329', 'JMS_IME': '""Andrija Medulić""', 'MBR_NADR': '116', 'Shape_Area': 168854.361550014, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96688,45.81131,0.85,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+164,zagreb,,"{'JMS_MB': '46337', 'JMS_IME': '""August Šenoa""', 'MBR_NADR': '116', 'Shape_Area': 282468.862099971, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98061,45.80706,0.71,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+165,zagreb,,"{'JMS_MB': '46353', 'JMS_IME': '""Hrvatski narodni vladari""', 'MBR_NADR': '116', 'Shape_Area': 167548.494349972, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98609,45.81128,0.7,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+166,zagreb,,"{'JMS_MB': '46361', 'JMS_IME': '""Knez Mislav""', 'MBR_NADR': '116', 'Shape_Area': 200973.962150033, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.9857,45.80776,0.87,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+167,zagreb,,"{'JMS_MB': '46370', 'JMS_IME': '""Kralj Petar Svačić""', 'MBR_NADR': '116', 'Shape_Area': 247634.455099977, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97468,45.80755,0.65,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+168,zagreb,,"{'JMS_MB': '46388', 'JMS_IME': '""Kralj Zvonimir""', 'MBR_NADR': '116', 'Shape_Area': 350451.148850067, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99556,45.8089,1.48,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+169,zagreb,,"{'JMS_MB': '46396', 'JMS_IME': '""Matko Laginja""', 'MBR_NADR': '116', 'Shape_Area': 104143.091400032, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99143,45.81191,1.09,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+170,zagreb,,"{'JMS_MB': '46400', 'JMS_IME': '""Mimara""', 'MBR_NADR': '116', 'Shape_Area': 480804.037400007, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96817,45.80747,0.96,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+171,zagreb,,"{'JMS_MB': '46418', 'JMS_IME': '""Nadbiskup Antun Bauer""', 'MBR_NADR': '116', 'Shape_Area': 85959.0317499931, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98871,45.81218,0.87,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+172,zagreb,,"{'JMS_MB': '46426', 'JMS_IME': '""Pavao Šubić""', 'MBR_NADR': '116', 'Shape_Area': 154005.502349979, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.9955,45.8123,1.4,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+173,zagreb,,"{'JMS_MB': '46434', 'JMS_IME': '""Petar Krešimir IV.""', 'MBR_NADR': '116', 'Shape_Area': 173987.032549972, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99013,45.80804,1.13,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+174,zagreb,,"{'JMS_MB': '46442', 'JMS_IME': '""Petar Zrinski""', 'MBR_NADR': '116', 'Shape_Area': 234175.121349978, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96116,45.81054,1.3,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+175,zagreb,,"{'JMS_MB': '46345', 'JMS_IME': 'Cvjetni trg', 'MBR_NADR': '116', 'Shape_Area': 210069.666300005, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97328,45.81145,0.38,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+176,zagreb,,"{'JMS_MB': '46469', 'JMS_IME': 'Zrinjevac', 'MBR_NADR': '116', 'Shape_Area': 154847.342899988, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98021,45.81088,0.32,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+177,zagreb,,"{'JMS_MB': '47619', 'JMS_IME': 'Branovec - Jalševec', 'MBR_NADR': '132', 'Shape_Area': 3685675.74535014, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.07667,45.86585,9.67,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+178,zagreb,,"{'JMS_MB': '47627', 'JMS_IME': 'Čučerje', 'MBR_NADR': '132', 'Shape_Area': 10628274.2516501, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05367,45.90312,11.62,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+179,zagreb,,"{'JMS_MB': '47635', 'JMS_IME': 'Dankovec', 'MBR_NADR': '132', 'Shape_Area': 5863639.21889991, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05956,45.87764,9.59,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+180,zagreb,,"{'JMS_MB': '47643', 'JMS_IME': 'Dubec', 'MBR_NADR': '132', 'Shape_Area': 585043.354199934, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.07952,45.83172,8.17,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+181,zagreb,,"{'JMS_MB': '47651', 'JMS_IME': 'Dubrava - središte', 'MBR_NADR': '132', 'Shape_Area': 1135400.76475, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.04378,45.82864,5.42,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+182,zagreb,,"{'JMS_MB': '47660', 'JMS_IME': 'Gornja Dubrava', 'MBR_NADR': '132', 'Shape_Area': 1630287.18940004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.03675,45.84175,5.59,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+183,zagreb,,"{'JMS_MB': '47678', 'JMS_IME': 'Granešina', 'MBR_NADR': '132', 'Shape_Area': 1563178.46630006, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05268,45.85187,7.25,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+184,zagreb,,"{'JMS_MB': '47686', 'JMS_IME': 'Granešinski Novaki', 'MBR_NADR': '132', 'Shape_Area': 1448124.71864993, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.03637,45.84902,6.06,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+185,zagreb,,"{'JMS_MB': '47694', 'JMS_IME': 'Klaka', 'MBR_NADR': '132', 'Shape_Area': 1171717.71524997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05257,45.83762,6.42,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+186,zagreb,,"{'JMS_MB': '47708', 'JMS_IME': 'Miroševec', 'MBR_NADR': '132', 'Shape_Area': 2908199.92910008, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.03714,45.86811,7.67,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+187,zagreb,,"{'JMS_MB': '47716', 'JMS_IME': 'Novoselec', 'MBR_NADR': '132', 'Shape_Area': 4029961.32429994, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.08306,45.85191,9.25,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+188,zagreb,,"{'JMS_MB': '47724', 'JMS_IME': 'Oporovec', 'MBR_NADR': '132', 'Shape_Area': 2973672.8443, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.06572,45.85564,8.31,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+189,zagreb,,"{'JMS_MB': '47732', 'JMS_IME': 'Poljanice', 'MBR_NADR': '132', 'Shape_Area': 509199.848800016, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.0668,45.82981,7.17,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+190,zagreb,,"{'JMS_MB': '47759', 'JMS_IME': 'Studentski grad', 'MBR_NADR': '132', 'Shape_Area': 1035243.67330001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.05873,45.83609,6.79,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+191,zagreb,,"{'JMS_MB': '47767', 'JMS_IME': 'Trnovčica', 'MBR_NADR': '132', 'Shape_Area': 442477.764349975, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.07201,45.8359,7.75,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+192,zagreb,,"{'JMS_MB': '47775', 'JMS_IME': 'Zeleni brijeg', 'MBR_NADR': '132', 'Shape_Area': 814612.431100009, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.02847,45.85895,6.45,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+193,zagreb,,"{'JMS_MB': '46477', 'JMS_IME': '""August Cesarec""', 'MBR_NADR': '159', 'Shape_Area': 266859.031999955, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97853,45.8156,0.29,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+194,zagreb,,"{'JMS_MB': '46507', 'JMS_IME': '""Ivan Kukuljević - Sakcinski""', 'MBR_NADR': '159', 'Shape_Area': 384616.660000062, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96379,45.81813,1.2,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+195,zagreb,,"{'JMS_MB': '46566', 'JMS_IME': '""Stjepan Radić""', 'MBR_NADR': '159', 'Shape_Area': 1909301.58954987, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95971,45.82669,2.05,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+196,zagreb,,"{'JMS_MB': '46485', 'JMS_IME': 'Gornji grad', 'MBR_NADR': '159', 'Shape_Area': 798121.192700071, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97414,45.82168,0.99,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+197,zagreb,,"{'JMS_MB': '46493', 'JMS_IME': 'Gupčeva zvijezda', 'MBR_NADR': '159', 'Shape_Area': 2307730.69494993, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98127,45.83965,2.97,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+198,zagreb,,"{'JMS_MB': '46515', 'JMS_IME': 'Kraljevec', 'MBR_NADR': '159', 'Shape_Area': 792190.364400086, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96675,45.83608,2.69,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+199,zagreb,,"{'JMS_MB': '46523', 'JMS_IME': 'Medveščak', 'MBR_NADR': '159', 'Shape_Area': 475754.005250038, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98189,45.82271,1.12,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+200,zagreb,,"{'JMS_MB': '46531', 'JMS_IME': 'Nova Ves', 'MBR_NADR': '159', 'Shape_Area': 275194.082799976, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97811,45.82411,1.23,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+201,zagreb,,"{'JMS_MB': '46540', 'JMS_IME': 'Petrova', 'MBR_NADR': '159', 'Shape_Area': 168515.234050011, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99255,45.8156,1.2,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+202,zagreb,,"{'JMS_MB': '46558', 'JMS_IME': 'Ribnjak', 'MBR_NADR': '159', 'Shape_Area': 268999.762050049, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98387,45.81571,0.57,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+203,zagreb,,"{'JMS_MB': '46574', 'JMS_IME': 'Šalata', 'MBR_NADR': '159', 'Shape_Area': 640847.773099983, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98589,45.8249,1.46,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+204,zagreb,,"{'JMS_MB': '46582', 'JMS_IME': 'Tuškanac', 'MBR_NADR': '159', 'Shape_Area': 1294294.92604988, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96812,45.83045,2.06,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+205,zagreb,,"{'JMS_MB': '46604', 'JMS_IME': 'Voćarska', 'MBR_NADR': '159', 'Shape_Area': 601637.661450001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99147,45.82043,1.36,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+206,zagreb,,"{'JMS_MB': '46779', 'JMS_IME': '""Dinko Šimunović""', 'MBR_NADR': '329', 'Shape_Area': 539339.404800058, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99692,45.82167,1.78,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+207,zagreb,,"{'JMS_MB': '46809', 'JMS_IME': '""Eugen Kvaternik""', 'MBR_NADR': '329', 'Shape_Area': 209207.754650002, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00084,45.81465,1.82,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+208,zagreb,,"{'JMS_MB': '46752', 'JMS_IME': 'Bukovac', 'MBR_NADR': '329', 'Shape_Area': 1823071.18664998, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01,45.83982,3.89,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+209,zagreb,,"{'JMS_MB': '46787', 'JMS_IME': 'Dobri Dol', 'MBR_NADR': '329', 'Shape_Area': 673463.361649954, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00184,45.82188,2.12,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+210,zagreb,,"{'JMS_MB': '46795', 'JMS_IME': 'Dotrščina', 'MBR_NADR': '329', 'Shape_Area': 2183641.03490001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01301,45.85001,4.94,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+211,zagreb,,"{'JMS_MB': '46817', 'JMS_IME': 'Kozjak', 'MBR_NADR': '329', 'Shape_Area': 1102655.84799994, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99728,45.83409,2.79,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+212,zagreb,,"{'JMS_MB': '46825', 'JMS_IME': 'Maksimir', 'MBR_NADR': '329', 'Shape_Area': 2431840.50780012, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01038,45.83087,3.22,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+213,zagreb,,"{'JMS_MB': '46833', 'JMS_IME': 'Maksimirska naselja', 'MBR_NADR': '329', 'Shape_Area': 2457350.26284988, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.02475,45.8213,3.77,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+214,zagreb,,"{'JMS_MB': '46841', 'JMS_IME': 'Mašićeva', 'MBR_NADR': '329', 'Shape_Area': 334471.219450021, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00644,45.81894,2.33,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+215,zagreb,,"{'JMS_MB': '46850', 'JMS_IME': 'Remete', 'MBR_NADR': '329', 'Shape_Area': 2957240.52959995, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99576,45.84749,4.08,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+216,zagreb,,"{'JMS_MB': '46868', 'JMS_IME': 'Ružmarinka', 'MBR_NADR': '329', 'Shape_Area': 260446.488599986, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00727,45.81584,2.33,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+217,zagreb,,"{'JMS_MB': '47040', 'JMS_IME': 'Buzin', 'MBR_NADR': '426', 'Shape_Area': 3480190.47005008, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.0018,45.74978,7.29,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+218,zagreb,,"{'JMS_MB': '47058', 'JMS_IME': 'Dugave', 'MBR_NADR': '426', 'Shape_Area': 850103.848850099, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.9989,45.76407,5.7,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+219,zagreb,,"{'JMS_MB': '47066', 'JMS_IME': 'Hrelić', 'MBR_NADR': '426', 'Shape_Area': 1590683.99159997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00743,45.75784,6.57,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+220,zagreb,,"{'JMS_MB': '47074', 'JMS_IME': 'Jakuševec', 'MBR_NADR': '426', 'Shape_Area': 4552246.65064986, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01684,45.76707,5.96,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+221,zagreb,,"{'JMS_MB': '47082', 'JMS_IME': 'Sloboština', 'MBR_NADR': '426', 'Shape_Area': 935739.587400003, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98565,45.76703,5.16,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+222,zagreb,,"{'JMS_MB': '47104', 'JMS_IME': 'Sopot', 'MBR_NADR': '426', 'Shape_Area': 441383.397749983, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98533,45.77438,4.35,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+223,zagreb,,"{'JMS_MB': '47112', 'JMS_IME': 'Središće', 'MBR_NADR': '426', 'Shape_Area': 922039.058750043, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98376,45.78165,3.53,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+224,zagreb,,"{'JMS_MB': '47139', 'JMS_IME': 'Travno', 'MBR_NADR': '426', 'Shape_Area': 611784.903599925, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99674,45.77064,4.95,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+225,zagreb,,"{'JMS_MB': '47147', 'JMS_IME': 'Utrine', 'MBR_NADR': '426', 'Shape_Area': 567269.000349921, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99664,45.77496,4.49,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+226,zagreb,,"{'JMS_MB': '47155', 'JMS_IME': 'Veliko Polje', 'MBR_NADR': '426', 'Shape_Area': 1628657.04635006, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01267,45.74164,8.4,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+227,zagreb,,"{'JMS_MB': '47163', 'JMS_IME': 'Zapruđe', 'MBR_NADR': '426', 'Shape_Area': 963833.86740014, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99762,45.78145,3.85,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+228,zagreb,,"{'JMS_MB': '47171', 'JMS_IME': 'Blato', 'MBR_NADR': '434', 'Shape_Area': 6700406.62884974, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.91767,45.76359,7.2,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+229,zagreb,,"{'JMS_MB': '47180', 'JMS_IME': 'Botinec', 'MBR_NADR': '434', 'Shape_Area': 5334500.22825001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.93897,45.74636,8.0,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+230,zagreb,,"{'JMS_MB': '47198', 'JMS_IME': 'Čehi', 'MBR_NADR': '434', 'Shape_Area': 5721202.07164995, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95733,45.73987,8.29,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+231,zagreb,,"{'JMS_MB': '47201', 'JMS_IME': 'Hrašće', 'MBR_NADR': '434', 'Shape_Area': 2744474.06105007, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.0048,45.72269,10.27,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+232,zagreb,,"{'JMS_MB': '47210', 'JMS_IME': 'Hrvatski Leskovac', 'MBR_NADR': '434', 'Shape_Area': 2738709.61800004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.89311,45.74582,9.94,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+233,zagreb,,"{'JMS_MB': '47228', 'JMS_IME': 'Ježdovec', 'MBR_NADR': '434', 'Shape_Area': 10777705.1056502, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.8473,45.78313,10.63,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+234,zagreb,,"{'JMS_MB': '47236', 'JMS_IME': 'Kajzerica', 'MBR_NADR': '434', 'Shape_Area': 2857305.33945012, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96285,45.77947,3.91,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+235,zagreb,,"{'JMS_MB': '47244', 'JMS_IME': 'Lanište', 'MBR_NADR': '434', 'Shape_Area': 284087.985499916, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94801,45.77349,4.96,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+236,zagreb,,"{'JMS_MB': '47252', 'JMS_IME': 'Lučko', 'MBR_NADR': '434', 'Shape_Area': 6911203.49609981, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.88502,45.76511,8.94,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+237,zagreb,,"{'JMS_MB': '47279', 'JMS_IME': 'Mala Mlaka', 'MBR_NADR': '434', 'Shape_Area': 5756553.14910004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97541,45.73353,8.85,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+238,zagreb,,"{'JMS_MB': '47287', 'JMS_IME': 'Odra', 'MBR_NADR': '434', 'Shape_Area': 3907682.44179985, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98839,45.7276,9.54,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+239,zagreb,,"{'JMS_MB': '47295', 'JMS_IME': 'Remetinec', 'MBR_NADR': '434', 'Shape_Area': 1660067.32875017, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94198,45.76622,5.9,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+240,zagreb,,"{'JMS_MB': '47309', 'JMS_IME': 'Savski gaj', 'MBR_NADR': '434', 'Shape_Area': 713591.466650053, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95564,45.77161,4.91,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+241,zagreb,,"{'JMS_MB': '47317', 'JMS_IME': 'Siget', 'MBR_NADR': '434', 'Shape_Area': 1548082.90264997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97418,45.7703,4.77,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+242,zagreb,,"{'JMS_MB': '47325', 'JMS_IME': 'Sveta Klara', 'MBR_NADR': '434', 'Shape_Area': 4676872.67564997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96946,45.7602,5.92,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+243,zagreb,,"{'JMS_MB': '47333', 'JMS_IME': 'Trnsko', 'MBR_NADR': '434', 'Shape_Area': 299835.171999993, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96339,45.77329,4.56,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+244,zagreb,,"{'JMS_MB': '46884', 'JMS_IME': '""Bruno Bušić""', 'MBR_NADR': '442', 'Shape_Area': 684885.51540012, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.02258,45.81095,3.5,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+245,zagreb,,"{'JMS_MB': '46922', 'JMS_IME': '""Janko Matko""', 'MBR_NADR': '442', 'Shape_Area': 109084.742250004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.0028,45.79395,2.89,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+246,zagreb,,"{'JMS_MB': '46876', 'JMS_IME': 'Borongaj - Lugovi', 'MBR_NADR': '442', 'Shape_Area': 2454656.64650005, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.04192,45.80756,5.03,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+247,zagreb,,"{'JMS_MB': '46892', 'JMS_IME': 'Donje Svetice', 'MBR_NADR': '442', 'Shape_Area': 808458.593700087, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01115,45.80698,2.7,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+248,zagreb,,"{'JMS_MB': '46906', 'JMS_IME': 'Ferenščica', 'MBR_NADR': '442', 'Shape_Area': 992548.984450048, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.02067,45.80001,3.65,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+249,zagreb,,"{'JMS_MB': '46914', 'JMS_IME': 'Folnegovićevo naselje', 'MBR_NADR': '442', 'Shape_Area': 394029.270199999, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00731,45.79288,3.22,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+250,zagreb,,"{'JMS_MB': '46949', 'JMS_IME': 'Ivanja Reka', 'MBR_NADR': '442', 'Shape_Area': 3509086.21784992, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.11244,45.79707,10.61,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+251,zagreb,,"{'JMS_MB': '46957', 'JMS_IME': 'Kozari Bok', 'MBR_NADR': '442', 'Shape_Area': 2237286.66759999, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.04418,45.79669,5.48,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+252,zagreb,,"{'JMS_MB': '46965', 'JMS_IME': 'Kozari putevi', 'MBR_NADR': '442', 'Shape_Area': 1475884.00979998, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.04633,45.78985,5.93,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+253,zagreb,,"{'JMS_MB': '46973', 'JMS_IME': 'Peščenica', 'MBR_NADR': '442', 'Shape_Area': 500982.925649929, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00828,45.81248,2.39,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+254,zagreb,,"{'JMS_MB': '46981', 'JMS_IME': 'Petruševec', 'MBR_NADR': '442', 'Shape_Area': 6368968.18669996, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.04445,45.7748,6.71,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+255,zagreb,,"{'JMS_MB': '46990', 'JMS_IME': 'Resnik', 'MBR_NADR': '442', 'Shape_Area': 4146172.30594999, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.08575,45.79958,8.52,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+256,zagreb,,"{'JMS_MB': '47007', 'JMS_IME': 'Savica Šanci', 'MBR_NADR': '442', 'Shape_Area': 4263330.63889998, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01754,45.78548,4.37,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+257,zagreb,,"{'JMS_MB': '47015', 'JMS_IME': 'Volovčica', 'MBR_NADR': '442', 'Shape_Area': 567277.05984996, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.02109,45.80855,3.42,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+258,zagreb,,"{'JMS_MB': '47023', 'JMS_IME': 'Vukomerec', 'MBR_NADR': '442', 'Shape_Area': 222854.001999988, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.04819,45.80883,5.5,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+259,zagreb,,"{'JMS_MB': '47031', 'JMS_IME': 'Žitnjak', 'MBR_NADR': '442', 'Shape_Area': 6590121.43545029, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.07526,45.78617,8.15,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+260,zagreb,,"{'JMS_MB': '48011', 'JMS_IME': 'Gračani', 'MBR_NADR': '493', 'Shape_Area': 12150363.8675501, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97542,45.86707,6.0,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+261,zagreb,,"{'JMS_MB': '48020', 'JMS_IME': 'Markuševec', 'MBR_NADR': '493', 'Shape_Area': 26941270.5282501, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.01262,45.87455,7.35,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+262,zagreb,,"{'JMS_MB': '48038', 'JMS_IME': 'Mlinovi', 'MBR_NADR': '493', 'Shape_Area': 591132.171200032, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96372,45.84692,3.91,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+263,zagreb,,"{'JMS_MB': '48046', 'JMS_IME': 'Šestine', 'MBR_NADR': '493', 'Shape_Area': 9355501.85819993, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.9506,45.8578,5.39,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+264,zagreb,,"{'JMS_MB': '48054', 'JMS_IME': 'Vidovec', 'MBR_NADR': '493', 'Shape_Area': 10216791.1248999, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.03567,45.90476,11.14,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+265,zagreb,,"{'JMS_MB': '47945', 'JMS_IME': 'Gajnice', 'MBR_NADR': '507', 'Shape_Area': 465293.385400012, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.87474,45.81634,7.97,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+266,zagreb,,"{'JMS_MB': '47953', 'JMS_IME': 'Gornje Vrapče', 'MBR_NADR': '507', 'Shape_Area': 10089260.8215501, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.90267,45.85218,7.25,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+267,zagreb,,"{'JMS_MB': '47961', 'JMS_IME': 'Gornji Stenjevec', 'MBR_NADR': '507', 'Shape_Area': 4680906.49624972, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.87307,45.83697,8.52,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+268,zagreb,,"{'JMS_MB': '47970', 'JMS_IME': 'Perjavica - Borčec', 'MBR_NADR': '507', 'Shape_Area': 4121163.93100005, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.88376,45.83278,7.59,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+269,zagreb,,"{'JMS_MB': '47988', 'JMS_IME': 'Podsused', 'MBR_NADR': '507', 'Shape_Area': 13820202.3302001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.85028,45.83018,10.04,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+270,zagreb,,"{'JMS_MB': '47996', 'JMS_IME': 'Stenjevec - sjever', 'MBR_NADR': '507', 'Shape_Area': 632793.036599964, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.88573,45.81587,7.12,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+271,zagreb,,"{'JMS_MB': '48003', 'JMS_IME': 'Vrapče - centar', 'MBR_NADR': '507', 'Shape_Area': 2329279.01744992, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.90615,45.82131,5.6,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+272,zagreb,,"{'JMS_MB': '48062', 'JMS_IME': 'Adamovec', 'MBR_NADR': '566', 'Shape_Area': 7385154.99540006, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.16187,45.90736,17.71,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+273,zagreb,,"{'JMS_MB': '48089', 'JMS_IME': 'Belovar', 'MBR_NADR': '566', 'Shape_Area': 3404860.86020026, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.1763,45.8805,17.13,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+274,zagreb,,"{'JMS_MB': '48097', 'JMS_IME': 'Blaguša', 'MBR_NADR': '566', 'Shape_Area': 5857723.89164994, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.12769,45.93121,17.54,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+275,zagreb,,"{'JMS_MB': '48119', 'JMS_IME': 'Budenec', 'MBR_NADR': '566', 'Shape_Area': 2850225.52885012, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.17538,45.83158,15.47,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+276,zagreb,,"{'JMS_MB': '48127', 'JMS_IME': 'Centar', 'MBR_NADR': '566', 'Shape_Area': 373473.526300022, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.11255,45.82555,10.56,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+277,zagreb,,"{'JMS_MB': '48135', 'JMS_IME': 'Cerje - Sesvete', 'MBR_NADR': '566', 'Shape_Area': 1314392.98230016, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.19307,45.82864,16.79,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+278,zagreb,,"{'JMS_MB': '48143', 'JMS_IME': 'Dobrodol', 'MBR_NADR': '566', 'Shape_Area': 5376494.31695014, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.10136,45.85463,10.65,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+279,zagreb,,"{'JMS_MB': '48151', 'JMS_IME': 'Drenčec', 'MBR_NADR': '566', 'Shape_Area': 2095061.11249995, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.20449,45.83478,17.75,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+280,zagreb,,"{'JMS_MB': '48160', 'JMS_IME': 'Dumovec', 'MBR_NADR': '566', 'Shape_Area': 3297201.87375036, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.15949,45.80464,14.14,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+281,zagreb,,"{'JMS_MB': '48178', 'JMS_IME': 'Đurđekovec', 'MBR_NADR': '566', 'Shape_Area': 2694673.48544997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.12137,45.87359,13.02,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+282,zagreb,,"{'JMS_MB': '48186', 'JMS_IME': 'Gajec', 'MBR_NADR': '566', 'Shape_Area': 2401091.18524997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.14751,45.88256,15.27,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+283,zagreb,,"{'JMS_MB': '48194', 'JMS_IME': 'Gajišće', 'MBR_NADR': '566', 'Shape_Area': 2664964.33805008, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.12057,45.83368,11.32,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+284,zagreb,,"{'JMS_MB': '48208', 'JMS_IME': 'Glavnica Donja', 'MBR_NADR': '566', 'Shape_Area': 5492175.4242001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.14529,45.94243,19.38,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+285,zagreb,,"{'JMS_MB': '48216', 'JMS_IME': 'Glavnica Gornja', 'MBR_NADR': '566', 'Shape_Area': 2925717.94194991, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.13734,45.94023,18.79,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+286,zagreb,,"{'JMS_MB': '48224', 'JMS_IME': 'Glavničica', 'MBR_NADR': '566', 'Shape_Area': 4318613.50475007, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.21642,45.849,18.94,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+287,zagreb,,"{'JMS_MB': '48232', 'JMS_IME': 'Goranec', 'MBR_NADR': '566', 'Shape_Area': 3149301.67654991, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.0805,45.90041,12.56,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+288,zagreb,,"{'JMS_MB': '48259', 'JMS_IME': 'Jelkovec', 'MBR_NADR': '566', 'Shape_Area': 2520578.40030003, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.11832,45.80991,10.92,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+289,zagreb,,"{'JMS_MB': '48267', 'JMS_IME': 'Jesenovec', 'MBR_NADR': '566', 'Shape_Area': 2767328.77715001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.14681,45.91657,17.44,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+290,zagreb,,"{'JMS_MB': '48275', 'JMS_IME': 'Kašina', 'MBR_NADR': '566', 'Shape_Area': 8516062.54875004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.1141,45.92603,16.42,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+291,zagreb,,"{'JMS_MB': '48283', 'JMS_IME': 'Kašinska Sopnica', 'MBR_NADR': '566', 'Shape_Area': 2221343.32319989, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.10598,45.91302,14.91,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+292,zagreb,,"{'JMS_MB': '48291', 'JMS_IME': 'Kobiljak', 'MBR_NADR': '566', 'Shape_Area': 2258920.09769996, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.1611,45.82141,14.26,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+293,zagreb,,"{'JMS_MB': '48305', 'JMS_IME': 'Kraljevečki Novaki', 'MBR_NADR': '566', 'Shape_Area': 1672097.51189991, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.1474,45.83111,13.32,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+294,zagreb,,"{'JMS_MB': '48313', 'JMS_IME': 'Kučilovina', 'MBR_NADR': '566', 'Shape_Area': 2485740.37905011, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.08983,45.91062,13.9,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+295,zagreb,,"{'JMS_MB': '48321', 'JMS_IME': 'Luka', 'MBR_NADR': '566', 'Shape_Area': 374414.284049976, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.10834,45.83244,10.36,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+296,zagreb,,"{'JMS_MB': '48330', 'JMS_IME': 'Lužan', 'MBR_NADR': '566', 'Shape_Area': 7790039.5105498, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.19883,45.86654,18.15,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+297,zagreb,,"{'JMS_MB': '48348', 'JMS_IME': 'Moravče', 'MBR_NADR': '566', 'Shape_Area': 6960990.31919993, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.16087,45.93924,19.96,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+298,zagreb,,"{'JMS_MB': '48356', 'JMS_IME': 'Novi Jelkovec', 'MBR_NADR': '566', 'Shape_Area': 394600.289249884, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.108,45.81134,10.12,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+299,zagreb,,"{'JMS_MB': '48364', 'JMS_IME': 'Novo Brestje', 'MBR_NADR': '566', 'Shape_Area': 723088.307099997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.08893,45.82891,8.81,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+300,zagreb,,"{'JMS_MB': '48372', 'JMS_IME': 'Paruževina', 'MBR_NADR': '566', 'Shape_Area': 3753041.54134997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.12866,45.88275,14.04,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+301,zagreb,,"{'JMS_MB': '48399', 'JMS_IME': 'Planina Donja', 'MBR_NADR': '566', 'Shape_Area': 4858380.64480012, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.08751,45.92682,15.25,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+302,zagreb,,"{'JMS_MB': '48402', 'JMS_IME': 'Planina Gornja', 'MBR_NADR': '566', 'Shape_Area': 6803201.25919997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.07839,45.94218,16.34,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+303,zagreb,,"{'JMS_MB': '48429', 'JMS_IME': 'Popovec', 'MBR_NADR': '566', 'Shape_Area': 3029412.19590007, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.13933,45.84979,13.19,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+304,zagreb,,"{'JMS_MB': '48437', 'JMS_IME': 'Prekvršje', 'MBR_NADR': '566', 'Shape_Area': 2409609.21440004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.11421,45.89539,13.99,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+305,zagreb,,"{'JMS_MB': '48445', 'JMS_IME': 'Prepuštovec', 'MBR_NADR': '566', 'Shape_Area': 2004796.52984987, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.13666,45.89926,15.61,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+306,zagreb,,"{'JMS_MB': '48453', 'JMS_IME': 'Sesvetska Sela', 'MBR_NADR': '566', 'Shape_Area': 3785110.60894996, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.13405,45.83058,12.29,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+307,zagreb,,"{'JMS_MB': '48461', 'JMS_IME': 'Sesvetska Selnica', 'MBR_NADR': '566', 'Shape_Area': 3637289.88979974, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.13337,45.81303,12.08,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+308,zagreb,,"{'JMS_MB': '48470', 'JMS_IME': 'Sesvetska Sopnica', 'MBR_NADR': '566', 'Shape_Area': 2330923.73450004, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.10063,45.82034,9.58,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+309,zagreb,,"{'JMS_MB': '48488', 'JMS_IME': 'Sesvetski Kraljevec', 'MBR_NADR': '566', 'Shape_Area': 11507711.1434498, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.18141,45.81254,15.8,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+310,zagreb,,"{'JMS_MB': '48496', 'JMS_IME': 'Soblinec', 'MBR_NADR': '566', 'Shape_Area': 2671739.73794981, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.14789,45.86784,14.54,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+311,zagreb,,"{'JMS_MB': '48500', 'JMS_IME': 'Staro Brestje', 'MBR_NADR': '566', 'Shape_Area': 3160028.74280002, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.09409,45.83788,9.44,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+312,zagreb,,"{'JMS_MB': '48518', 'JMS_IME': 'Šašinovec', 'MBR_NADR': '566', 'Shape_Area': 10041896.1253499, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.17486,45.8496,15.82,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+313,zagreb,,"{'JMS_MB': '48526', 'JMS_IME': 'Šimunčevec', 'MBR_NADR': '566', 'Shape_Area': 2006064.71569998, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.09504,45.87725,11.57,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+314,zagreb,,"{'JMS_MB': '48534', 'JMS_IME': 'Vugrovec', 'MBR_NADR': '566', 'Shape_Area': 3506093.7047, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.11071,45.874,12.34,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+315,zagreb,,"{'JMS_MB': '48542', 'JMS_IME': 'Vugrovec Gornji', 'MBR_NADR': '566', 'Shape_Area': 2077181.09935, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.09835,45.89672,13.19,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+316,zagreb,,"{'JMS_MB': '48569', 'JMS_IME': 'Vurnovec', 'MBR_NADR': '566', 'Shape_Area': 946358.468400162, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.141,45.88985,15.27,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+317,zagreb,,"{'JMS_MB': '48577', 'JMS_IME': 'Žerjavinec', 'MBR_NADR': '566', 'Shape_Area': 2421915.28434994, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.17472,45.86885,16.49,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+318,zagreb,,"{'JMS_MB': '47872', 'JMS_IME': 'Donja Kustošija', 'MBR_NADR': '612', 'Shape_Area': 380437.871299965, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.92304,45.80803,4.26,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+319,zagreb,,"{'JMS_MB': '47864', 'JMS_IME': 'Malešnica', 'MBR_NADR': '612', 'Shape_Area': 687895.831600072, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.9003,45.80909,6.0,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+320,zagreb,,"{'JMS_MB': '47899', 'JMS_IME': 'Stenjevec - jug', 'MBR_NADR': '612', 'Shape_Area': 8242671.95534999, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.87623,45.80268,7.93,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+321,zagreb,,"{'JMS_MB': '47902', 'JMS_IME': 'Špansko - jug', 'MBR_NADR': '612', 'Shape_Area': 1015997.98390003, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.89873,45.79854,6.32,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+322,zagreb,,"{'JMS_MB': '47929', 'JMS_IME': 'Špansko - sjever', 'MBR_NADR': '612', 'Shape_Area': 699187.183049865, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.89614,45.80474,6.37,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+323,zagreb,,"{'JMS_MB': '47937', 'JMS_IME': 'Vrapče - jug', 'MBR_NADR': '612', 'Shape_Area': 1213501.60110016, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.91427,45.80523,4.98,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+324,zagreb,,"{'JMS_MB': '47457', 'JMS_IME': 'Gajevo', 'MBR_NADR': '663', 'Shape_Area': 679641.96580005, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.93383,45.78896,4.32,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+325,zagreb,,"{'JMS_MB': '47465', 'JMS_IME': 'Horvati - Srednjaci', 'MBR_NADR': '663', 'Shape_Area': 1124510.30395005, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94302,45.78733,3.92,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+326,zagreb,,"{'JMS_MB': '47473', 'JMS_IME': 'Jarun', 'MBR_NADR': '663', 'Shape_Area': 3980471.68784999, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.92455,45.7852,5.15,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+327,zagreb,,"{'JMS_MB': '47481', 'JMS_IME': 'Knežija', 'MBR_NADR': '663', 'Shape_Area': 817319.374650054, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95236,45.79041,3.19,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+328,zagreb,,"{'JMS_MB': '47490', 'JMS_IME': 'Prečko', 'MBR_NADR': '663', 'Shape_Area': 2350971.51300015, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.90142,45.79001,6.43,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+329,zagreb,,"{'JMS_MB': '47503', 'JMS_IME': 'Vrbani', 'MBR_NADR': '663', 'Shape_Area': 886237.350200114, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.91602,45.79094,5.37,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+330,zagreb,,"{'JMS_MB': '47341', 'JMS_IME': '""Antun Mihanović""', 'MBR_NADR': '671', 'Shape_Area': 459430.913349951, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96,45.79951,2.03,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+331,zagreb,,"{'JMS_MB': '47368', 'JMS_IME': '""Dr. Ante Starčević""', 'MBR_NADR': '671', 'Shape_Area': 889355.457450008, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.9297,45.80491,3.82,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+332,zagreb,,"{'JMS_MB': '47384', 'JMS_IME': '""Nikola Tesla""', 'MBR_NADR': '671', 'Shape_Area': 355042.406949918, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94696,45.80103,2.72,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+333,zagreb,,"{'JMS_MB': '47414', 'JMS_IME': '""Samoborček""', 'MBR_NADR': '671', 'Shape_Area': 368792.336600109, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95461,45.80653,1.92,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+334,zagreb,,"{'JMS_MB': '47422', 'JMS_IME': '""Silvije Strahimir Kranjčević""', 'MBR_NADR': '671', 'Shape_Area': 486357.070899978, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95522,45.80356,2.03,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+335,zagreb,,"{'JMS_MB': '47350', 'JMS_IME': 'Ciglenica', 'MBR_NADR': '671', 'Shape_Area': 714445.776500097, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94264,45.80658,2.8,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+336,zagreb,,"{'JMS_MB': '47376', 'JMS_IME': 'Ljubljanica', 'MBR_NADR': '671', 'Shape_Area': 310425.714899951, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.93359,45.79733,3.83,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+337,zagreb,,"{'JMS_MB': '47392', 'JMS_IME': 'Pongračevo', 'MBR_NADR': '671', 'Shape_Area': 637172.13214997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94068,45.79916,3.25,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+338,zagreb,,"{'JMS_MB': '47406', 'JMS_IME': 'Rudeš', 'MBR_NADR': '671', 'Shape_Area': 1102714.1399499, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.92014,45.79912,4.71,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+339,zagreb,,"{'JMS_MB': '47449', 'JMS_IME': 'Stara Trešnjevka', 'MBR_NADR': '671', 'Shape_Area': 477376.326049976, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.94994,45.79684,2.8,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+340,zagreb,,"{'JMS_MB': '46655', 'JMS_IME': '""Marin Držić""', 'MBR_NADR': '680', 'Shape_Area': 608713.45284998, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99047,45.80028,1.74,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+341,zagreb,,"{'JMS_MB': '46612', 'JMS_IME': 'Cvjetnica', 'MBR_NADR': '680', 'Shape_Area': 186717.90929996, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96297,45.79673,2.14,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+342,zagreb,,"{'JMS_MB': '46639', 'JMS_IME': 'Cvjetno naselje', 'MBR_NADR': '680', 'Shape_Area': 919977.164249964, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97219,45.79276,2.3,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+343,zagreb,,"{'JMS_MB': '46647', 'JMS_IME': 'Kanal', 'MBR_NADR': '680', 'Shape_Area': 772488.346849962, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00266,45.80398,2.2,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+344,zagreb,,"{'JMS_MB': '46663', 'JMS_IME': 'Martinovka', 'MBR_NADR': '680', 'Shape_Area': 891059.17504997, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97731,45.80159,1.28,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+345,zagreb,,"{'JMS_MB': '46671', 'JMS_IME': 'Miramare', 'MBR_NADR': '680', 'Shape_Area': 345168.652500019, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.97481,45.79733,1.77,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+346,zagreb,,"{'JMS_MB': '46680', 'JMS_IME': 'Savski kuti', 'MBR_NADR': '680', 'Shape_Area': 203465.399300087, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95991,45.79239,2.68,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+347,zagreb,,"{'JMS_MB': '46698', 'JMS_IME': 'Sigečica', 'MBR_NADR': '680', 'Shape_Area': 820496.189750018, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,16.00683,45.79931,2.74,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+348,zagreb,,"{'JMS_MB': '46701', 'JMS_IME': 'Staro Trnje', 'MBR_NADR': '680', 'Shape_Area': 838349.748400044, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98674,45.79193,2.46,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+349,zagreb,,"{'JMS_MB': '46710', 'JMS_IME': 'Trnjanska Savica', 'MBR_NADR': '680', 'Shape_Area': 767952.71555001, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.99794,45.79064,2.96,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+350,zagreb,,"{'JMS_MB': '46728', 'JMS_IME': 'Trnje', 'MBR_NADR': '680', 'Shape_Area': 427773.004049929, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.98414,45.79744,1.82,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+351,zagreb,,"{'JMS_MB': '46736', 'JMS_IME': 'Veslačko naselje', 'MBR_NADR': '680', 'Shape_Area': 345257.776299951, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.95668,45.78838,3.19,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+352,zagreb,,"{'JMS_MB': '46744', 'JMS_IME': 'Vrbik', 'MBR_NADR': '680', 'Shape_Area': 236614.589850035, 'datum_a': '20250203'}",local_board,Grad Zagreb,,,,,,,,,,,,,15.96765,45.79684,1.96,data.zagreb.hr RPJ_MO (HTRS96->WGS84)
+353,sarajevo,10863,Ilijaš,municipality,Kanton Sarajevo,21124,2024,309.0,68.4,4255,1080.0,552.2,515,,,,,18.41065,43.99649,15.36,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+354,sarajevo,11584,Stari Grad Sarajevo,municipality,Kanton Sarajevo,33534,2024,51.0,657.5,10478,1778.0,909.08,2122,,,4020.0,2055.39,18.46635,43.89595,5.08,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+355,sarajevo,11592,Trnovo,municipality,Kanton Sarajevo,1772,2024,338.0,5.2,397,1301.0,665.19,91,,,4040.0,2065.62,18.3717,43.66009,22.59,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+356,sarajevo,10847,Hadžići,municipality,Kanton Sarajevo,24526,2024,273.0,89.8,5671,1341.0,685.64,658,,,,,18.14482,43.7646,25.1,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+357,sarajevo,11550,Ilidža,municipality,Kanton Sarajevo,72818,2024,143.0,509.2,26600,1408.0,719.9,4653,,,3000.0,1533.88,18.27346,43.82016,13.2,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+358,sarajevo,11568,Novo Sarajevo,municipality,Kanton Sarajevo,62463,2024,10.0,6246.3,29789,1830.0,935.66,4304,,,3830.0,1958.25,18.39194,43.85177,3.08,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+359,sarajevo,10839,Centar Sarajevo,municipality,Kanton Sarajevo,51919,2024,33.0,1573.3,46573,1986.0,1015.43,5946,,,3900.0,1994.04,18.4268,43.89261,3.74,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+360,sarajevo,10871,Novi Grad Sarajevo,municipality,Kanton Sarajevo,123568,2024,47.0,2629.1,32134,1545.0,789.95,4054,,,3110.0,1590.12,18.31603,43.85959,9.06,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+361,sarajevo,10928,Vogošća,municipality,Kanton Sarajevo,29807,2024,72.0,414.0,6888,1325.0,677.46,993,,,2800.0,1431.62,18.37093,43.92356,8.55,FZS Kanton Sarajevo 2025/2026 + FGU RCN 2024
+362,travnik,10901,Travnik,municipality,Srednjobosanski kanton,50970,2024,529.0,96.4,12993,1156.0,591.05,1172,,,1610.0,823.18,17.61725,44.26778,0.0,FZS SBK u brojkama 2025 + FGU RCN 2024

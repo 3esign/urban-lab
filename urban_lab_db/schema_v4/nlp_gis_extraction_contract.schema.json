@@ -1,0 +1,361 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://urbanlab.svemir.local/schemas/nlp_gis_extraction_contract.v4.json",
+  "title": "Urban Lab v4 NLP->GIS & Epistemic Extraction Contract",
+  "description": "Standardized ingestion payload emitted by deterministic API parsers or LLM/NLP extractors before writing to urban_lab_5cities.sqlite (v4). Enforces provenance, Trust-Tier monotonicity, legal hygiene, and spatial precision honesty.",
+  "type": "object",
+  "required": [
+    "contract_version",
+    "extractor",
+    "document",
+    "geo_mentions",
+    "entity_mentions"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "contract_version": {
+      "enum": ["urban-lab-v4.0", "urban-lab-v4.1"]
+    },
+    "extractor": {
+      "type": "object",
+      "required": ["pipeline_version", "method", "executed_at"],
+      "additionalProperties": false,
+      "properties": {
+        "pipeline_version": { "type": "string", "minLength": 3 },
+        "method": {
+          "type": "string",
+          "enum": ["deterministic_api", "gazetteer_rules", "hybrid_gazetteer_llm", "human_curated"]
+        },
+        "model_name": { "type": ["string", "null"] },
+        "executed_at": { "type": "string", "format": "date-time" }
+      }
+    },
+    "document": {
+      "type": "object",
+      "required": [
+        "doc_id",
+        "source_id",
+        "doc_type",
+        "trust_tier",
+        "epistemic_role",
+        "title",
+        "language",
+        "published_at",
+        "fetched_at",
+        "primary_url",
+        "raw_sha256",
+        "topic_primary"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "doc_id": { "type": "string", "pattern": "^doc:[a-z0-9_]+:[A-Za-z0-9_.:-]+$" },
+        "source_id": { "type": "string", "minLength": 2 },
+        "doc_type": {
+          "type": "string",
+          "enum": [
+            "procurement_notice", "procurement_award", "urban_plan_act", "building_permit",
+            "subsidy_grant", "election_result", "parliament_transcript", "public_consultation",
+            "news_article", "protest_event_record", "investigative_report",
+            "scientific_paper", "dissertation", "patent_filing", "eu_project_grant",
+            "sensor_aggregate", "market_listing_aggregate", "financial_stress_record", "policy_report",
+            "cadastral_extract", "3d_building_survey"
+          ]
+        },
+        "trust_tier": { "type": "string", "enum": ["A1", "A2", "B", "C", "D"] },
+        "epistemic_role": {
+          "type": "string",
+          "enum": [
+            "primary_record", "peer_reviewed_finding", "documented_investigation",
+            "media_report", "public_opinion", "derived_extraction"
+          ]
+        },
+        "primary_city_id": {
+          "type": ["string", "null"],
+          "enum": ["beograd", "zagreb", "sarajevo", "novi_pazar", "travnik", null]
+        },
+        "country_iso3": {
+          "type": ["string", "null"],
+          "enum": ["SRB", "HRV", "BIH", "EU", "INT", null]
+        },
+        "title": { "type": "string", "minLength": 3, "maxLength": 500 },
+        "summary_text": { "type": ["string", "null"], "maxLength": 3000 },
+        "language": { "type": "string", "minLength": 2, "maxLength": 10 },
+        "published_at": { "type": "string", "minLength": 10 },
+        "fetched_at": { "type": "string", "minLength": 10 },
+        "primary_url": { "type": "string", "format": "uri" },
+        "raw_sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+        "topic_primary": {
+          "type": "string",
+          "enum": [
+            "land_rent_housing", "urban_planning_gup", "public_procurement", "fiscal_budget",
+            "transport_corridor", "labor_wages", "industry_supply_chain", "energy_air_climate",
+            "tourism_shortterm_rent", "science_rd_innovation", "social_friction_protest",
+            "financial_stress", "diaspora_remittances", "governance_elections", "other"
+          ]
+        },
+        "sentiment_score": { "type": ["number", "null"], "minimum": -1.0, "maximum": 1.0 }
+      }
+    },
+    "geo_mentions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "surface_form",
+          "geo_role",
+          "geo_precision",
+          "spatial_uncertainty_m",
+          "match_method",
+          "geo_confidence",
+          "render_as_pin"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "surface_form": { "type": "string", "minLength": 1 },
+          "canonical_key": { "type": ["string", "null"] },
+          "char_start": { "type": ["integer", "null"], "minimum": 0 },
+          "char_end": { "type": ["integer", "null"], "minimum": 0 },
+          "geo_role": {
+            "type": "string",
+            "enum": [
+              "subject_location", "affected_zone", "origin_flow", "destination_flow",
+              "authority_seat", "publisher_dateline", "comparative_reference"
+            ]
+          },
+          "geo_precision": {
+            "type": "string",
+            "enum": [
+              "exact_point", "parcel_building", "street_corridor", "tax_zone",
+              "neighborhood_mo", "municipality", "hinterland_ring", "city_core",
+              "corridor_line", "country_macro", "unresolved"
+            ]
+          },
+          "lat": { "type": ["number", "null"], "minimum": -90, "maximum": 90 },
+          "lon": { "type": ["number", "null"], "minimum": -180, "maximum": 180 },
+          "spatial_uncertainty_m": { "type": "number", "minimum": 0 },
+          "match_method": {
+            "type": "string",
+            "enum": [
+              "structured_api_coords", "structured_admin_code", "gazetteer_exact",
+              "gazetteer_inflected_stem", "gazetteer_context_disambiguated",
+              "llm_span_to_gazetteer", "unresolved"
+            ]
+          },
+          "geo_confidence": { "type": "number", "minimum": 0, "maximum": 1 },
+          "disambiguation_evidence": { "type": ["string", "null"] },
+          "render_as_pin": { "type": "boolean" }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "geo_precision": { "enum": ["city_core", "hinterland_ring", "country_macro", "unresolved"] }
+              }
+            },
+            "then": {
+              "properties": { "render_as_pin": { "const": false } }
+            }
+          }
+        ]
+      }
+    },
+    "entity_mentions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["surface_form", "entity_type", "mention_role", "confidence"],
+        "additionalProperties": false,
+        "properties": {
+          "surface_form": { "type": "string", "minLength": 1 },
+          "entity_type": {
+            "type": "string",
+            "enum": [
+              "company", "public_institution", "municipality_authority", "university_rd",
+              "person_public_role", "ngo_thinktank", "media_outlet",
+              "infrastructure_project", "political_party", "spatial_zone"
+            ]
+          },
+          "id_scheme": {
+            "type": ["string", "null"],
+            "enum": [
+              "srb_mb", "srb_pib", "hrv_oib", "hrv_mbs", "bih_jib", "bih_mbs",
+              "ejn_org_id", "ujn_org_id", "eojn_org_id", "openalex_inst_id",
+              "ror_id", "orcid", "cordis_org_id", "wikidata_qid", "lei", "aleph_entity_id",
+              "rik_list_id", "dip_list_id", "cik_party_id", null
+            ]
+          },
+          "id_value": { "type": ["string", "null"] },
+          "country_iso3": { "type": ["string", "null"], "enum": ["SRB", "HRV", "BIH", "EU", "INT", null] },
+          "mention_role": {
+            "type": "string",
+            "enum": [
+              "contracting_authority", "winning_bidder", "bidder", "subsidy_recipient",
+              "plan_proponent", "research_institution", "investor", "affected_actor",
+              "protest_organizer", "mentioned_general"
+            ]
+          },
+          "public_interest_basis": { "type": ["string", "null"] },
+          "confidence": { "type": "number", "minimum": 0, "maximum": 1 }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": { "entity_type": { "const": "person_public_role" } }
+            },
+            "then": {
+              "required": ["public_interest_basis"],
+              "properties": { "public_interest_basis": { "type": "string", "minLength": 8 } }
+            }
+          }
+        ]
+      }
+    },
+    "candidate_events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["event_category", "title", "primary_t0", "primary_t0_type", "excerpt_quote"],
+        "additionalProperties": false,
+        "properties": {
+          "event_id_hint": { "type": ["string", "null"] },
+          "event_category": {
+            "type": "string",
+            "enum": [
+              "urban_plan_change", "tax_policy_shock", "infrastructure_milestone",
+              "major_procurement_award", "private_investment_entry", "factory_closure_layoff",
+              "subsidy_eu_grant", "protest_strike_blockade", "environmental_crisis",
+              "macro_fiscal_shock", "housing_rent_shock", "election_turnover"
+            ]
+          },
+          "title": { "type": "string", "minLength": 5 },
+          "t0_announced": { "type": ["string", "null"] },
+          "t0_enacted": { "type": ["string", "null"] },
+          "t0_effective": { "type": ["string", "null"] },
+          "primary_t0": { "type": "string", "minLength": 10 },
+          "primary_t0_type": { "type": "string", "enum": ["announced", "enacted", "effective"] },
+          "magnitude_eur": { "type": ["number", "null"], "minimum": 0 },
+          "excerpt_quote": { "type": "string", "minLength": 10, "maxLength": 600 }
+        }
+      }
+    },
+    "structural_indicators": {
+      "type": "array",
+      "description": "Objective, verifiable numeric/boolean metrics extracted from the document (never automated legal accusations).",
+      "items": {
+        "type": "object",
+        "required": ["indicator_name", "value", "unit", "excerpt_quote"],
+        "additionalProperties": false,
+        "properties": {
+          "indicator_name": { "type": "string", "minLength": 2 },
+          "value": { "type": ["number", "string", "boolean"] },
+          "unit": { "type": "string" },
+          "excerpt_quote": { "type": "string", "minLength": 5, "maxLength": 400 }
+        }
+      }
+    },
+    "election_station_payload": {
+      "type": ["object", "null"],
+      "description": "Optional structured RIK/DIP/CIK polling-station tally block (strictly aggregate, zero individual voter PII).",
+      "required": ["election_id", "authority_body", "station_code", "station_type", "ballots_cast", "valid_ballots", "invalid_ballots", "results"],
+      "additionalProperties": false,
+      "properties": {
+        "election_id": { "type": "string", "minLength": 5 },
+        "authority_body": { "type": "string", "enum": ["RIK", "GIK", "DIP", "CIK"] },
+        "municipality_name": { "type": "string", "minLength": 2 },
+        "station_code": { "type": "string", "minLength": 1 },
+        "station_name": { "type": "string", "minLength": 1 },
+        "station_type": { "type": "string", "enum": ["regular", "absentee_postal", "mobile_team", "unconfirmed_ballots", "diplomatic", "prison_institution"] },
+        "registered_voters": { "type": ["integer", "null"], "minimum": 0 },
+        "ballots_cast": { "type": "integer", "minimum": 0 },
+        "valid_ballots": { "type": "integer", "minimum": 0 },
+        "invalid_ballots": { "type": "integer", "minimum": 0 },
+        "results": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["list_or_candidate_name", "comparative_bloc", "votes_count"],
+            "additionalProperties": false,
+            "properties": {
+              "ballot_number": { "type": ["integer", "null"], "minimum": 1 },
+              "list_or_candidate_name": { "type": "string", "minLength": 1 },
+              "comparative_bloc": {
+                "type": "string",
+                "enum": [
+                  "incumbent_national", "incumbent_local", "opposition_civic_green",
+                  "opposition_center_right", "minority_regional", "independent_local",
+                  "coalition_mixed", "other"
+                ]
+              },
+              "is_minority_list": { "type": "boolean" },
+              "votes_count": { "type": "integer", "minimum": 0 }
+            }
+          }
+        }
+      }
+    },
+    "xs_spatial_payload": {
+      "type": ["object", "null"],
+      "description": "Optional XS micro-spatial block for cadastral parcels, GUP/PDR/ISPU zoning envelopes, 3D buildings, or CEOP/ISPU permits.",
+      "additionalProperties": false,
+      "properties": {
+        "parcel_uid": { "type": ["string", "null"] },
+        "cadastral_municipality": { "type": ["string", "null"] },
+        "parcel_number": { "type": ["string", "null"] },
+        "ownership_regime": {
+          "type": ["string", "null"],
+          "enum": ["public_state", "public_municipal", "private_physical", "private_corporate", "mixed_coownership", "public_enterprise", "restitution_disputed", "unknown", null]
+        },
+        "zoning_envelope": {
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "properties": {
+            "plan_name": { "type": "string" },
+            "zone_code": { "type": "string" },
+            "permitted_use": {
+              "type": "string",
+              "enum": ["residential", "commercial", "mixed_use", "industrial", "public_facility", "green_recreation", "agricultural", "protected_heritage", "infrastructure"]
+            },
+            "max_far": { "type": ["number", "null"], "minimum": 0, "maximum": 30 },
+            "max_coverage_ratio": { "type": ["number", "null"], "minimum": 0, "maximum": 1 },
+            "max_height_m": { "type": ["number", "null"], "minimum": 0, "maximum": 400 },
+            "max_floors": { "type": ["integer", "null"], "minimum": 0, "maximum": 120 },
+            "effective_from": { "type": "string", "minLength": 10 }
+          }
+        },
+        "building_3d": {
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "properties": {
+            "building_uid": { "type": "string" },
+            "footprint_area_m2": { "type": "number", "exclusiveMinimum": 0 },
+            "height_m": { "type": "number", "exclusiveMinimum": 0, "maximum": 450 },
+            "floors_above_ground": { "type": ["integer", "null"], "minimum": 1 },
+            "height_source": {
+              "type": "string",
+              "enum": ["lidar_3d_city_model", "cadastre_register", "building_permit_ceop_ispu", "osm_explicit_height", "osm_levels_estimated", "ghsl_3d_raster", "shadow_ml_inferred"]
+            },
+            "heating_source": {
+              "type": ["string", "null"],
+              "enum": ["district_heating", "natural_gas", "heat_pump_electric", "solid_fuel_coal_wood", "oil", "unknown", null]
+            }
+          }
+        },
+        "permit": {
+          "type": ["object", "null"],
+          "additionalProperties": false,
+          "properties": {
+            "permit_uid": { "type": "string" },
+            "permit_type": {
+              "type": "string",
+              "enum": ["location_conditions", "building_permit", "occupancy_permit", "demolition_permit", "legalization", "plan_amendment"]
+            },
+            "status": { "type": "string", "enum": ["applied", "issued", "rejected", "expired", "revoked", "completed"] },
+            "issue_date": { "type": "string", "minLength": 10 },
+            "planned_gfa_m2": { "type": ["number", "null"], "minimum": 0 },
+            "estimated_investment_eur": { "type": ["number", "null"], "minimum": 0 }
+          }
+        }
+      }
+    }
+  }
+}

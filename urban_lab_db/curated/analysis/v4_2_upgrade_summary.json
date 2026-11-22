@@ -1,0 +1,598 @@
+{
+  "upgraded_at": "2026-11-22T08:57:07Z",
+  "schema_version": "v4.2.0-upgrade",
+  "db_path": "urban_lab_db/curated/urban_lab_5cities_v4.sqlite",
+  "db_size_mb": 129.12,
+  "integrity_check": "ok",
+  "foreign_key_errors": 0,
+  "elapsed_s": 20.0,
+  "steps": {
+    "manifest_added": 0,
+    "ted": {
+      "ted_contracts": 700,
+      "winners_linked": 296,
+      "award_relations": 296
+    },
+    "cordis": {
+      "cordis_grants": 113,
+      "cordis_local_orgs": 204
+    },
+    "ookla": {
+      "ookla_tiles": 5179
+    },
+    "transit": {
+      "transit_stops_loaded": 10678
+    },
+    "buildings_parity": {
+      "buildings_added": 0,
+      "buildings_total": 32385
+    },
+    "climate_macro_market_sepa": {
+      "era5_sensor_rows": 1020,
+      "wb_additional_rows": 373,
+      "sensor_community_rows": 8,
+      "sepa_prtr_rows": 148,
+      "zagreb_market_rows": 418,
+      "sjenica_tax_rows": 0,
+      "eurostat_nuts3_added": 37
+    },
+    "empty_tables_filled": {
+      "election_station_crosswalk": 605,
+      "election_results_linked_to_party_entities": 0,
+      "entity_aliases": 0,
+      "xs_cadastral_parcels": 86,
+      "xs_zoning_envelopes": 86,
+      "buildings_linked_to_parcels": 422,
+      "xs_building_permits": 5,
+      "event_evidence_links": 29,
+      "provenance_claims": 6
+    },
+    "mv_election_rows": 3479
+  },
+  "views_total": 28,
+  "views_ok": 28,
+  "view_checks": [
+    {
+      "view": "v_5cities_landuse_profile",
+      "ok": true,
+      "rows": 5,
+      "ms": 2.1
+    },
+    {
+      "view": "v_5cities_master_scorecard",
+      "ok": true,
+      "rows": 5,
+      "ms": 186.6
+    },
+    {
+      "view": "v_beograd_opstine_economy",
+      "ok": true,
+      "rows": 17,
+      "ms": 1.4
+    },
+    {
+      "view": "v_bid_rent_profiles",
+      "ok": true,
+      "rows": 74,
+      "ms": 1.4
+    },
+    {
+      "view": "v_city_comparison",
+      "ok": true,
+      "rows": 5,
+      "ms": 0.0
+    },
+    {
+      "view": "v_city_zone_profile_unified",
+      "ok": true,
+      "rows": 388,
+      "ms": 74.5
+    },
+    {
+      "view": "v_data_quality_audit",
+      "ok": true,
+      "rows": 19,
+      "ms": 62.4
+    },
+    {
+      "view": "v_election_procurement_zone_join",
+      "ok": true,
+      "rows": 52,
+      "ms": 5.4
+    },
+    {
+      "view": "v_election_station_metrics",
+      "ok": true,
+      "rows": 3479,
+      "ms": 523.5
+    },
+    {
+      "view": "v_event_study_did_summary",
+      "ok": true,
+      "rows": 3,
+      "ms": 1.4
+    },
+    {
+      "view": "v_geo_location_dossier",
+      "ok": true,
+      "rows": 2970,
+      "ms": 33.5
+    },
+    {
+      "view": "v_l_hinterland_summary",
+      "ok": true,
+      "rows": 5,
+      "ms": 1.0
+    },
+    {
+      "view": "v_ookla_digital_divide_by_city",
+      "ok": true,
+      "rows": 5,
+      "ms": 6.3
+    },
+    {
+      "view": "v_osm_5cities_centrality",
+      "ok": true,
+      "rows": 25,
+      "ms": 388.8
+    },
+    {
+      "view": "v_osm_centrality_rings",
+      "ok": true,
+      "rows": 361,
+      "ms": 137.4
+    },
+    {
+      "view": "v_procurement_buyer_supplier_network",
+      "ok": true,
+      "rows": 573,
+      "ms": 5.6
+    },
+    {
+      "view": "v_procurement_structural_indicators",
+      "ok": true,
+      "rows": 11,
+      "ms": 1.0
+    },
+    {
+      "view": "v_s_bakery_5cities_comparison",
+      "ok": true,
+      "rows": 5,
+      "ms": 1.0
+    },
+    {
+      "view": "v_science_eu_grants_by_city",
+      "ok": true,
+      "rows": 5,
+      "ms": 1.0
+    },
+    {
+      "view": "v_sector_specialization_lq",
+      "ok": true,
+      "rows": 120,
+      "ms": 2.0
+    },
+    {
+      "view": "v_srb_supply_chain_by_muni",
+      "ok": true,
+      "rows": 173,
+      "ms": 27.0
+    },
+    {
+      "view": "v_srb_wheat_mills_bakeries_balance",
+      "ok": true,
+      "rows": 170,
+      "ms": 6.3
+    },
+    {
+      "view": "v_transit_accessibility_by_city",
+      "ok": true,
+      "rows": 5,
+      "ms": 11.0
+    },
+    {
+      "view": "v_trust_tier_coverage_by_city",
+      "ok": true,
+      "rows": 20,
+      "ms": 5.0
+    },
+    {
+      "view": "v_xl_country_structural_profile",
+      "ok": true,
+      "rows": 33,
+      "ms": 1.1
+    },
+    {
+      "view": "v_xl_latest_nuts3_gdp",
+      "ok": true,
+      "rows": 13,
+      "ms": 0.6
+    },
+    {
+      "view": "v_xs_3d_morphology_by_zone",
+      "ok": true,
+      "rows": 76,
+      "ms": 92.9
+    },
+    {
+      "view": "v_xs_development_rent_gap",
+      "ok": true,
+      "rows": 84,
+      "ms": 9.0
+    }
+  ],
+  "rent_gap_active_parcels": {
+    "with_buildings": 13,
+    "cities": 5
+  },
+  "scorecard_5cities": [
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "country_iso3": "SRB",
+      "population": 1681405,
+      "budget_eur_per_cap": 1044.0,
+      "avg_net_wage_eur": 1278.4,
+      "core_housing_eur_m2": 2172.3,
+      "companies_count": 64715,
+      "polling_stations_n": 1180,
+      "avg_turnout_pct": 59.77,
+      "avg_enp": 3.224,
+      "procurement_contracts_n": 200,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": 0.0,
+      "science_works_and_grants_n": 159,
+      "eu_cordis_grants_n": 38,
+      "eu_cordis_eur_m": 31.83,
+      "buildings_3d_n": 1824,
+      "bldg_volume_mio_m3": 14.12,
+      "transit_stops_n": 5902,
+      "ookla_tiles_n": 2143,
+      "ookla_dl_mbps": 215.07,
+      "avg_pm25_ugm3": 19.57,
+      "hdd18_2025": 2269.0,
+      "evidence_docs_n": 542
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "country_iso3": "HRV",
+      "population": 767131,
+      "budget_eur_per_cap": 4111.4,
+      "avg_net_wage_eur": 1760.0,
+      "core_housing_eur_m2": 3518.0,
+      "companies_count": 54075,
+      "polling_stations_n": 1816,
+      "avg_turnout_pct": 51.1,
+      "avg_enp": 4.023,
+      "procurement_contracts_n": 300,
+      "procurement_eur_m": 469.04,
+      "single_bidder_pct": 0.0,
+      "science_works_and_grants_n": 162,
+      "eu_cordis_grants_n": 37,
+      "eu_cordis_eur_m": 21.76,
+      "buildings_3d_n": 6496,
+      "bldg_volume_mio_m3": 338.92,
+      "transit_stops_n": 3803,
+      "ookla_tiles_n": 1807,
+      "ookla_dl_mbps": 301.57,
+      "avg_pm25_ugm3": 18.52,
+      "hdd18_2025": 2561.0,
+      "evidence_docs_n": 544
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "country_iso3": "BIH",
+      "population": 421531,
+      "budget_eur_per_cap": 2424.2,
+      "avg_net_wage_eur": 871.2,
+      "core_housing_eur_m2": 1994.0,
+      "companies_count": 23336,
+      "polling_stations_n": 308,
+      "avg_turnout_pct": 45.61,
+      "avg_enp": 4.783,
+      "procurement_contracts_n": 1050,
+      "procurement_eur_m": 15.92,
+      "single_bidder_pct": 10.3,
+      "science_works_and_grants_n": 160,
+      "eu_cordis_grants_n": 37,
+      "eu_cordis_eur_m": 6.31,
+      "buildings_3d_n": 930,
+      "bldg_volume_mio_m3": 8.65,
+      "transit_stops_n": 941,
+      "ookla_tiles_n": 787,
+      "ookla_dl_mbps": 114.26,
+      "avg_pm25_ugm3": 23.75,
+      "hdd18_2025": 2556.0,
+      "evidence_docs_n": 1302
+    },
+    {
+      "city_id": "novi_pazar",
+      "city_name": "Novi Pazar",
+      "country_iso3": "SRB",
+      "population": 106720,
+      "budget_eur_per_cap": 420.5,
+      "avg_net_wage_eur": 797.3,
+      "core_housing_eur_m2": 1089.3,
+      "companies_count": 1325,
+      "polling_stations_n": 99,
+      "avg_turnout_pct": 53.39,
+      "avg_enp": 2.894,
+      "procurement_contracts_n": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null,
+      "science_works_and_grants_n": 82,
+      "eu_cordis_grants_n": 0,
+      "eu_cordis_eur_m": 0.0,
+      "buildings_3d_n": 17200,
+      "bldg_volume_mio_m3": 21.38,
+      "transit_stops_n": 12,
+      "ookla_tiles_n": 181,
+      "ookla_dl_mbps": 150.03,
+      "avg_pm25_ugm3": 12.4,
+      "hdd18_2025": 2728.0,
+      "evidence_docs_n": 147
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "country_iso3": "BIH",
+      "population": 50970,
+      "budget_eur_per_cap": 400.3,
+      "avg_net_wage_eur": 591.0,
+      "core_housing_eur_m2": 823.2,
+      "companies_count": 1172,
+      "polling_stations_n": 76,
+      "avg_turnout_pct": 49.83,
+      "avg_enp": 2.212,
+      "procurement_contracts_n": 300,
+      "procurement_eur_m": 2.57,
+      "single_bidder_pct": 8.7,
+      "science_works_and_grants_n": 75,
+      "eu_cordis_grants_n": 1,
+      "eu_cordis_eur_m": 0.08,
+      "buildings_3d_n": 5935,
+      "bldg_volume_mio_m3": 7.62,
+      "transit_stops_n": 20,
+      "ookla_tiles_n": 261,
+      "ookla_dl_mbps": 68.61,
+      "avg_pm25_ugm3": 13.78,
+      "hdd18_2025": 2629.0,
+      "evidence_docs_n": 407
+    }
+  ],
+  "ookla_digital_divide": [
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "quarter": "2025-Q4",
+      "network_type": "fixed",
+      "tiles_610m_n": 2143,
+      "total_speedtests": 72553,
+      "total_devices": 24475,
+      "weighted_dl_mbps": 215.07,
+      "weighted_ul_mbps": 114.66,
+      "weighted_lat_ms": 7.75,
+      "core_0_3km_dl_mbps": 188.22,
+      "outer_6km_plus_dl_mbps": 158.91,
+      "core_to_periphery_speed_ratio": 1.18
+    },
+    {
+      "city_id": "novi_pazar",
+      "city_name": "Novi Pazar",
+      "quarter": "2025-Q4",
+      "network_type": "fixed",
+      "tiles_610m_n": 181,
+      "total_speedtests": 3848,
+      "total_devices": 1158,
+      "weighted_dl_mbps": 150.03,
+      "weighted_ul_mbps": 81.85,
+      "weighted_lat_ms": 12.77,
+      "core_0_3km_dl_mbps": 137.28,
+      "outer_6km_plus_dl_mbps": 48.23,
+      "core_to_periphery_speed_ratio": 2.85
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "quarter": "2025-Q4",
+      "network_type": "fixed",
+      "tiles_610m_n": 787,
+      "total_speedtests": 22715,
+      "total_devices": 7705,
+      "weighted_dl_mbps": 114.26,
+      "weighted_ul_mbps": 22.73,
+      "weighted_lat_ms": 10.88,
+      "core_0_3km_dl_mbps": 113.32,
+      "outer_6km_plus_dl_mbps": 87.69,
+      "core_to_periphery_speed_ratio": 1.29
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "quarter": "2025-Q4",
+      "network_type": "fixed",
+      "tiles_610m_n": 261,
+      "total_speedtests": 2129,
+      "total_devices": 672,
+      "weighted_dl_mbps": 68.61,
+      "weighted_ul_mbps": 12.51,
+      "weighted_lat_ms": 20.96,
+      "core_0_3km_dl_mbps": 58.67,
+      "outer_6km_plus_dl_mbps": 52.95,
+      "core_to_periphery_speed_ratio": 1.11
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "quarter": "2025-Q4",
+      "network_type": "fixed",
+      "tiles_610m_n": 1807,
+      "total_speedtests": 54372,
+      "total_devices": 18219,
+      "weighted_dl_mbps": 301.57,
+      "weighted_ul_mbps": 176.28,
+      "weighted_lat_ms": 6.08,
+      "core_0_3km_dl_mbps": 262.73,
+      "outer_6km_plus_dl_mbps": 280.0,
+      "core_to_periphery_speed_ratio": 0.94
+    }
+  ],
+  "data_quality_audit": [
+    {
+      "domain_table": "evidence_documents",
+      "total_rows": 2942,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "entities",
+      "total_rows": 883,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "entity_aliases",
+      "total_rows": 1733,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "entity_relations",
+      "total_rows": 306,
+      "cities_covered": 4
+    },
+    {
+      "domain_table": "domain_signals_procurement",
+      "total_rows": 1850,
+      "cities_covered": 4
+    },
+    {
+      "domain_table": "domain_signals_science",
+      "total_rows": 638,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "domain_signals_sensors",
+      "total_rows": 1957,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "polling_stations",
+      "total_rows": 3479,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "election_station_crosswalk",
+      "total_rows": 605,
+      "cities_covered": 1
+    },
+    {
+      "domain_table": "xs_buildings_3d",
+      "total_rows": 32385,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "xs_cadastral_parcels",
+      "total_rows": 84,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "xs_zoning_envelopes",
+      "total_rows": 84,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "xs_building_permits",
+      "total_rows": 5,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "transit_stops",
+      "total_rows": 10678,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "ookla_broadband_tiles",
+      "total_rows": 5179,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "urban_events",
+      "total_rows": 5,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "event_evidence_links",
+      "total_rows": 35,
+      "cities_covered": 5
+    },
+    {
+      "domain_table": "event_studies",
+      "total_rows": 3,
+      "cities_covered": 3
+    },
+    {
+      "domain_table": "provenance_claims",
+      "total_rows": 6,
+      "cities_covered": 5
+    }
+  ],
+  "event_studies_did": [
+    {
+      "study_id": "es:sa_vs_zg:winter_heating_pm25_2025_2026",
+      "study_title": "ES-03: Zimski šok energetskog siromaštva i PM2.5 (Sarajevo vs. Zagreb kontrola, 2025/26)",
+      "city_id": "sarajevo",
+      "event_category": "environmental_crisis",
+      "t0_anchor_type": "effective",
+      "t0_date": "2025-11-01",
+      "outcome_metric": "openaq_pm25_ugm3",
+      "identification_grade": "staggered_multi_city_did",
+      "min_upstream_tier": "A1",
+      "treated_pre_mean": 10.92,
+      "treated_post_mean": 33.28,
+      "treated_delta": 22.36,
+      "control_pre_mean": 9.35,
+      "control_post_mean": 35.6475,
+      "control_delta": 26.2975,
+      "did_estimate": -3.9375,
+      "did_pct_points": -57.184
+    },
+    {
+      "study_id": "es:zg:2024_2025_turnout_demobilization",
+      "study_title": "ES-01: Demobilizacija na lokalnim izborima u Zagrebu (2024 Parl vs 2025 Lokalni, DIP A1)",
+      "city_id": "zagreb",
+      "event_category": "election_turnover",
+      "t0_anchor_type": "effective",
+      "t0_date": "2025-05-18",
+      "outcome_metric": "turnout_pct",
+      "identification_grade": "matched_control_did",
+      "min_upstream_tier": "A1",
+      "treated_pre_mean": 67.77,
+      "treated_post_mean": 42.61,
+      "treated_delta": -25.16,
+      "control_pre_mean": null,
+      "control_post_mean": null,
+      "control_delta": null,
+      "did_estimate": -25.16,
+      "did_pct_points": null
+    },
+    {
+      "study_id": "es:5cities:ookla_core_vs_periphery_2025q4",
+      "study_title": "ES-04: Digitalni jaz jezgro (0–3 km) vs. periferija (>6 km) u 5 gradova (Ookla Q4 2025 A1)",
+      "city_id": "travnik",
+      "event_category": "infrastructure_milestone",
+      "t0_anchor_type": "effective",
+      "t0_date": "2025-10-01",
+      "outcome_metric": "ookla_fixed_dl_mbps",
+      "identification_grade": "staggered_multi_city_did",
+      "min_upstream_tier": "A1",
+      "treated_pre_mean": null,
+      "treated_post_mean": 152.044,
+      "treated_delta": null,
+      "control_pre_mean": null,
+      "control_post_mean": 125.556,
+      "control_delta": null,
+      "did_estimate": null,
+      "did_pct_points": null
+    }
+  ]
+}

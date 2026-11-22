@@ -1,0 +1,1164 @@
+{
+ "generated": "2026-11-22T12:41:54+00:00",
+ "v4": {
+  "tables": [
+   {
+    "name": "admin_units",
+    "rows": 362,
+    "cols": 22,
+    "has_city": true
+   },
+   {
+    "name": "apr_serbia_supply_chain",
+    "rows": 2926,
+    "cols": 14,
+    "has_city": false
+   },
+   {
+    "name": "cities",
+    "rows": 5,
+    "cols": 27,
+    "has_city": true
+   },
+   {
+    "name": "commuting_and_flows",
+    "rows": 31,
+    "cols": 12,
+    "has_city": false
+   },
+   {
+    "name": "companies_sr",
+    "rows": 66040,
+    "cols": 17,
+    "has_city": true
+   },
+   {
+    "name": "companies_sr_hinterland",
+    "rows": 7882,
+    "cols": 13,
+    "has_city": false
+   },
+   {
+    "name": "document_entity_mentions",
+    "rows": 2564,
+    "cols": 6,
+    "has_city": false
+   },
+   {
+    "name": "document_geo_mentions",
+    "rows": 2970,
+    "cols": 15,
+    "has_city": false
+   },
+   {
+    "name": "documents_fts",
+    "rows": 2942,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "documents_fts_config",
+    "rows": 1,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "documents_fts_data",
+    "rows": 170,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "documents_fts_docsize",
+    "rows": 2942,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "documents_fts_idx",
+    "rows": 165,
+    "cols": 3,
+    "has_city": false
+   },
+   {
+    "name": "domain_signals_procurement",
+    "rows": 1850,
+    "cols": 16,
+    "has_city": true
+   },
+   {
+    "name": "domain_signals_science",
+    "rows": 638,
+    "cols": 13,
+    "has_city": true
+   },
+   {
+    "name": "domain_signals_sensors",
+    "rows": 1957,
+    "cols": 14,
+    "has_city": true
+   },
+   {
+    "name": "election_cycles",
+    "rows": 5,
+    "cols": 12,
+    "has_city": false
+   },
+   {
+    "name": "election_station_crosswalk",
+    "rows": 605,
+    "cols": 6,
+    "has_city": false
+   },
+   {
+    "name": "election_station_results",
+    "rows": 74025,
+    "cols": 12,
+    "has_city": false
+   },
+   {
+    "name": "entities",
+    "rows": 883,
+    "cols": 12,
+    "has_city": false
+   },
+   {
+    "name": "entity_aliases",
+    "rows": 1733,
+    "cols": 7,
+    "has_city": false
+   },
+   {
+    "name": "entity_identifiers",
+    "rows": 465,
+    "cols": 9,
+    "has_city": false
+   },
+   {
+    "name": "entity_relations",
+    "rows": 306,
+    "cols": 14,
+    "has_city": false
+   },
+   {
+    "name": "event_evidence_links",
+    "rows": 35,
+    "cols": 3,
+    "has_city": false
+   },
+   {
+    "name": "event_locations",
+    "rows": 5,
+    "cols": 5,
+    "has_city": false
+   },
+   {
+    "name": "event_studies",
+    "rows": 3,
+    "cols": 13,
+    "has_city": false
+   },
+   {
+    "name": "event_study_observations",
+    "rows": 36,
+    "cols": 13,
+    "has_city": true
+   },
+   {
+    "name": "evidence_documents",
+    "rows": 2942,
+    "cols": 20,
+    "has_city": false
+   },
+   {
+    "name": "fiscal_budgets",
+    "rows": 16,
+    "cols": 16,
+    "has_city": true
+   },
+   {
+    "name": "gazetteer_aliases",
+    "rows": 6218,
+    "cols": 7,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_fts",
+    "rows": 6218,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_fts_config",
+    "rows": 1,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_fts_data",
+    "rows": 53,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_fts_docsize",
+    "rows": 6218,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_fts_idx",
+    "rows": 51,
+    "cols": 3,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_rtree",
+    "rows": 2043,
+    "cols": 5,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_rtree_node",
+    "rows": 64,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_rtree_parent",
+    "rows": 63,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "gazetteer_rtree_rowid",
+    "rows": 2043,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "hinterland_agri_forestry_trade",
+    "rows": 7,
+    "cols": 14,
+    "has_city": false
+   },
+   {
+    "name": "hinterland_units",
+    "rows": 36,
+    "cols": 16,
+    "has_city": false
+   },
+   {
+    "name": "macro_worldbank",
+    "rows": 120,
+    "cols": 6,
+    "has_city": false
+   },
+   {
+    "name": "mv_election_station_metrics",
+    "rows": 3479,
+    "cols": 24,
+    "has_city": true
+   },
+   {
+    "name": "ookla_broadband_tiles",
+    "rows": 5179,
+    "cols": 20,
+    "has_city": true
+   },
+   {
+    "name": "ookla_tiles_rtree",
+    "rows": 10358,
+    "cols": 5,
+    "has_city": false
+   },
+   {
+    "name": "ookla_tiles_rtree_node",
+    "rows": 316,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "ookla_tiles_rtree_parent",
+    "rows": 315,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "ookla_tiles_rtree_rowid",
+    "rows": 10358,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "osm_landuse_major_zones",
+    "rows": 9650,
+    "cols": 12,
+    "has_city": true
+   },
+   {
+    "name": "osm_landuse_summary",
+    "rows": 373,
+    "cols": 7,
+    "has_city": true
+   },
+   {
+    "name": "osm_pois",
+    "rows": 77330,
+    "cols": 11,
+    "has_city": true
+   },
+   {
+    "name": "polling_stations",
+    "rows": 3479,
+    "cols": 24,
+    "has_city": true
+   },
+   {
+    "name": "property_tax_zones_gis_summary",
+    "rows": 21,
+    "cols": 14,
+    "has_city": true
+   },
+   {
+    "name": "property_zones_prices",
+    "rows": 194,
+    "cols": 11,
+    "has_city": true
+   },
+   {
+    "name": "provenance_claims",
+    "rows": 6,
+    "cols": 13,
+    "has_city": false
+   },
+   {
+    "name": "rzs_agri_census_2023",
+    "rows": 203,
+    "cols": 29,
+    "has_city": false
+   },
+   {
+    "name": "s_bakery_unit_model",
+    "rows": 5,
+    "cols": 16,
+    "has_city": true
+   },
+   {
+    "name": "s_scale_input_costs",
+    "rows": 5,
+    "cols": 17,
+    "has_city": true
+   },
+   {
+    "name": "schema_migrations",
+    "rows": 3,
+    "cols": 4,
+    "has_city": false
+   },
+   {
+    "name": "sector_structure",
+    "rows": 559,
+    "cols": 11,
+    "has_city": true
+   },
+   {
+    "name": "sepa_industrial_emissions",
+    "rows": 148,
+    "cols": 17,
+    "has_city": true
+   },
+   {
+    "name": "source_registry",
+    "rows": 40,
+    "cols": 13,
+    "has_city": false
+   },
+   {
+    "name": "sources_manifest",
+    "rows": 422,
+    "cols": 12,
+    "has_city": true
+   },
+   {
+    "name": "spatial_gazetteer",
+    "rows": 2043,
+    "cols": 24,
+    "has_city": true
+   },
+   {
+    "name": "transit_stops",
+    "rows": 10678,
+    "cols": 13,
+    "has_city": true
+   },
+   {
+    "name": "transit_stops_rtree",
+    "rows": 10678,
+    "cols": 5,
+    "has_city": false
+   },
+   {
+    "name": "transit_stops_rtree_node",
+    "rows": 331,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "transit_stops_rtree_parent",
+    "rows": 330,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "transit_stops_rtree_rowid",
+    "rows": 10678,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "trust_tiers",
+    "rows": 5,
+    "cols": 9,
+    "has_city": false
+   },
+   {
+    "name": "urban_events",
+    "rows": 5,
+    "cols": 15,
+    "has_city": true
+   },
+   {
+    "name": "xl_corridors_projects_strategies",
+    "rows": 11,
+    "cols": 10,
+    "has_city": false
+   },
+   {
+    "name": "xl_macro_indicators",
+    "rows": 357,
+    "cols": 6,
+    "has_city": false
+   },
+   {
+    "name": "xl_regional_gdp_nuts3",
+    "rows": 81,
+    "cols": 9,
+    "has_city": false
+   },
+   {
+    "name": "xs_building_permits",
+    "rows": 5,
+    "cols": 18,
+    "has_city": true
+   },
+   {
+    "name": "xs_buildings_3d",
+    "rows": 32385,
+    "cols": 29,
+    "has_city": true
+   },
+   {
+    "name": "xs_buildings_rtree",
+    "rows": 32385,
+    "cols": 5,
+    "has_city": false
+   },
+   {
+    "name": "xs_buildings_rtree_node",
+    "rows": 1007,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "xs_buildings_rtree_parent",
+    "rows": 1006,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "xs_buildings_rtree_rowid",
+    "rows": 32385,
+    "cols": 2,
+    "has_city": false
+   },
+   {
+    "name": "xs_cadastral_parcels",
+    "rows": 84,
+    "cols": 25,
+    "has_city": true
+   },
+   {
+    "name": "xs_zoning_envelopes",
+    "rows": 84,
+    "cols": 18,
+    "has_city": true
+   },
+   {
+    "name": "zagreb_budget_lines",
+    "rows": 7316,
+    "cols": 10,
+    "has_city": false
+   },
+   {
+    "name": "zagreb_commercial_leases",
+    "rows": 320,
+    "cols": 9,
+    "has_city": false
+   },
+   {
+    "name": "zagreb_markets",
+    "rows": 31,
+    "cols": 7,
+    "has_city": false
+   },
+   {
+    "name": "zagreb_real_estate_market",
+    "rows": 418,
+    "cols": 15,
+    "has_city": true
+   }
+  ],
+  "views": [
+   {
+    "name": "v_5cities_landuse_profile",
+    "rows": 5,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_5cities_master_scorecard",
+    "rows": 5,
+    "cols": 25,
+    "has_city": true
+   },
+   {
+    "name": "v_beograd_opstine_economy",
+    "rows": 17,
+    "cols": 11,
+    "has_city": false
+   },
+   {
+    "name": "v_bid_rent_profiles",
+    "rows": 74,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_city_comparison",
+    "rows": 5,
+    "cols": 15,
+    "has_city": true
+   },
+   {
+    "name": "v_city_zone_profile_unified",
+    "rows": 388,
+    "cols": 24,
+    "has_city": true
+   },
+   {
+    "name": "v_data_quality_audit",
+    "rows": 19,
+    "cols": 3,
+    "has_city": false
+   },
+   {
+    "name": "v_election_procurement_zone_join",
+    "rows": 52,
+    "cols": 13,
+    "has_city": true
+   },
+   {
+    "name": "v_election_station_metrics",
+    "rows": 3479,
+    "cols": 24,
+    "has_city": true
+   },
+   {
+    "name": "v_event_study_did_summary",
+    "rows": 3,
+    "cols": 17,
+    "has_city": true
+   },
+   {
+    "name": "v_geo_location_dossier",
+    "rows": 2970,
+    "cols": 21,
+    "has_city": true
+   },
+   {
+    "name": "v_l_hinterland_summary",
+    "rows": 5,
+    "cols": 8,
+    "has_city": false
+   },
+   {
+    "name": "v_ookla_digital_divide_by_city",
+    "rows": 5,
+    "cols": 13,
+    "has_city": true
+   },
+   {
+    "name": "v_osm_5cities_centrality",
+    "rows": 25,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_osm_centrality_rings",
+    "rows": 361,
+    "cols": 5,
+    "has_city": true
+   },
+   {
+    "name": "v_procurement_buyer_supplier_network",
+    "rows": 573,
+    "cols": 12,
+    "has_city": true
+   },
+   {
+    "name": "v_procurement_structural_indicators",
+    "rows": 11,
+    "cols": 10,
+    "has_city": true
+   },
+   {
+    "name": "v_s_bakery_5cities_comparison",
+    "rows": 5,
+    "cols": 21,
+    "has_city": true
+   },
+   {
+    "name": "v_science_eu_grants_by_city",
+    "rows": 5,
+    "cols": 10,
+    "has_city": true
+   },
+   {
+    "name": "v_sector_specialization_lq",
+    "rows": 120,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_srb_supply_chain_by_muni",
+    "rows": 173,
+    "cols": 13,
+    "has_city": false
+   },
+   {
+    "name": "v_srb_wheat_mills_bakeries_balance",
+    "rows": 170,
+    "cols": 17,
+    "has_city": false
+   },
+   {
+    "name": "v_transit_accessibility_by_city",
+    "rows": 5,
+    "cols": 12,
+    "has_city": true
+   },
+   {
+    "name": "v_trust_tier_coverage_by_city",
+    "rows": 20,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_xl_country_structural_profile",
+    "rows": 33,
+    "cols": 4,
+    "has_city": false
+   },
+   {
+    "name": "v_xl_latest_nuts3_gdp",
+    "rows": 13,
+    "cols": 8,
+    "has_city": false
+   },
+   {
+    "name": "v_xs_3d_morphology_by_zone",
+    "rows": 76,
+    "cols": 11,
+    "has_city": true
+   },
+   {
+    "name": "v_xs_development_rent_gap",
+    "rows": 84,
+    "cols": 22,
+    "has_city": true
+   }
+  ]
+ },
+ "v3": {
+  "tables": [
+   {
+    "name": "admin_units",
+    "rows": 362,
+    "cols": 22,
+    "has_city": true
+   },
+   {
+    "name": "apr_serbia_supply_chain",
+    "rows": 2926,
+    "cols": 14,
+    "has_city": false
+   },
+   {
+    "name": "cities",
+    "rows": 5,
+    "cols": 27,
+    "has_city": true
+   },
+   {
+    "name": "commuting_and_flows",
+    "rows": 31,
+    "cols": 12,
+    "has_city": false
+   },
+   {
+    "name": "companies_sr",
+    "rows": 66040,
+    "cols": 17,
+    "has_city": true
+   },
+   {
+    "name": "companies_sr_hinterland",
+    "rows": 7882,
+    "cols": 13,
+    "has_city": false
+   },
+   {
+    "name": "fiscal_budgets",
+    "rows": 16,
+    "cols": 16,
+    "has_city": true
+   },
+   {
+    "name": "hinterland_agri_forestry_trade",
+    "rows": 7,
+    "cols": 14,
+    "has_city": false
+   },
+   {
+    "name": "hinterland_units",
+    "rows": 36,
+    "cols": 16,
+    "has_city": false
+   },
+   {
+    "name": "macro_worldbank",
+    "rows": 120,
+    "cols": 6,
+    "has_city": false
+   },
+   {
+    "name": "osm_landuse_major_zones",
+    "rows": 9650,
+    "cols": 12,
+    "has_city": true
+   },
+   {
+    "name": "osm_landuse_summary",
+    "rows": 373,
+    "cols": 7,
+    "has_city": true
+   },
+   {
+    "name": "osm_pois",
+    "rows": 77330,
+    "cols": 11,
+    "has_city": true
+   },
+   {
+    "name": "property_tax_zones_gis_summary",
+    "rows": 21,
+    "cols": 14,
+    "has_city": true
+   },
+   {
+    "name": "property_zones_prices",
+    "rows": 162,
+    "cols": 11,
+    "has_city": true
+   },
+   {
+    "name": "rzs_agri_census_2023",
+    "rows": 203,
+    "cols": 29,
+    "has_city": false
+   },
+   {
+    "name": "s_bakery_unit_model",
+    "rows": 5,
+    "cols": 16,
+    "has_city": true
+   },
+   {
+    "name": "s_scale_input_costs",
+    "rows": 5,
+    "cols": 17,
+    "has_city": true
+   },
+   {
+    "name": "sector_structure",
+    "rows": 559,
+    "cols": 11,
+    "has_city": true
+   },
+   {
+    "name": "sources_manifest",
+    "rows": 215,
+    "cols": 12,
+    "has_city": true
+   },
+   {
+    "name": "xl_corridors_projects_strategies",
+    "rows": 11,
+    "cols": 10,
+    "has_city": false
+   },
+   {
+    "name": "xl_macro_indicators",
+    "rows": 357,
+    "cols": 6,
+    "has_city": false
+   },
+   {
+    "name": "xl_regional_gdp_nuts3",
+    "rows": 74,
+    "cols": 9,
+    "has_city": false
+   },
+   {
+    "name": "zagreb_budget_lines",
+    "rows": 7316,
+    "cols": 10,
+    "has_city": false
+   },
+   {
+    "name": "zagreb_commercial_leases",
+    "rows": 320,
+    "cols": 9,
+    "has_city": false
+   },
+   {
+    "name": "zagreb_markets",
+    "rows": 31,
+    "cols": 7,
+    "has_city": false
+   }
+  ],
+  "views": [
+   {
+    "name": "v_5cities_landuse_profile",
+    "rows": 5,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_beograd_opstine_economy",
+    "rows": 17,
+    "cols": 11,
+    "has_city": false
+   },
+   {
+    "name": "v_bid_rent_profiles",
+    "rows": 74,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_city_comparison",
+    "rows": 5,
+    "cols": 15,
+    "has_city": true
+   },
+   {
+    "name": "v_l_hinterland_summary",
+    "rows": 5,
+    "cols": 8,
+    "has_city": false
+   },
+   {
+    "name": "v_osm_5cities_centrality",
+    "rows": 25,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_osm_centrality_rings",
+    "rows": "ERR no such column: ring_km",
+    "cols": 0,
+    "has_city": false
+   },
+   {
+    "name": "v_s_bakery_5cities_comparison",
+    "rows": 5,
+    "cols": 21,
+    "has_city": true
+   },
+   {
+    "name": "v_sector_specialization_lq",
+    "rows": 120,
+    "cols": 9,
+    "has_city": true
+   },
+   {
+    "name": "v_srb_supply_chain_by_muni",
+    "rows": 173,
+    "cols": 13,
+    "has_city": false
+   },
+   {
+    "name": "v_srb_wheat_mills_bakeries_balance",
+    "rows": 170,
+    "cols": 17,
+    "has_city": false
+   },
+   {
+    "name": "v_xl_country_structural_profile",
+    "rows": 33,
+    "cols": 4,
+    "has_city": false
+   },
+   {
+    "name": "v_xl_latest_nuts3_gdp",
+    "rows": 12,
+    "cols": 8,
+    "has_city": false
+   }
+  ]
+ },
+ "manifest": {
+  "rows": 442,
+  "bad_lines": 0,
+  "ok_true": 355,
+  "ok_false": 87,
+  "with_local_path": 440,
+  "distinct_paths": 398,
+  "paths_missing_on_disk": [
+   "raw/novi_pazar/osm_economic_pois_novi_pazar.json",
+   "raw/sarajevo/ippfbih_records_sarajevo.json",
+   "raw/sarajevo/osm_economic_pois_sarajevo.json",
+   "raw/travnik/osm_economic_pois_travnik.json",
+   "raw/wave2_l/fzs_zdk_kantbr4.pdf",
+   "raw/wave2_l/rzs_popis2022_dnevne_migracije_u_enika_i_studenata_po_polu_i_tipu_naselja.xlsx",
+   "raw/wave2_l/sbk_budzet_page.html",
+   "raw/wave2_xl/eurostat_avia_paoa.json",
+   "raw/wave2_xl/eurostat_avia_paoa_hr_rs.json",
+   "raw/wave2_xl/eurostat_earn_mw_cur_hr_rs.json",
+   "raw/wave2_xl/eurostat_nama_10r_3gdp_hr_rs.json",
+   "raw/wave2_xl/eurostat_nrg_pc_203_gas_business.json",
+   "raw/wave2_xl/eurostat_nrg_pc_205_elec_business.json",
+   "raw/wave2_xl/eurostat_tour_occ_nin2_hr_rs.json",
+   "raw/wave2_xl/eurostat_urb_ctour_zg_bg.json",
+   "raw/wave2_xl/eurostat_urb_ctran_zg_bg.json",
+   "raw/wave2_xl/eurostat_urb_lpop1_fua_zg_bg.json",
+   "raw/wave3/rzs_agri2023/pp2023_10_tabela-42_ko_nice_cir.xlsx",
+   "raw/wave3/rzs_agri2023/pp2023_11__-43-_-_-_-_-_-30-_-2023.xlsx",
+   "raw/wave4/elections/cik2024_r5_eu.json",
+   "raw/wave4/elections/cik2024_r9_eu.json",
+   "raw/wave4/mobility_and_permits/rzs_permits_dwellings.json",
+   "raw/wave4/news/gdelt_artlist_sarajevo.json",
+   "raw/wave4/news/gdelt_artlist_travnik.json",
+   "raw/wave4/news/gdelt_artlist_travnik_retry.json",
+   "raw/wave4/news/rss_indikator.xml",
+   "raw/wave4/news/rss_lider.xml",
+   "raw/wave4/science/eu_funded_beograd.json",
+   "raw/wave4/science/eu_funded_novi_pazar.json",
+   "raw/wave4/science/eu_funded_sarajevo.json",
+   "raw/wave4/science/eu_funded_travnik.json",
+   "raw/wave4/science/eu_funded_zagreb.json",
+   "raw/wave4/science/works_about_beograd_env_gov_recent_2022_2026.json",
+   "raw/wave4/science/works_about_beograd_env_gov_top_cited.json",
+   "raw/wave4/science/works_about_beograd_urban_econ_recent_2022_2026.json",
+   "raw/wave4/science/works_about_novi_pazar_env_gov_recent_2022_2026.json",
+   "raw/wave4/science/works_about_novi_pazar_env_gov_top_cited.json",
+   "raw/wave4/science/works_about_novi_pazar_urban_econ_recent_2022_2026.json",
+   "raw/wave4/science/works_about_sarajevo_env_gov_recent_2022_2026.json",
+   "raw/wave4/science/works_about_sarajevo_env_gov_top_cited.json",
+   "raw/wave4/science/works_about_sarajevo_urban_econ_recent_2022_2026.json",
+   "raw/wave4/science/works_about_travnik_env_gov_recent_2022_2026.json",
+   "raw/wave4/science/works_about_travnik_env_gov_top_cited.json",
+   "raw/wave4/science/works_about_travnik_urban_econ_recent_2022_2026.json",
+   "raw/wave4/science/works_about_zagreb_env_gov_recent_2022_2026.json",
+   "raw/wave4/science/works_about_zagreb_env_gov_top_cited.json",
+   "raw/wave4/science/works_about_zagreb_urban_econ_recent_2022_2026.json",
+   "raw/wave4/xs_3d/osm_3d_beograd.json",
+   "raw/wave4/xs_3d/osm_3d_novi_pazar.json",
+   "raw/wave4/xs_3d/osm_3d_np_core.json",
+   "raw/wave4/xs_3d/osm_3d_tr_core.json",
+   "raw/wave5/serbia_permits/rzs_permits_buildings.csv",
+   "raw/wave5/serbia_permits/rzs_permits_dwellings.csv",
+   "raw/zagreb/osm_economic_pois_zagreb.json"
+  ],
+  "raw_files": 437,
+  "raw_not_in_manifest": [
+   "raw\\common\\apr_serbia_nace2_baseline.json",
+   "raw\\wave2_l\\apr_bakery_supply_chain_core.json",
+   "raw\\wave2_l\\apr_hinterland_summary.json",
+   "raw\\wave2_l\\parsed_fzs_ks_2026_pages.json",
+   "raw\\wave2_l\\parsed_fzs_sbk_2025_pages.json",
+   "raw\\wave2_l\\parsed_fzs_zdk_2026_key.json",
+   "raw\\wave2_l\\parsed_rzs_commuting_2022.json",
+   "raw\\wave2_l\\parsed_zpr_ks_2025_pages.json",
+   "raw\\wave3\\apr_hinterland_v3_summary.json",
+   "raw\\wave3\\apr_serbia_supply_chain_summary.json",
+   "raw\\wave3\\beograd_odluka_clean.txt",
+   "raw\\wave3\\beograd_zones_parsed.json",
+   "raw\\wave3\\novi_pazar_odluka_clean.txt",
+   "raw\\wave3\\novi_pazar_zones_parsed.json",
+   "raw\\wave3\\rzs_agri2023_all_munis.json",
+   "raw\\wave4\\elections\\cik_24_eu.bin",
+   "raw\\wave4\\elections\\cik_dbname_35.json",
+   "raw\\wave4\\elections\\cik_dbname_36.json",
+   "raw\\wave4\\elections\\cik_dbname_37.json",
+   "raw\\wave4\\elections\\cik_dbname_38.json",
+   "raw\\wave4\\elections\\cik_dbname_39.json",
+   "raw\\wave4\\elections\\cik_dbname_40.json",
+   "raw\\wave4\\elections\\cik_dbname_41.json",
+   "raw\\wave4\\elections\\cik_dbname_42.json",
+   "raw\\wave4\\elections\\cik_el_list_24.bin",
+   "raw\\wave4\\elections\\cik_test.bin",
+   "raw\\wave4\\elections\\dip_lok_2025.zip",
+   "raw\\wave4\\elections\\dip_parl_2024.zip",
+   "raw\\wave4\\elections\\parsed_cik_2024_sa_tr.json",
+   "raw\\wave4\\elections\\parsed_dip_2024_zagreb.json",
+   "raw\\wave4\\elections\\parsed_dip_2025_zagreb.json",
+   "raw\\wave4\\elections\\parsed_rik_2023_bg_np.json",
+   "raw\\wave4\\mobility_and_permits\\gtfs_stops_beograd_bg_suburban.json",
+   "raw\\wave4\\mobility_and_permits\\gtfs_stops_beograd_bg_urban.json",
+   "raw\\wave4\\mobility_and_permits\\gtfs_stops_zagreb_zet.json",
+   "raw\\wave4\\mobility_and_permits\\gtfs_zet_zagreb.zip",
+   "raw\\wave4\\mobility_and_permits\\gtfs_zet_zagreb_summary.json",
+   "raw\\wave4\\mobility_and_permits\\mobility_permits_summary.json",
+   "raw\\wave4\\news\\news_rss_gdelt_5cities.json",
+   "raw\\wave4\\probes\\cik_2024_root.bin",
+   "raw\\wave4\\probes\\cik_custom.js",
+   "raw\\wave4\\probes\\cik_customFunctions.js",
+   "raw\\wave4\\probes\\cik_home_index.js",
+   "raw\\wave4\\probes\\cik_race4_js.bin",
+   "raw\\wave4\\probes\\cik_race5_js.bin",
+   "raw\\wave4\\probes\\datagovhr_fiskal.bin",
+   "raw\\wave4\\probes\\datagovhr_izbori.bin",
+   "raw\\wave4\\probes\\datagovrs_gtfs.bin",
+   "raw\\wave4\\probes\\datagovrs_izbori.bin",
+   "raw\\wave4\\probes\\datagovrs_jn.bin",
+   "raw\\wave4\\probes\\datagovrs_rgz.bin",
+   "raw\\wave4\\probes\\datazagreb_3d.bin",
+   "raw\\wave4\\probes\\datazagreb_nabava.bin",
+   "raw\\wave4\\probes\\dip_477.html",
+   "raw\\wave4\\probes\\dip_lok_2021_zip.bin",
+   "raw\\wave4\\probes\\dip_lok_2025_zip.bin",
+   "raw\\wave4\\probes\\dip_open_page.bin",
+   "raw\\wave4\\probes\\dip_parl_2024_page.bin",
+   "raw\\wave4\\probes\\dip_parl_2024_zip.bin",
+   "raw\\wave4\\probes\\ejn_admin_units.bin",
+   "raw\\wave4\\probes\\ejn_an_sample.bin",
+   "raw\\wave4\\probes\\ejn_ca_sa.bin",
+   "raw\\wave4\\probes\\ejn_ca_tr.bin",
+   "raw\\wave4\\probes\\ejn_swagger.bin",
+   "raw\\wave4\\probes\\ookla_list.bin",
+   "raw\\wave4\\probes\\openalex_bg.bin",
+   "raw\\wave4\\probes\\openmeteo_aq.bin",
+   "raw\\wave4\\probes\\probe_summary.json",
+   "raw\\wave4\\probes\\rez_izb_rs.bin",
+   "raw\\wave4\\probes\\rs_datasets_nabavk.bin",
+   "raw\\wave4\\probes\\rs_dozvole_cyr.json",
+   "raw\\wave4\\probes\\rs_jn_cyr.json",
+   "raw\\wave4\\probes\\rs_orgs_rik.bin",
+   "raw\\wave4\\probes\\rs_orgs_ujn.bin",
+   "raw\\wave4\\probes\\rs_rgz_cyr.json",
+   "raw\\wave4\\probes\\rs_vazduh_cyr.json",
+   "raw\\wave4\\probes\\rss_biznisinfo.bin",
+   "raw\\wave4\\probes\\rss_freemedia.bin",
+   "raw\\wave4\\probes\\rss_poslovni.bin",
+   "raw\\wave4\\probes\\rss_stoplus.bin",
+   "raw\\wave4\\probes\\rss_travnikgrad.bin",
+   "raw\\wave4\\probes\\worldbank_remit.bin",
+   "raw\\wave4\\probes\\zet_dl.html",
+   "raw\\wave4\\probes\\zet_gtfs_direct.bin",
+   "raw\\wave4\\probes\\zet_gtfs_page.bin",
+   "raw\\wave4\\procurement_bih\\ejn_awards_sarajevo_travnik_consolidated.json",
+   "raw\\wave4\\science\\openalex_collab_matrix_5cities.json",
+   "raw\\wave4\\science\\openalex_eu_funded_5cities.json",
+   "raw\\wave4\\science\\openalex_institutions_5cities.json",
+   "raw\\wave4\\science\\openalex_works_about_5cities.json",
+   "raw\\wave4\\sensors\\openmeteo_air_monthly_5cities.json",
+   "raw\\wave4\\sensors\\openmeteo_weather_monthly_5cities.json",
+   "raw\\wave4\\sensors\\worldbank_diaspora_macro_3countries.json",
+   "raw\\wave4\\xs_3d\\xs_buildings_3d_5cities_consolidated.json",
+   "raw\\wave5\\cordis\\cordis_5cities_consolidated.json",
+   "raw\\wave5\\osm_and_sensors\\sensor_community_5cities_snapshot.json"
+  ]
+ },
+ "mass": {
+  "beograd": {
+   "bytes": 45857676,
+   "files": 7
+  },
+  "common": {
+   "bytes": 21314294,
+   "files": 27
+  },
+  "novi_pazar": {
+   "bytes": 6301739,
+   "files": 8
+  },
+  "sarajevo": {
+   "bytes": 10419326,
+   "files": 6
+  },
+  "travnik": {
+   "bytes": 4044707,
+   "files": 6
+  },
+  "wave2_l": {
+   "bytes": 50445897,
+   "files": 32
+  },
+  "wave2_osm": {
+   "bytes": 10826049,
+   "files": 5
+  },
+  "wave2_xl": {
+   "bytes": 161958,
+   "files": 19
+  },
+  "wave3": {
+   "bytes": 23521629,
+   "files": 32
+  },
+  "wave3_osm": {
+   "bytes": 9125384,
+   "files": 10
+  },
+  "wave4": {
+   "bytes": 258770326,
+   "files": 223
+  },
+  "wave5": {
+   "bytes": 29846003,
+   "files": 21
+  },
+  "zagreb": {
+   "bytes": 39425708,
+   "files": 41
+  }
+ },
+ "curated": {
+  "analysis": {
+   "bytes": 812433,
+   "files": 13
+  },
+  "boundaries": {
+   "bytes": 25882488,
+   "files": 16
+  },
+  "tables": {
+   "bytes": 323718,
+   "files": 22
+  }
+ }
+}

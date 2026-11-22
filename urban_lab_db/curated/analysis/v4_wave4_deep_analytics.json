@@ -1,0 +1,1979 @@
+{
+  "v3_counts": {
+    "cities": 5,
+    "admin_units": 362,
+    "companies_sr": 66040,
+    "hinterland_units": 36,
+    "property_tax_zones_gis_summary": 21,
+    "osm_landuse_major_zones": 9650,
+    "osm_pois": 77330,
+    "zagreb_markets": 31,
+    "xl_corridors_projects_strategies": 11
+  },
+  "fk_errors": 0,
+  "trust_coverage": [
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "population": 1681405,
+      "trust_tier": "A1",
+      "docs_count": 1,
+      "docs_per_100k_pop": 0.06,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "population": 1681405,
+      "trust_tier": "B",
+      "docs_count": 121,
+      "docs_per_100k_pop": 7.2,
+      "procurement_docs": 0,
+      "science_docs": 121,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "population": 1681405,
+      "trust_tier": "C",
+      "docs_count": 180,
+      "docs_per_100k_pop": 10.71,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 180
+    },
+    {
+      "city_id": "novi_pazar",
+      "city_name": "Novi Pazar",
+      "population": 106720,
+      "trust_tier": "B",
+      "docs_count": 82,
+      "docs_per_100k_pop": 76.84,
+      "procurement_docs": 0,
+      "science_docs": 82,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "novi_pazar",
+      "city_name": "Novi Pazar",
+      "population": 106720,
+      "trust_tier": "C",
+      "docs_count": 62,
+      "docs_per_100k_pop": 58.1,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 62
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "population": 421531,
+      "trust_tier": "A1",
+      "docs_count": 850,
+      "docs_per_100k_pop": 201.65,
+      "procurement_docs": 850,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "population": 421531,
+      "trust_tier": "B",
+      "docs_count": 123,
+      "docs_per_100k_pop": 29.18,
+      "procurement_docs": 0,
+      "science_docs": 123,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "population": 421531,
+      "trust_tier": "C",
+      "docs_count": 90,
+      "docs_per_100k_pop": 21.35,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 90
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "population": 50970,
+      "trust_tier": "A1",
+      "docs_count": 300,
+      "docs_per_100k_pop": 588.58,
+      "procurement_docs": 300,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "population": 50970,
+      "trust_tier": "B",
+      "docs_count": 74,
+      "docs_per_100k_pop": 145.18,
+      "procurement_docs": 0,
+      "science_docs": 74,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "population": 50970,
+      "trust_tier": "C",
+      "docs_count": 30,
+      "docs_per_100k_pop": 58.86,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 30
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "population": 767131,
+      "trust_tier": "A1",
+      "docs_count": 1,
+      "docs_per_100k_pop": 0.13,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "population": 767131,
+      "trust_tier": "B",
+      "docs_count": 125,
+      "docs_per_100k_pop": 16.29,
+      "procurement_docs": 0,
+      "science_docs": 125,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "population": 767131,
+      "trust_tier": "C",
+      "docs_count": 79,
+      "docs_per_100k_pop": 10.3,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 79
+    }
+  ],
+  "elections_by_city": [
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "authority_body": "RIK",
+      "station_type": "regular",
+      "stations_n": 1180,
+      "sum_reg": 1605877,
+      "sum_cast": 947844,
+      "weighted_turnout_pct": 59.02,
+      "avg_invalid_pct": 2.51,
+      "avg_margin_pp": 20.81,
+      "avg_enp": 3.224
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "authority_body": "RIK",
+      "station_type": "regular",
+      "stations_n": 99,
+      "sum_reg": 91163,
+      "sum_cast": 46234,
+      "weighted_turnout_pct": 50.72,
+      "avg_invalid_pct": 4.52,
+      "avg_margin_pp": 28.83,
+      "avg_enp": 2.894
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "authority_body": "CIK",
+      "station_type": "regular",
+      "stations_n": 308,
+      "sum_reg": 207214,
+      "sum_cast": 92858,
+      "weighted_turnout_pct": 44.81,
+      "avg_invalid_pct": 6.16,
+      "avg_margin_pp": 13.14,
+      "avg_enp": 4.783
+    },
+    {
+      "city_id": "travnik",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "authority_body": "CIK",
+      "station_type": "regular",
+      "stations_n": 76,
+      "sum_reg": 47438,
+      "sum_cast": 23143,
+      "weighted_turnout_pct": 48.79,
+      "avg_invalid_pct": 5.16,
+      "avg_margin_pp": 49.95,
+      "avg_enp": 2.212
+    },
+    {
+      "city_id": "zagreb",
+      "election_id": "elec:hrv:2024-04-17:parl",
+      "authority_body": "DIP",
+      "station_type": "regular",
+      "stations_n": 606,
+      "sum_reg": 652313,
+      "sum_cast": 442085,
+      "weighted_turnout_pct": 67.77,
+      "avg_invalid_pct": 2.22,
+      "avg_margin_pp": 6.13,
+      "avg_enp": 4.396
+    },
+    {
+      "city_id": "zagreb",
+      "election_id": "elec:hrv:2025-05-18:local_zg_assembly",
+      "authority_body": "DIP",
+      "station_type": "regular",
+      "stations_n": 605,
+      "sum_reg": 667789,
+      "sum_cast": 284564,
+      "weighted_turnout_pct": 42.61,
+      "avg_invalid_pct": 1.86,
+      "avg_margin_pp": 26.58,
+      "avg_enp": 4.145
+    },
+    {
+      "city_id": "zagreb",
+      "election_id": "elec:hrv:2025-05-18:local_zg_mayor",
+      "authority_body": "DIP",
+      "station_type": "regular",
+      "stations_n": 605,
+      "sum_reg": 667752,
+      "sum_cast": 284621,
+      "weighted_turnout_pct": 42.62,
+      "avg_invalid_pct": 1.71,
+      "avg_margin_pp": 30.44,
+      "avg_enp": 3.529
+    }
+  ],
+  "beograd_muni_elections": [
+    {
+      "municipality_name": "Градска општина Лазаревац",
+      "bm_n": 64,
+      "turnout_pct": 67.04,
+      "avg_margin_pp": 20.7,
+      "avg_enp": 3.49,
+      "bm_won_incumbent": 57,
+      "bm_won_civic_opp": 7
+    },
+    {
+      "municipality_name": "Градска општина Младеновац",
+      "bm_n": 59,
+      "turnout_pct": 62.79,
+      "avg_margin_pp": 35.07,
+      "avg_enp": 2.715,
+      "bm_won_incumbent": 59,
+      "bm_won_civic_opp": 0
+    },
+    {
+      "municipality_name": "Градска општина Нови Београд",
+      "bm_n": 142,
+      "turnout_pct": 62.5,
+      "avg_margin_pp": 13.62,
+      "avg_enp": 3.361,
+      "bm_won_incumbent": 22,
+      "bm_won_civic_opp": 120
+    },
+    {
+      "municipality_name": "Градска општина Врачар",
+      "bm_n": 63,
+      "turnout_pct": 62.04,
+      "avg_margin_pp": 22.97,
+      "avg_enp": 3.045,
+      "bm_won_incumbent": 0,
+      "bm_won_civic_opp": 63
+    },
+    {
+      "municipality_name": "Градска општина Сурчин",
+      "bm_n": 27,
+      "turnout_pct": 61.8,
+      "avg_margin_pp": 38.54,
+      "avg_enp": 2.723,
+      "bm_won_incumbent": 27,
+      "bm_won_civic_opp": 0
+    },
+    {
+      "municipality_name": "Градска општина Чукарица",
+      "bm_n": 107,
+      "turnout_pct": 60.9,
+      "avg_margin_pp": 15.33,
+      "avg_enp": 3.386,
+      "bm_won_incumbent": 51,
+      "bm_won_civic_opp": 56
+    },
+    {
+      "municipality_name": "Градска општина Раковица",
+      "bm_n": 72,
+      "turnout_pct": 60.39,
+      "avg_margin_pp": 10.39,
+      "avg_enp": 3.478,
+      "bm_won_incumbent": 36,
+      "bm_won_civic_opp": 36
+    },
+    {
+      "municipality_name": "Градска општина Обреновац",
+      "bm_n": 55,
+      "turnout_pct": 59.19,
+      "avg_margin_pp": 32.06,
+      "avg_enp": 2.982,
+      "bm_won_incumbent": 55,
+      "bm_won_civic_opp": 0
+    },
+    {
+      "municipality_name": "Градска општина Земун",
+      "bm_n": 115,
+      "turnout_pct": 59.04,
+      "avg_margin_pp": 20.3,
+      "avg_enp": 3.188,
+      "bm_won_incumbent": 64,
+      "bm_won_civic_opp": 51
+    },
+    {
+      "municipality_name": "Градска општина Савски Венац",
+      "bm_n": 35,
+      "turnout_pct": 58.93,
+      "avg_margin_pp": 15.17,
+      "avg_enp": 3.239,
+      "bm_won_incumbent": 2,
+      "bm_won_civic_opp": 33
+    },
+    {
+      "municipality_name": "Градска општина Вождовац",
+      "bm_n": 91,
+      "turnout_pct": 57.72,
+      "avg_margin_pp": 17.09,
+      "avg_enp": 3.339,
+      "bm_won_incumbent": 35,
+      "bm_won_civic_opp": 56
+    },
+    {
+      "municipality_name": "Градска општина Стари Град",
+      "bm_n": 56,
+      "turnout_pct": 57.67,
+      "avg_margin_pp": 25.22,
+      "avg_enp": 3.051,
+      "bm_won_incumbent": 0,
+      "bm_won_civic_opp": 56
+    },
+    {
+      "municipality_name": "Градска општина Барајево",
+      "bm_n": 28,
+      "turnout_pct": 57.16,
+      "avg_margin_pp": 31.41,
+      "avg_enp": 3.032,
+      "bm_won_incumbent": 28,
+      "bm_won_civic_opp": 0
+    },
+    {
+      "municipality_name": "Градска општина Звездара",
+      "bm_n": 89,
+      "turnout_pct": 56.57,
+      "avg_margin_pp": 14.47,
+      "avg_enp": 3.404,
+      "bm_won_incumbent": 23,
+      "bm_won_civic_opp": 66
+    },
+    {
+      "municipality_name": "Градска општина Гроцка",
+      "bm_n": 40,
+      "turnout_pct": 55.3,
+      "avg_margin_pp": 27.63,
+      "avg_enp": 3.163,
+      "bm_won_incumbent": 40,
+      "bm_won_civic_opp": 0
+    },
+    {
+      "municipality_name": "Градска општина Сопот",
+      "bm_n": 33,
+      "turnout_pct": 54.87,
+      "avg_margin_pp": 37.07,
+      "avg_enp": 2.917,
+      "bm_won_incumbent": 33,
+      "bm_won_civic_opp": 0
+    },
+    {
+      "municipality_name": "Градска општина Палилула (Београд)",
+      "bm_n": 104,
+      "turnout_pct": 53.47,
+      "avg_margin_pp": 21.77,
+      "avg_enp": 3.234,
+      "bm_won_incumbent": 63,
+      "bm_won_civic_opp": 41
+    }
+  ],
+  "election_procurement_join": [
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 362,
+      "zone_name": "Ilidža",
+      "stations_n": 45,
+      "total_ballots_cast": 13793,
+      "avg_turnout_pct": 44.47,
+      "avg_margin_pp": 11.45,
+      "avg_enp": 4.033,
+      "contracts_count": 250,
+      "procurement_eur_m": 5.755,
+      "single_bidder_pct": 13.2
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 358,
+      "zone_name": "Ilijaš",
+      "stations_n": 35,
+      "total_ballots_cast": 11563,
+      "avg_turnout_pct": 55.94,
+      "avg_margin_pp": 17.78,
+      "avg_enp": 3.242,
+      "contracts_count": 48,
+      "procurement_eur_m": 2.999,
+      "single_bidder_pct": 8.33
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 364,
+      "zone_name": "Centar Sarajevo",
+      "stations_n": 45,
+      "total_ballots_cast": 12873,
+      "avg_turnout_pct": 41.92,
+      "avg_margin_pp": 8.11,
+      "avg_enp": 5.344,
+      "contracts_count": 230,
+      "procurement_eur_m": 2.595,
+      "single_bidder_pct": 16.09
+    },
+    {
+      "city_id": "travnik",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 367,
+      "zone_name": "Travnik",
+      "stations_n": 76,
+      "total_ballots_cast": 23143,
+      "avg_turnout_pct": 49.83,
+      "avg_margin_pp": 49.95,
+      "avg_enp": 2.212,
+      "contracts_count": 300,
+      "procurement_eur_m": 2.568,
+      "single_bidder_pct": 8.67
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 363,
+      "zone_name": "Novo Sarajevo",
+      "stations_n": 44,
+      "total_ballots_cast": 11560,
+      "avg_turnout_pct": 39.95,
+      "avg_margin_pp": 5.12,
+      "avg_enp": 6.52,
+      "contracts_count": 105,
+      "procurement_eur_m": 1.435,
+      "single_bidder_pct": 20.0
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 365,
+      "zone_name": "Novi Grad Sarajevo",
+      "stations_n": 45,
+      "total_ballots_cast": 12710,
+      "avg_turnout_pct": 39.43,
+      "avg_margin_pp": 10.94,
+      "avg_enp": 5.445,
+      "contracts_count": 33,
+      "procurement_eur_m": 1.152,
+      "single_bidder_pct": 9.09
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 361,
+      "zone_name": "Hadžići",
+      "stations_n": 37,
+      "total_ballots_cast": 12311,
+      "avg_turnout_pct": 55.04,
+      "avg_margin_pp": 26.4,
+      "avg_enp": 3.319,
+      "contracts_count": 52,
+      "procurement_eur_m": 1.085,
+      "single_bidder_pct": 11.54
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 366,
+      "zone_name": "Vogošća",
+      "stations_n": 17,
+      "total_ballots_cast": 4395,
+      "avg_turnout_pct": 44.31,
+      "avg_margin_pp": 16.97,
+      "avg_enp": 4.318,
+      "contracts_count": 100,
+      "procurement_eur_m": 0.581,
+      "single_bidder_pct": 2.0
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 359,
+      "zone_name": "Stari Grad Sarajevo",
+      "stations_n": 35,
+      "total_ballots_cast": 11734,
+      "avg_turnout_pct": 42.85,
+      "avg_margin_pp": 8.19,
+      "avg_enp": 5.719,
+      "contracts_count": 32,
+      "procurement_eur_m": 0.321,
+      "single_bidder_pct": 6.25
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 6,
+      "zone_name": "Lazarevac",
+      "stations_n": 45,
+      "total_ballots_cast": 26211,
+      "avg_turnout_pct": 68.13,
+      "avg_margin_pp": 16.21,
+      "avg_enp": 3.663,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 7,
+      "zone_name": "Čukarica",
+      "stations_n": 30,
+      "total_ballots_cast": 28044,
+      "avg_turnout_pct": 59.16,
+      "avg_margin_pp": 22.12,
+      "avg_enp": 3.244,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 8,
+      "zone_name": "Barajevo",
+      "stations_n": 20,
+      "total_ballots_cast": 10164,
+      "avg_turnout_pct": 57.35,
+      "avg_margin_pp": 31.85,
+      "avg_enp": 3.059,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 9,
+      "zone_name": "Voždovac",
+      "stations_n": 7,
+      "total_ballots_cast": 6933,
+      "avg_turnout_pct": 58.92,
+      "avg_margin_pp": 30.45,
+      "avg_enp": 3.071,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 10,
+      "zone_name": "Sopot",
+      "stations_n": 6,
+      "total_ballots_cast": 1382,
+      "avg_turnout_pct": 60.17,
+      "avg_margin_pp": 44.84,
+      "avg_enp": 2.514,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 11,
+      "zone_name": "Rakovica",
+      "stations_n": 31,
+      "total_ballots_cast": 27024,
+      "avg_turnout_pct": 59.73,
+      "avg_margin_pp": 16.99,
+      "avg_enp": 3.282,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 12,
+      "zone_name": "Vračar",
+      "stations_n": 105,
+      "total_ballots_cast": 84103,
+      "avg_turnout_pct": 59.63,
+      "avg_margin_pp": 22.44,
+      "avg_enp": 3.125,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 13,
+      "zone_name": "Novi Beograd",
+      "stations_n": 115,
+      "total_ballots_cast": 108864,
+      "avg_turnout_pct": 60.81,
+      "avg_margin_pp": 12.06,
+      "avg_enp": 3.381,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 14,
+      "zone_name": "Obrenovac",
+      "stations_n": 17,
+      "total_ballots_cast": 8618,
+      "avg_turnout_pct": 58.52,
+      "avg_margin_pp": 44.65,
+      "avg_enp": 2.489,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 15,
+      "zone_name": "Zvezdara",
+      "stations_n": 82,
+      "total_ballots_cast": 88134,
+      "avg_turnout_pct": 55.88,
+      "avg_margin_pp": 14.62,
+      "avg_enp": 3.439,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 16,
+      "zone_name": "Palilula",
+      "stations_n": 18,
+      "total_ballots_cast": 14129,
+      "avg_turnout_pct": 54.06,
+      "avg_margin_pp": 28.34,
+      "avg_enp": 3.073,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 17,
+      "zone_name": "Grocka",
+      "stations_n": 19,
+      "total_ballots_cast": 14601,
+      "avg_turnout_pct": 56.91,
+      "avg_margin_pp": 31.84,
+      "avg_enp": 3.04,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 18,
+      "zone_name": "Mladenovac",
+      "stations_n": 17,
+      "total_ballots_cast": 6593,
+      "avg_turnout_pct": 64.41,
+      "avg_margin_pp": 45.74,
+      "avg_enp": 2.398,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 19,
+      "zone_name": "Surčin",
+      "stations_n": 12,
+      "total_ballots_cast": 10300,
+      "avg_turnout_pct": 62.7,
+      "avg_margin_pp": 44.86,
+      "avg_enp": 2.462,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 20,
+      "zone_name": "Savski venac",
+      "stations_n": 10,
+      "total_ballots_cast": 7170,
+      "avg_turnout_pct": 59.04,
+      "avg_margin_pp": 12.7,
+      "avg_enp": 3.31,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 21,
+      "zone_name": "Zemun",
+      "stations_n": 52,
+      "total_ballots_cast": 45240,
+      "avg_turnout_pct": 59.03,
+      "avg_margin_pp": 32.25,
+      "avg_enp": 2.917,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 22,
+      "zone_name": "Stari grad",
+      "stations_n": 102,
+      "total_ballots_cast": 67905,
+      "avg_turnout_pct": 56.68,
+      "avg_margin_pp": 24.2,
+      "avg_enp": 3.111,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 404,
+      "zone_name": "Prva zona - Ekstra zona poslovanja (beograd)",
+      "stations_n": 64,
+      "total_ballots_cast": 52174,
+      "avg_turnout_pct": 62.79,
+      "avg_margin_pp": 15.21,
+      "avg_enp": 3.328,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 405,
+      "zone_name": "Prva zona - Ekstra zona stanovanja (beograd)",
+      "stations_n": 79,
+      "total_ballots_cast": 74866,
+      "avg_turnout_pct": 62.33,
+      "avg_margin_pp": 10.64,
+      "avg_enp": 3.497,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 406,
+      "zone_name": "Prva zona (beograd)",
+      "stations_n": 40,
+      "total_ballots_cast": 33650,
+      "avg_turnout_pct": 63.18,
+      "avg_margin_pp": 17.47,
+      "avg_enp": 3.299,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 407,
+      "zone_name": "Druga zona (beograd)",
+      "stations_n": 21,
+      "total_ballots_cast": 18060,
+      "avg_turnout_pct": 58.84,
+      "avg_margin_pp": 16.86,
+      "avg_enp": 3.251,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 408,
+      "zone_name": "Treća zona (beograd)",
+      "stations_n": 62,
+      "total_ballots_cast": 54179,
+      "avg_turnout_pct": 60.65,
+      "avg_margin_pp": 9.28,
+      "avg_enp": 3.523,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 409,
+      "zone_name": "Četvrta zona (beograd)",
+      "stations_n": 37,
+      "total_ballots_cast": 20387,
+      "avg_turnout_pct": 62.12,
+      "avg_margin_pp": 28.45,
+      "avg_enp": 2.901,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 410,
+      "zone_name": "Peta zona (beograd)",
+      "stations_n": 14,
+      "total_ballots_cast": 9528,
+      "avg_turnout_pct": 58.86,
+      "avg_margin_pp": 29.47,
+      "avg_enp": 3.169,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 411,
+      "zone_name": "Šesta zona (beograd)",
+      "stations_n": 6,
+      "total_ballots_cast": 4204,
+      "avg_turnout_pct": 61.7,
+      "avg_margin_pp": 32.18,
+      "avg_enp": 2.908,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 412,
+      "zone_name": "Sedma zona (beograd)",
+      "stations_n": 24,
+      "total_ballots_cast": 8048,
+      "avg_turnout_pct": 56.02,
+      "avg_margin_pp": 35.57,
+      "avg_enp": 2.975,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 413,
+      "zone_name": "Osma zona (beograd)",
+      "stations_n": 10,
+      "total_ballots_cast": 2560,
+      "avg_turnout_pct": 61.2,
+      "avg_margin_pp": 43.13,
+      "avg_enp": 2.667,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 414,
+      "zone_name": "Zona zaštite zelenila 1 (beograd)",
+      "stations_n": 75,
+      "total_ballots_cast": 72683,
+      "avg_turnout_pct": 55.61,
+      "avg_margin_pp": 16.38,
+      "avg_enp": 3.317,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 415,
+      "zone_name": "Zona zaštite zelenila 2 (beograd)",
+      "stations_n": 32,
+      "total_ballots_cast": 25300,
+      "avg_turnout_pct": 60.47,
+      "avg_margin_pp": 24.63,
+      "avg_enp": 3.252,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 416,
+      "zone_name": "Zona ulaznih pravaca (beograd)",
+      "stations_n": 11,
+      "total_ballots_cast": 9922,
+      "avg_turnout_pct": 52.91,
+      "avg_margin_pp": 18.32,
+      "avg_enp": 3.269,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "beograd",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 417,
+      "zone_name": "Zona specifičnih namena (beograd)",
+      "stations_n": 17,
+      "total_ballots_cast": 6868,
+      "avg_turnout_pct": 67.01,
+      "avg_margin_pp": 30.12,
+      "avg_enp": 3.077,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 23,
+      "zone_name": "Novi Pazar",
+      "stations_n": 3,
+      "total_ballots_cast": 796,
+      "avg_turnout_pct": 69.49,
+      "avg_margin_pp": 29.61,
+      "avg_enp": 2.593,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 418,
+      "zone_name": "I zona (novi_pazar)",
+      "stations_n": 42,
+      "total_ballots_cast": 26141,
+      "avg_turnout_pct": 52.68,
+      "avg_margin_pp": 18.86,
+      "avg_enp": 3.267,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 419,
+      "zone_name": "II zona (novi_pazar)",
+      "stations_n": 3,
+      "total_ballots_cast": 2695,
+      "avg_turnout_pct": 52.35,
+      "avg_margin_pp": 34.88,
+      "avg_enp": 3.222,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 420,
+      "zone_name": "III zona (novi_pazar)",
+      "stations_n": 12,
+      "total_ballots_cast": 7879,
+      "avg_turnout_pct": 54.26,
+      "avg_margin_pp": 22.33,
+      "avg_enp": 3.331,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 421,
+      "zone_name": "IV zona (novi_pazar)",
+      "stations_n": 12,
+      "total_ballots_cast": 4478,
+      "avg_turnout_pct": 53.38,
+      "avg_margin_pp": 22.25,
+      "avg_enp": 2.99,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 422,
+      "zone_name": "V zona (novi_pazar)",
+      "stations_n": 11,
+      "total_ballots_cast": 1598,
+      "avg_turnout_pct": 57.68,
+      "avg_margin_pp": 50.52,
+      "avg_enp": 2.13,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 423,
+      "zone_name": "VI zona (novi_pazar)",
+      "stations_n": 6,
+      "total_ballots_cast": 1622,
+      "avg_turnout_pct": 46.72,
+      "avg_margin_pp": 42.99,
+      "avg_enp": 2.303,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "novi_pazar",
+      "election_id": "elec:srb:2023-12-17:parl",
+      "election_date": "2023-12-17",
+      "gazetteer_id": 424,
+      "zone_name": "VII zona (novi_pazar)",
+      "stations_n": 10,
+      "total_ballots_cast": 1025,
+      "avg_turnout_pct": 50.09,
+      "avg_margin_pp": 52.01,
+      "avg_enp": 1.876,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "sarajevo",
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "election_date": "2024-10-06",
+      "gazetteer_id": 360,
+      "zone_name": "Trnovo",
+      "stations_n": 5,
+      "total_ballots_cast": 1919,
+      "avg_turnout_pct": 76.08,
+      "avg_margin_pp": 54.98,
+      "avg_enp": 1.917,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "zagreb",
+      "election_id": "elec:hrv:2024-04-17:parl",
+      "election_date": "2024-04-17",
+      "gazetteer_id": 2,
+      "zone_name": "Zagreb",
+      "stations_n": 606,
+      "total_ballots_cast": 442085,
+      "avg_turnout_pct": 67.6,
+      "avg_margin_pp": 6.13,
+      "avg_enp": 4.396,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "zagreb",
+      "election_id": "elec:hrv:2025-05-18:local_zg_assembly",
+      "election_date": "2025-05-18",
+      "gazetteer_id": 2,
+      "zone_name": "Zagreb",
+      "stations_n": 605,
+      "total_ballots_cast": 284564,
+      "avg_turnout_pct": 42.83,
+      "avg_margin_pp": 26.58,
+      "avg_enp": 4.145,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    },
+    {
+      "city_id": "zagreb",
+      "election_id": "elec:hrv:2025-05-18:local_zg_mayor",
+      "election_date": "2025-05-18",
+      "gazetteer_id": 2,
+      "zone_name": "Zagreb",
+      "stations_n": 605,
+      "total_ballots_cast": 284621,
+      "avg_turnout_pct": 42.84,
+      "avg_margin_pp": 30.44,
+      "avg_enp": 3.529,
+      "contracts_count": 0,
+      "procurement_eur_m": 0.0,
+      "single_bidder_pct": null
+    }
+  ],
+  "procurement_summary": [
+    {
+      "city_id": "sarajevo",
+      "country_iso3": "BIH",
+      "award_year": "2026",
+      "contracts_count": 850,
+      "total_value_eur_m": 15.923,
+      "single_bidder_contracts": 108,
+      "single_bidder_pct": 12.71,
+      "avg_contract_to_estimate_ratio": 1.4641,
+      "unique_winners": 0,
+      "unique_buyers": 184
+    },
+    {
+      "city_id": "travnik",
+      "country_iso3": "BIH",
+      "award_year": "2026",
+      "contracts_count": 300,
+      "total_value_eur_m": 2.568,
+      "single_bidder_contracts": 26,
+      "single_bidder_pct": 8.67,
+      "avg_contract_to_estimate_ratio": 0.9673,
+      "unique_winners": 0,
+      "unique_buyers": 37
+    }
+  ],
+  "procurement_top_buyers": [
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "NEZAVISNI OPERATOR SISTEMA U BOSNI I HERCEGOVINI",
+      "contracts_n": 1,
+      "total_eur_m": 3.221,
+      "sb_n": 0,
+      "sb_pct": 0.0
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "OPĆINA ILIJAŠ",
+      "contracts_n": 18,
+      "total_eur_m": 2.987,
+      "sb_n": 4,
+      "sb_pct": 22.2
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "KANTONALNO JAVNO KOMUNALNO PREDUZEĆE \"GRADSKI SAOBRAĆAJ\" D.O.O. SARAJEVO",
+      "contracts_n": 4,
+      "total_eur_m": 0.981,
+      "sb_n": 1,
+      "sb_pct": 25.0
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "OPĆINA CENTAR SARAJEVO",
+      "contracts_n": 4,
+      "total_eur_m": 0.967,
+      "sb_n": 2,
+      "sb_pct": 50.0
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "OPĆINA HADŽIĆI",
+      "contracts_n": 15,
+      "total_eur_m": 0.933,
+      "sb_n": 3,
+      "sb_pct": 20.0
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "OPŠTINA ISTOČNA ILIDZA",
+      "contracts_n": 8,
+      "total_eur_m": 0.661,
+      "sb_n": 2,
+      "sb_pct": 25.0
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "OPĆINA ILIDŽA",
+      "contracts_n": 11,
+      "total_eur_m": 0.576,
+      "sb_n": 3,
+      "sb_pct": 27.3
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "OPĆINA VOGOŠĆA",
+      "contracts_n": 28,
+      "total_eur_m": 0.557,
+      "sb_n": 2,
+      "sb_pct": 7.1
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "UNIVERZITETSKI KLINIČKI CENTAR SARAJEVO - UKCS",
+      "contracts_n": 24,
+      "total_eur_m": 0.541,
+      "sb_n": 14,
+      "sb_pct": 58.3
+    },
+    {
+      "city_id": "sarajevo",
+      "buyer_name": "РЕПУБЛИЧКА УПРАВА ЦИВИЛНЕ ЗАШТИТЕ",
+      "contracts_n": 10,
+      "total_eur_m": 0.538,
+      "sb_n": 2,
+      "sb_pct": 20.0
+    },
+    {
+      "city_id": "travnik",
+      "buyer_name": "RUDNIK MRKOG UGLJA \"ABID LOLIĆ\" D.O.O. TRAVNIK-BILA",
+      "contracts_n": 3,
+      "total_eur_m": 0.525,
+      "sb_n": 1,
+      "sb_pct": 33.3
+    },
+    {
+      "city_id": "travnik",
+      "buyer_name": "GRAD NOVI TRAVNIK",
+      "contracts_n": 11,
+      "total_eur_m": 0.469,
+      "sb_n": 3,
+      "sb_pct": 27.3
+    }
+  ],
+  "air_winter_vs_summer": [
+    {
+      "city_id": "sarajevo",
+      "grid_cell_id": "istocno_sarajevo_control",
+      "winter_pm25": 44.84,
+      "summer_pm25": 12.85,
+      "peak_month_pm25": 60.62,
+      "months_n": 34
+    },
+    {
+      "city_id": "sarajevo",
+      "grid_cell_id": "sarajevo_ilidza",
+      "winter_pm25": 44.84,
+      "summer_pm25": 12.85,
+      "peak_month_pm25": 60.62,
+      "months_n": 34
+    },
+    {
+      "city_id": "zagreb",
+      "grid_cell_id": "zagreb_cbd",
+      "winter_pm25": 33.79,
+      "summer_pm25": 8.69,
+      "peak_month_pm25": 48.92,
+      "months_n": 34
+    },
+    {
+      "city_id": "beograd",
+      "grid_cell_id": "beograd_cbd",
+      "winter_pm25": 33.5,
+      "summer_pm25": 10.81,
+      "peak_month_pm25": 44.64,
+      "months_n": 34
+    },
+    {
+      "city_id": "sarajevo",
+      "grid_cell_id": "sarajevo_centar",
+      "winter_pm25": 32.24,
+      "summer_pm25": 10.45,
+      "peak_month_pm25": 42.63,
+      "months_n": 34
+    },
+    {
+      "city_id": "travnik",
+      "grid_cell_id": "travnik_cbd",
+      "winter_pm25": 20.98,
+      "summer_pm25": 8.91,
+      "peak_month_pm25": 29.89,
+      "months_n": 34
+    },
+    {
+      "city_id": "novi_pazar",
+      "grid_cell_id": "novi_pazar_cbd",
+      "winter_pm25": 18.55,
+      "summer_pm25": 8.13,
+      "peak_month_pm25": 23.94,
+      "months_n": 34
+    }
+  ],
+  "event_study_did": [
+    {
+      "study_id": "es:sa_vs_zg:winter_heating_pm25_2025_2026",
+      "study_title": "ES-03: Zimski šok energetskog siromaštva i PM2.5 (Sarajevo vs. Zagreb kontrola, 2025/26)",
+      "city_id": "sarajevo",
+      "event_category": "environmental_crisis",
+      "t0_anchor_type": "effective",
+      "t0_date": "2025-11-01",
+      "outcome_metric": "openaq_pm25_ugm3",
+      "identification_grade": "staggered_multi_city_did",
+      "min_upstream_tier": "A1",
+      "treated_pre_mean": 10.92,
+      "treated_post_mean": 33.28,
+      "treated_delta": 22.36,
+      "control_pre_mean": 9.35,
+      "control_post_mean": 35.6475,
+      "control_delta": 26.2975,
+      "did_estimate": -3.9375,
+      "did_pct_points": -57.184
+    }
+  ],
+  "science_by_city": [
+    {
+      "city_id": "zagreb",
+      "works_n": 125,
+      "about_only": 54,
+      "both_local_about": 50,
+      "in_city_rd": 21,
+      "total_citations": 32468,
+      "max_citations": 4488
+    },
+    {
+      "city_id": "sarajevo",
+      "works_n": 123,
+      "about_only": 47,
+      "both_local_about": 54,
+      "in_city_rd": 22,
+      "total_citations": 7394,
+      "max_citations": 523
+    },
+    {
+      "city_id": "beograd",
+      "works_n": 121,
+      "about_only": 30,
+      "both_local_about": 66,
+      "in_city_rd": 25,
+      "total_citations": 44280,
+      "max_citations": 6856
+    },
+    {
+      "city_id": "novi_pazar",
+      "works_n": 82,
+      "about_only": 45,
+      "both_local_about": 14,
+      "in_city_rd": 23,
+      "total_citations": 1463,
+      "max_citations": 170
+    },
+    {
+      "city_id": "travnik",
+      "works_n": 74,
+      "about_only": 38,
+      "both_local_about": 11,
+      "in_city_rd": 25,
+      "total_citations": 413,
+      "max_citations": 54
+    }
+  ],
+  "science_collab": [
+    {
+      "inst_a": "University of Belgrade",
+      "city_a": "beograd",
+      "inst_b": "University of Zagreb",
+      "city_b": "zagreb",
+      "joint_papers": 1096
+    },
+    {
+      "inst_a": "University of Belgrade",
+      "city_a": "beograd",
+      "inst_b": "University of Sarajevo",
+      "city_b": "sarajevo",
+      "joint_papers": 463
+    },
+    {
+      "inst_a": "University of Zagreb",
+      "city_a": "zagreb",
+      "inst_b": "University of Sarajevo",
+      "city_b": "sarajevo",
+      "joint_papers": 433
+    },
+    {
+      "inst_a": "University of Belgrade",
+      "city_a": "beograd",
+      "inst_b": "State University of Novi Pazar",
+      "city_b": "novi_pazar",
+      "joint_papers": 219
+    },
+    {
+      "inst_a": "University of Sarajevo",
+      "city_a": "sarajevo",
+      "inst_b": "University of Travnik",
+      "city_b": "travnik",
+      "joint_papers": 44
+    },
+    {
+      "inst_a": "University of Belgrade",
+      "city_a": "beograd",
+      "inst_b": "University of Travnik",
+      "city_b": "travnik",
+      "joint_papers": 33
+    },
+    {
+      "inst_a": "University of Sarajevo",
+      "city_a": "sarajevo",
+      "inst_b": "State University of Novi Pazar",
+      "city_b": "novi_pazar",
+      "joint_papers": 21
+    },
+    {
+      "inst_a": "University of Zagreb",
+      "city_a": "zagreb",
+      "inst_b": "State University of Novi Pazar",
+      "city_b": "novi_pazar",
+      "joint_papers": 20
+    },
+    {
+      "inst_a": "State University of Novi Pazar",
+      "city_a": "novi_pazar",
+      "inst_b": "University of Travnik",
+      "city_b": "travnik",
+      "joint_papers": 6
+    },
+    {
+      "inst_a": "University of Zagreb",
+      "city_a": "zagreb",
+      "inst_b": "University of Travnik",
+      "city_b": "travnik",
+      "joint_papers": 5
+    }
+  ],
+  "xs_3d_by_city": [
+    {
+      "city_id": "beograd",
+      "height_source": "osm_levels_estimated",
+      "trust_tier": "C",
+      "buildings_n": 1811,
+      "footprint_km2": 0.756,
+      "volume_mio_m3": 13.29,
+      "avg_height_m": 16.22,
+      "max_height_m": 57.6
+    },
+    {
+      "city_id": "beograd",
+      "height_source": "osm_explicit_height",
+      "trust_tier": "B",
+      "buildings_n": 13,
+      "footprint_km2": 0.02,
+      "volume_mio_m3": 0.83,
+      "avg_height_m": 34.3,
+      "max_height_m": 115.0
+    },
+    {
+      "city_id": "novi_pazar",
+      "height_source": "osm_levels_estimated",
+      "trust_tier": "C",
+      "buildings_n": 5,
+      "footprint_km2": 0.006,
+      "volume_mio_m3": 0.05,
+      "avg_height_m": 7.68,
+      "max_height_m": 9.6
+    },
+    {
+      "city_id": "sarajevo",
+      "height_source": "osm_levels_estimated",
+      "trust_tier": "C",
+      "buildings_n": 910,
+      "footprint_km2": 0.473,
+      "volume_mio_m3": 8.2,
+      "avg_height_m": 13.83,
+      "max_height_m": 67.2
+    },
+    {
+      "city_id": "sarajevo",
+      "height_source": "osm_explicit_height",
+      "trust_tier": "B",
+      "buildings_n": 20,
+      "footprint_km2": 0.012,
+      "volume_mio_m3": 0.45,
+      "avg_height_m": 26.2,
+      "max_height_m": 100.0
+    },
+    {
+      "city_id": "travnik",
+      "height_source": "osm_levels_estimated",
+      "trust_tier": "C",
+      "buildings_n": 38,
+      "footprint_km2": 0.014,
+      "volume_mio_m3": 0.12,
+      "avg_height_m": 8.59,
+      "max_height_m": 12.8
+    },
+    {
+      "city_id": "travnik",
+      "height_source": "osm_explicit_height",
+      "trust_tier": "B",
+      "buildings_n": 5,
+      "footprint_km2": 0.003,
+      "volume_mio_m3": 0.05,
+      "avg_height_m": 14.8,
+      "max_height_m": 25.0
+    },
+    {
+      "city_id": "zagreb",
+      "height_source": "lidar_3d_city_model",
+      "trust_tier": "A1",
+      "buildings_n": 6496,
+      "footprint_km2": 15.849,
+      "volume_mio_m3": 338.92,
+      "avg_height_m": 17.03,
+      "max_height_m": 96.55
+    }
+  ],
+  "nlp_gis_top_zones": [
+    {
+      "city_id": "travnik",
+      "canonical_name": "Travnik",
+      "feature_class": "municipality",
+      "docs_n": 357,
+      "tier_a1": 300,
+      "tier_b": 48,
+      "tier_c": 9
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Ilidža",
+      "feature_class": "municipality",
+      "docs_n": 251,
+      "tier_a1": 250,
+      "tier_b": 1,
+      "tier_c": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Centar Sarajevo",
+      "feature_class": "municipality",
+      "docs_n": 230,
+      "tier_a1": 230,
+      "tier_b": 0,
+      "tier_c": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Novo Sarajevo",
+      "feature_class": "municipality",
+      "docs_n": 107,
+      "tier_a1": 105,
+      "tier_b": 2,
+      "tier_c": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Vogošća",
+      "feature_class": "municipality",
+      "docs_n": 101,
+      "tier_a1": 100,
+      "tier_b": 0,
+      "tier_c": 1
+    },
+    {
+      "city_id": "novi_pazar",
+      "canonical_name": "Novi Pazar",
+      "feature_class": "municipality",
+      "docs_n": 84,
+      "tier_a1": 0,
+      "tier_b": 57,
+      "tier_c": 27
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Hadžići",
+      "feature_class": "municipality",
+      "docs_n": 52,
+      "tier_a1": 52,
+      "tier_b": 0,
+      "tier_c": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Ilijaš",
+      "feature_class": "municipality",
+      "docs_n": 48,
+      "tier_a1": 48,
+      "tier_b": 0,
+      "tier_c": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Novi Grad Sarajevo",
+      "feature_class": "municipality",
+      "docs_n": 34,
+      "tier_a1": 33,
+      "tier_b": 0,
+      "tier_c": 1
+    },
+    {
+      "city_id": "sarajevo",
+      "canonical_name": "Stari Grad Sarajevo",
+      "feature_class": "municipality",
+      "docs_n": 32,
+      "tier_a1": 32,
+      "tier_b": 0,
+      "tier_c": 0
+    },
+    {
+      "city_id": "beograd",
+      "canonical_name": "Zemun",
+      "feature_class": "municipality",
+      "docs_n": 8,
+      "tier_a1": 0,
+      "tier_b": 2,
+      "tier_c": 6
+    },
+    {
+      "city_id": "beograd",
+      "canonical_name": "Zvezdara",
+      "feature_class": "municipality",
+      "docs_n": 5,
+      "tier_a1": 0,
+      "tier_b": 0,
+      "tier_c": 5
+    },
+    {
+      "city_id": "zagreb",
+      "canonical_name": "Maksimir",
+      "feature_class": "mjesni_odbor",
+      "docs_n": 5,
+      "tier_a1": 0,
+      "tier_b": 0,
+      "tier_c": 5
+    },
+    {
+      "city_id": "beograd",
+      "canonical_name": "Čukarica",
+      "feature_class": "municipality",
+      "docs_n": 4,
+      "tier_a1": 0,
+      "tier_b": 0,
+      "tier_c": 4
+    },
+    {
+      "city_id": "beograd",
+      "canonical_name": "Novi Beograd",
+      "feature_class": "municipality",
+      "docs_n": 3,
+      "tier_a1": 0,
+      "tier_b": 0,
+      "tier_c": 3
+    },
+    {
+      "city_id": "beograd",
+      "canonical_name": "Vračar",
+      "feature_class": "municipality",
+      "docs_n": 3,
+      "tier_a1": 0,
+      "tier_b": 0,
+      "tier_c": 3
+    },
+    {
+      "city_id": "novi_pazar",
+      "canonical_name": "Raška",
+      "feature_class": "hinterland_unit",
+      "docs_n": 3,
+      "tier_a1": 0,
+      "tier_b": 1,
+      "tier_c": 2
+    },
+    {
+      "city_id": "travnik",
+      "canonical_name": "Novi Travnik",
+      "feature_class": "hinterland_unit",
+      "docs_n": 3,
+      "tier_a1": 0,
+      "tier_b": 2,
+      "tier_c": 1
+    },
+    {
+      "city_id": "beograd",
+      "canonical_name": "Пијаца",
+      "feature_class": "market",
+      "docs_n": 2,
+      "tier_a1": 0,
+      "tier_b": 0,
+      "tier_c": 2
+    },
+    {
+      "city_id": "novi_pazar",
+      "canonical_name": "Sjenica",
+      "feature_class": "hinterland_unit",
+      "docs_n": 2,
+      "tier_a1": 0,
+      "tier_b": 2,
+      "tier_c": 0
+    }
+  ],
+  "wb_latest": [
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "BX.TRF.PWKR.CD.DT",
+      "indicator_slug": "remittances_received_usd",
+      "year": 2025,
+      "value": 3494712856.95411
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "BX.TRF.PWKR.CD.DT",
+      "indicator_slug": "remittances_received_usd",
+      "year": 2025,
+      "value": 7246521837.26845
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "BX.TRF.PWKR.CD.DT",
+      "indicator_slug": "remittances_received_usd",
+      "year": 2025,
+      "value": 6557615144.82146
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
+      "indicator_slug": "remittances_pct_gdp",
+      "year": 2025,
+      "value": 10.7199836999079
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
+      "indicator_slug": "remittances_pct_gdp",
+      "year": 2025,
+      "value": 6.89749597465973
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "BX.TRF.PWKR.DT.GD.ZS",
+      "indicator_slug": "remittances_pct_gdp",
+      "year": 2025,
+      "value": 6.56067737556756
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "FP.CPI.TOTL.ZG",
+      "indicator_slug": "inflation_cpi_pct",
+      "year": 2025,
+      "value": 3.97821271880433
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "FP.CPI.TOTL.ZG",
+      "indicator_slug": "inflation_cpi_pct",
+      "year": 2025,
+      "value": 3.69153459605728
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "FP.CPI.TOTL.ZG",
+      "indicator_slug": "inflation_cpi_pct",
+      "year": 2025,
+      "value": 3.89036786060009
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "GB.XPD.RSDV.GD.ZS",
+      "indicator_slug": "rd_expenditure_pct_gdp",
+      "year": 2024,
+      "value": 0.21437
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "GB.XPD.RSDV.GD.ZS",
+      "indicator_slug": "rd_expenditure_pct_gdp",
+      "year": 2023,
+      "value": 1.38621
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "GB.XPD.RSDV.GD.ZS",
+      "indicator_slug": "rd_expenditure_pct_gdp",
+      "year": 2024,
+      "value": 0.93978
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "ST.INT.ARVL",
+      "indicator_slug": "intl_tourism_arrivals",
+      "year": 2020,
+      "value": 197000
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "ST.INT.ARVL",
+      "indicator_slug": "intl_tourism_arrivals",
+      "year": 2020,
+      "value": 21608000
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "ST.INT.ARVL",
+      "indicator_slug": "intl_tourism_arrivals",
+      "year": 2020,
+      "value": 446000
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "FS.AST.PRVT.GD.ZS",
+      "indicator_slug": "domestic_credit_private_pct_gdp",
+      "year": 2025,
+      "value": 50.5143550614922
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "FS.AST.PRVT.GD.ZS",
+      "indicator_slug": "domestic_credit_private_pct_gdp",
+      "year": 2024,
+      "value": 46.8610674582388
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "FS.AST.PRVT.GD.ZS",
+      "indicator_slug": "domestic_credit_private_pct_gdp",
+      "year": 2025,
+      "value": 35.3619044689385
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "IT.NET.BBND.P2",
+      "indicator_slug": "fixed_broadband_per_100",
+      "year": 2024,
+      "value": 29.3909178564419
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "IT.NET.BBND.P2",
+      "indicator_slug": "fixed_broadband_per_100",
+      "year": 2024,
+      "value": 29.5997367962687
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "IT.NET.BBND.P2",
+      "indicator_slug": "fixed_broadband_per_100",
+      "year": 2024,
+      "value": 33.3746847922718
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "NY.GDP.PCAP.PP.CD",
+      "indicator_slug": "gdp_per_capita_ppp_usd",
+      "year": 2025,
+      "value": 25814.2641520511
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "NY.GDP.PCAP.PP.CD",
+      "indicator_slug": "gdp_per_capita_ppp_usd",
+      "year": 2025,
+      "value": 50946.1671131832
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "NY.GDP.PCAP.PP.CD",
+      "indicator_slug": "gdp_per_capita_ppp_usd",
+      "year": 2025,
+      "value": 33909.7605745332
+    },
+    {
+      "country_iso3": "BIH",
+      "indicator_code": "SL.UEM.TOTL.ZS",
+      "indicator_slug": "unemployment_ilo_pct",
+      "year": 2025,
+      "value": 11.037
+    },
+    {
+      "country_iso3": "HRV",
+      "indicator_code": "SL.UEM.TOTL.ZS",
+      "indicator_slug": "unemployment_ilo_pct",
+      "year": 2025,
+      "value": 5.002
+    },
+    {
+      "country_iso3": "SRB",
+      "indicator_code": "SL.UEM.TOTL.ZS",
+      "indicator_slug": "unemployment_ilo_pct",
+      "year": 2025,
+      "value": 7.123
+    }
+  ],
+  "fts5_test_ilidza_pazar": 928,
+  "rtree_3d_zagreb_center": 1597
+}

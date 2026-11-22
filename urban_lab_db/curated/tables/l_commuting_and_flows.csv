@@ -1,0 +1,32 @@
+﻿id,city_hub,origin_name,dest_scope,flow_type,commuters_total,within_same_muni,other_muni_same_area,other_area_commuters,foreign_commuters,year,source_ref
+1,beograd,Beogradski region,beograd_core_or_suburban_muni,daily_work_commuting_census,166942,44764,99077,23101,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+12,beograd,Palilula,beograd_core_or_suburban_muni,daily_work_commuting_census,23447,6267,14630,2550,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+5,beograd,Grocka,beograd_core_or_suburban_muni,daily_work_commuting_census,22990,3579,18749,662,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+19,beograd,Pančevo,hinterland_ring_L,daily_work_commuting_census,18817,7354,591,10866,6,2022,RZS Popis 2022 dnevne_migracije.xlsx
+11,beograd,Obrenovac,beograd_core_or_suburban_muni,daily_work_commuting_census,18567,9323,8695,549,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+18,beograd,Čukarica,beograd_core_or_suburban_muni,daily_work_commuting_census,14997,2765,10337,1895,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+8,beograd,Lazarevac,beograd_core_or_suburban_muni,daily_work_commuting_census,14752,11001,2870,881,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+30,beograd,Smederevo,hinterland_ring_L,daily_work_commuting_census,13912,9075,202,4635,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+23,beograd,Stara Pazova,hinterland_ring_L,daily_work_commuting_census,13050,5424,1270,6356,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+17,beograd,Surčin,beograd_core_or_suburban_muni,daily_work_commuting_census,12651,2556,9148,947,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+9,beograd,Mladenovac,beograd_core_or_suburban_muni,daily_work_commuting_census,10663,3762,6196,705,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+3,beograd,Voždovac,beograd_core_or_suburban_muni,daily_work_commuting_census,9659,1677,5844,2138,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+7,beograd,Zemun,beograd_core_or_suburban_muni,daily_work_commuting_census,9407,1317,4079,4011,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+25,beograd,Valjevo,hinterland_ring_L,daily_work_commuting_census,9079,6454,872,1753,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+29,beograd,Palilula,beograd_core_or_suburban_muni,daily_work_commuting_census,7727,2026,4218,1483,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+22,beograd,Ruma,hinterland_ring_L,daily_work_commuting_census,7374,2879,2534,1952,9,2022,RZS Popis 2022 dnevne_migracije.xlsx
+20,beograd,Inđija,hinterland_ring_L,daily_work_commuting_census,7343,3417,1535,2391,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+2,beograd,Barajevo,beograd_core_or_suburban_muni,daily_work_commuting_census,7035,1181,5691,163,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+10,beograd,Novi Beograd,beograd_core_or_suburban_muni,daily_work_commuting_census,6706,0,3590,3116,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+6,beograd,Zvezdara,beograd_core_or_suburban_muni,daily_work_commuting_census,5096,0,2709,2387,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+15,beograd,Sopot,beograd_core_or_suburban_muni,daily_work_commuting_census,5027,1336,3590,101,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+21,beograd,Pećinci,hinterland_ring_L,daily_work_commuting_census,4694,2703,495,1496,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+13,beograd,Rakovica,beograd_core_or_suburban_muni,daily_work_commuting_census,2678,0,1581,1097,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+4,beograd,Vračar,beograd_core_or_suburban_muni,daily_work_commuting_census,1329,0,565,764,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+16,beograd,Stari grad,beograd_core_or_suburban_muni,daily_work_commuting_census,1055,0,419,636,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+14,beograd,Savski venac,beograd_core_or_suburban_muni,daily_work_commuting_census,883,0,384,499,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+26,novi_pazar,Novi Pazar,core_city,daily_work_commuting_census,4574,4058,214,302,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+27,novi_pazar,Raška,hinterland_ring_L,daily_work_commuting_census,4392,3434,568,390,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+28,novi_pazar,Tutin,hinterland_ring_L,daily_work_commuting_census,1057,793,227,35,2,2022,RZS Popis 2022 dnevne_migracije.xlsx
+24,novi_pazar,Sjenica,hinterland_ring_L,daily_work_commuting_census,847,763,16,68,0,2022,RZS Popis 2022 dnevne_migracije.xlsx
+31,zagreb,Zagreb Traffic Model (308 zones),zagreb_core_and_fua,od_daily_trips_matrix,1484915,140261,1344654,0,0,2022,data.zagreb.hr o-d-matrica-putovanja_csv.csv

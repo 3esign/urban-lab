@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 560" width="1120" height="560" style="font-family:Segoe UI,Arial,sans-serif;background:#0f172a">
+<text x="32" y="36" fill="#f8fafc" font-size="20" font-weight="700">Lanac „Pšenica – Mlinovi – Pekare“: Srbija (L/XL) i ekonomika pekare u 5 gradova (S-skala)</text>
+<text x="32" y="56" fill="#94a3b8" font-size="12">Levo: teritorijalna asimetrija pšenice (ha), mlinova i pekara (prihod M EUR) · Desno: mesečni troškovi i tačka pokrića (vekni/dan)</text>
+<rect x="32" y="82" width="520" height="430" fill="#1e293b" rx="8" stroke="#334155"/>
+<text x="46" y="106" fill="#f8fafc" font-size="13" font-weight="700">A. Teritorijalni bilans (Srbija): Pšenica vs. Prerada (Mlinovi + Pekare)</text>
+<rect x="46" y="118" width="11" height="11" fill="#eab308"/><text x="62" y="128" fill="#cbd5e1" font-size="10.5">Pšenica (ha, Popis 2023)</text>
+<rect x="222" y="118" width="11" height="11" fill="#38bdf8"/><text x="238" y="128" fill="#cbd5e1" font-size="10.5">Mlinovi 1061 (M EUR)</text>
+<rect x="372" y="118" width="11" height="11" fill="#f97316"/><text x="388" y="128" fill="#cbd5e1" font-size="10.5">Pekare 1071 (M EUR)</text>
+<text x="46" y="152" fill="#f8fafc" font-size="12" font-weight="600">Beograd (17 opština)</text>
+<rect x="46" y="160" width="171.2" height="16" fill="#eab308" rx="2"/>
+<text x="223.2" y="172" fill="#fde047" font-size="10.5">31,852 ha</text>
+<rect x="46" y="182" width="27.7" height="16" fill="#38bdf8" rx="2"/>
+<rect x="73.7" y="182" width="317.3" height="16" fill="#f97316" rx="2"/>
+<text x="397.0" y="194" fill="#e2e8f0" font-size="10.5">Mlin 33.3M + Pek 382.4M</text>
+<text x="46" y="214" fill="#94a3b8" font-size="10">Goveda: 34,643 · Ovce: 76,143 · Pilane (1610): 74 (28.3M EUR)</text>
+<text x="46" y="236" fill="#f8fafc" font-size="12" font-weight="600">Beogradski prsten (7 opština)</text>
+<rect x="46" y="244" width="345.0" height="16" fill="#eab308" rx="2"/>
+<text x="397.0" y="256" fill="#fde047" font-size="10.5">64,177 ha</text>
+<rect x="46" y="266" width="114.9" height="16" fill="#38bdf8" rx="2"/>
+<rect x="160.9" y="266" width="12.5" height="16" fill="#f97316" rx="2"/>
+<text x="179.4" y="278" fill="#e2e8f0" font-size="10.5">Mlin 138.5M + Pek 15.0M</text>
+<text x="46" y="298" fill="#94a3b8" font-size="10">Goveda: 43,312 · Ovce: 108,290 · Pilane (1610): 24 (11.6M EUR)</text>
+<text x="46" y="320" fill="#f8fafc" font-size="12" font-weight="600">Novi Pazar (Grad)</text>
+<rect x="46" y="328" width="7.6" height="16" fill="#eab308" rx="2"/>
+<text x="59.6" y="340" fill="#fde047" font-size="10.5">1,406 ha</text>
+<rect x="46" y="350" width="2.4" height="16" fill="#38bdf8" rx="2"/>
+<rect x="48.4" y="350" width="3.1" height="16" fill="#f97316" rx="2"/>
+<text x="57.5" y="362" fill="#e2e8f0" font-size="10.5">Mlin 3.0M + Pek 3.7M</text>
+<text x="46" y="382" fill="#94a3b8" font-size="10">Goveda: 6,772 · Ovce: 20,089 · Pilane (1610): 4 (5.5M EUR)</text>
+<text x="46" y="404" fill="#f8fafc" font-size="12" font-weight="600">Novopazarski prsten (Sjenica/Tutin/Raška)</text>
+<rect x="46" y="412" width="33.3" height="16" fill="#eab308" rx="2"/>
+<text x="85.3" y="424" fill="#fde047" font-size="10.5">6,191 ha</text>
+<rect x="46" y="434" width="4.1" height="16" fill="#38bdf8" rx="2"/>
+<rect x="50.1" y="434" width="2.0" height="16" fill="#f97316" rx="2"/>
+<text x="56.1" y="446" fill="#e2e8f0" font-size="10.5">Mlin 4.9M + Pek 0.0M</text>
+<text x="46" y="466" fill="#94a3b8" font-size="10">Goveda: 41,570 · Ovce: 93,170 · Pilane (1610): 12 (1.5M EUR)</text>
+<rect x="572" y="82" width="516" height="430" fill="#1e293b" rx="8" stroke="#334155"/>
+<text x="586" y="106" fill="#f8fafc" font-size="13" font-weight="700">B. Ekonomika pekare u 5 gradova (EUR/mesec i vekni/dan)</text>
+<rect x="586" y="118" width="11" height="11" fill="#6366f1"/><text x="601" y="128" fill="#cbd5e1" font-size="10.5">Rad</text>
+<rect x="664" y="118" width="11" height="11" fill="#eab308"/><text x="679" y="128" fill="#cbd5e1" font-size="10.5">Brašno</text>
+<rect x="742" y="118" width="11" height="11" fill="#ec4899"/><text x="757" y="128" fill="#cbd5e1" font-size="10.5">Kirija</text>
+<rect x="820" y="118" width="11" height="11" fill="#22c55e"/><text x="835" y="128" fill="#cbd5e1" font-size="10.5">Drvo</text>
+<rect x="898" y="118" width="11" height="11" fill="#38bdf8"/><text x="913" y="128" fill="#cbd5e1" font-size="10.5">Struja</text>
+<text x="586" y="160" fill="#f8fafc" font-size="12" font-weight="700">Zagreb — 11,840 EUR/mes · Hleb: 1.45 EUR</text>
+<rect x="586.0" y="168" width="163.5" height="22" fill="#6366f1"/>
+<rect x="749.5" y="168" width="73.5" height="22" fill="#eab308"/>
+<rect x="823.1" y="168" width="36.8" height="22" fill="#ec4899"/>
+<rect x="859.8" y="168" width="25.1" height="22" fill="#22c55e"/>
+<rect x="884.9" y="168" width="11.1" height="22" fill="#38bdf8"/>
+<rect x="896.0" y="168" width="19.8" height="22" fill="#475569"/>
+<rect x="976" y="166" width="98" height="26" fill="#0f172a" stroke="#f59e0b" rx="5"/>
+<text x="1025" y="183" fill="#fde68a" font-size="11.5" font-weight="700" text-anchor="middle">286 vekni/dan</text>
+<text x="586" y="204" fill="#94a3b8" font-size="10">Brašno 22.3% · Rad 49.6% · Kirija 11.1% · PDV hleb 5% · OSM pekara: 426</text>
+<text x="586" y="226" fill="#f8fafc" font-size="12" font-weight="700">Sarajevo — 10,706 EUR/mes · Hleb: 1.02 EUR</text>
+<rect x="586.0" y="234" width="121.9" height="22" fill="#6366f1"/>
+<rect x="707.9" y="234" width="101.1" height="22" fill="#eab308"/>
+<rect x="809.0" y="234" width="26.7" height="22" fill="#ec4899"/>
+<rect x="835.7" y="234" width="18.7" height="22" fill="#22c55e"/>
+<rect x="854.4" y="234" width="6.9" height="22" fill="#38bdf8"/>
+<rect x="861.4" y="234" width="22.8" height="22" fill="#475569"/>
+<rect x="976" y="232" width="98" height="26" fill="#0f172a" stroke="#f59e0b" rx="5"/>
+<text x="1025" y="249" fill="#fde68a" font-size="11.5" font-weight="700" text-anchor="middle">410 vekni/dan</text>
+<text x="586" y="270" fill="#94a3b8" font-size="10">Brašno 33.9% · Rad 40.9% · Kirija 9.0% · PDV hleb 17% · OSM pekara: 134</text>
+<text x="586" y="292" fill="#f8fafc" font-size="12" font-weight="700">Travnik — 10,130 EUR/mes · Hleb: 0.92 EUR</text>
+<rect x="586.0" y="300" width="121.9" height="22" fill="#6366f1"/>
+<rect x="707.9" y="300" width="101.1" height="22" fill="#eab308"/>
+<rect x="809.0" y="300" width="15.0" height="22" fill="#ec4899"/>
+<rect x="824.0" y="300" width="15.0" height="22" fill="#22c55e"/>
+<rect x="839.1" y="300" width="6.9" height="22" fill="#38bdf8"/>
+<rect x="846.0" y="300" width="22.2" height="22" fill="#475569"/>
+<rect x="976" y="298" width="98" height="26" fill="#0f172a" stroke="#f59e0b" rx="5"/>
+<text x="1025" y="315" fill="#fde68a" font-size="11.5" font-weight="700" text-anchor="middle">430 vekni/dan</text>
+<text x="586" y="336" fill="#94a3b8" font-size="10">Brašno 35.8% · Rad 43.2% · Kirija 5.3% · PDV hleb 17% · OSM pekara: 26</text>
+<text x="586" y="358" fill="#f8fafc" font-size="12" font-weight="700">Beograd — 8,887 EUR/mes · Hleb: 0.70 EUR</text>
+<rect x="586.0" y="366" width="114.5" height="22" fill="#6366f1"/>
+<rect x="700.5" y="366" width="53.3" height="22" fill="#eab308"/>
+<rect x="753.8" y="366" width="30.1" height="22" fill="#ec4899"/>
+<rect x="783.9" y="366" width="26.1" height="22" fill="#22c55e"/>
+<rect x="810.0" y="366" width="7.8" height="22" fill="#38bdf8"/>
+<rect x="817.8" y="366" width="15.7" height="22" fill="#475569"/>
+<rect x="976" y="364" width="98" height="26" fill="#0f172a" stroke="#f59e0b" rx="5"/>
+<text x="1025" y="381" fill="#fde68a" font-size="11.5" font-weight="700" text-anchor="middle">466 vekni/dan</text>
+<text x="586" y="402" fill="#94a3b8" font-size="10">Brašno 21.5% · Rad 46.3% · Kirija 12.2% · PDV hleb 10% · OSM pekara: 575</text>
+<text x="586" y="424" fill="#f8fafc" font-size="12" font-weight="700">Novi Pazar — 8,590 EUR/mes · Hleb: 0.65 EUR</text>
+<rect x="586.0" y="432" width="114.5" height="22" fill="#6366f1"/>
+<rect x="700.5" y="432" width="60.7" height="22" fill="#eab308"/>
+<rect x="761.2" y="432" width="23.4" height="22" fill="#ec4899"/>
+<rect x="784.6" y="432" width="17.4" height="22" fill="#22c55e"/>
+<rect x="802.0" y="432" width="7.8" height="22" fill="#38bdf8"/>
+<rect x="809.8" y="432" width="15.5" height="22" fill="#475569"/>
+<rect x="976" y="430" width="98" height="26" fill="#0f172a" stroke="#f59e0b" rx="5"/>
+<text x="1025" y="447" fill="#fde68a" font-size="11.5" font-weight="700" text-anchor="middle">485 vekni/dan</text>
+<text x="586" y="468" fill="#94a3b8" font-size="10">Brašno 25.4% · Rad 47.9% · Kirija 9.8% · PDV hleb 10% · OSM pekara: 9</text>
+<text x="32" y="544" fill="#64748b" font-size="10.5">Izvor: SQLite v3 (RZS Popis poljoprivrede 2023, APR 2024 FI 2.926 firmi, s_bakery_unit_model, s_scale_input_costs).</text>
+</svg>

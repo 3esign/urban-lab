@@ -1,0 +1,369 @@
+{
+  "db_path": "urban_lab_db/curated/urban_lab_5cities_v4.sqlite",
+  "db_size_bytes": 91844608,
+  "foreign_key_errors": 0,
+  "manifest_added": 185,
+  "science": {
+    "institutions": 12,
+    "collab_relations": 10,
+    "works": 525,
+    "geo_mentions": 548
+  },
+  "procurement": {
+    "contracts": 1150,
+    "buyers": 221
+  },
+  "news": {
+    "articles": 442,
+    "geo_mentions": 459
+  },
+  "sensors": {
+    "sensor_observations": 531
+  },
+  "elections": {
+    "polling_stations": 3479,
+    "station_results": 74025
+  },
+  "xs_3d": {
+    "buildings_3d": 9298
+  },
+  "table_counts": {
+    "source_registry": 28,
+    "sources_manifest": 400,
+    "entities": 233,
+    "entity_identifiers": 245,
+    "entity_relations": 10,
+    "spatial_gazetteer": 2043,
+    "gazetteer_aliases": 6218,
+    "gazetteer_rtree": 2043,
+    "evidence_documents": 2118,
+    "document_geo_mentions": 2157,
+    "document_entity_mentions": 1461,
+    "domain_signals_procurement": 1150,
+    "domain_signals_science": 525,
+    "domain_signals_sensors": 531,
+    "election_cycles": 5,
+    "polling_stations": 3479,
+    "election_station_results": 74025,
+    "xs_buildings_3d": 9298,
+    "xs_buildings_rtree": 9298,
+    "urban_events": 1,
+    "event_studies": 1,
+    "event_study_observations": 24
+  },
+  "view_trust_coverage": [
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "population": 1681405,
+      "trust_tier": "A1",
+      "docs_count": 1,
+      "docs_per_100k_pop": 0.06,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "population": 1681405,
+      "trust_tier": "B",
+      "docs_count": 121,
+      "docs_per_100k_pop": 7.2,
+      "procurement_docs": 0,
+      "science_docs": 121,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "beograd",
+      "city_name": "Beograd",
+      "population": 1681405,
+      "trust_tier": "C",
+      "docs_count": 180,
+      "docs_per_100k_pop": 10.71,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 180
+    },
+    {
+      "city_id": "novi_pazar",
+      "city_name": "Novi Pazar",
+      "population": 106720,
+      "trust_tier": "B",
+      "docs_count": 82,
+      "docs_per_100k_pop": 76.84,
+      "procurement_docs": 0,
+      "science_docs": 82,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "novi_pazar",
+      "city_name": "Novi Pazar",
+      "population": 106720,
+      "trust_tier": "C",
+      "docs_count": 62,
+      "docs_per_100k_pop": 58.1,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 62
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "population": 421531,
+      "trust_tier": "A1",
+      "docs_count": 850,
+      "docs_per_100k_pop": 201.65,
+      "procurement_docs": 850,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "population": 421531,
+      "trust_tier": "B",
+      "docs_count": 123,
+      "docs_per_100k_pop": 29.18,
+      "procurement_docs": 0,
+      "science_docs": 123,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "sarajevo",
+      "city_name": "Sarajevo",
+      "population": 421531,
+      "trust_tier": "C",
+      "docs_count": 90,
+      "docs_per_100k_pop": 21.35,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 90
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "population": 50970,
+      "trust_tier": "A1",
+      "docs_count": 300,
+      "docs_per_100k_pop": 588.58,
+      "procurement_docs": 300,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "population": 50970,
+      "trust_tier": "B",
+      "docs_count": 74,
+      "docs_per_100k_pop": 145.18,
+      "procurement_docs": 0,
+      "science_docs": 74,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "travnik",
+      "city_name": "Travnik",
+      "population": 50970,
+      "trust_tier": "C",
+      "docs_count": 30,
+      "docs_per_100k_pop": 58.86,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 30
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "population": 767131,
+      "trust_tier": "A1",
+      "docs_count": 1,
+      "docs_per_100k_pop": 0.13,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "population": 767131,
+      "trust_tier": "B",
+      "docs_count": 125,
+      "docs_per_100k_pop": 16.29,
+      "procurement_docs": 0,
+      "science_docs": 125,
+      "news_discourse_docs": 0
+    },
+    {
+      "city_id": "zagreb",
+      "city_name": "Zagreb",
+      "population": 767131,
+      "trust_tier": "C",
+      "docs_count": 79,
+      "docs_per_100k_pop": 10.3,
+      "procurement_docs": 0,
+      "science_docs": 0,
+      "news_discourse_docs": 79
+    }
+  ],
+  "view_procurement": [
+    {
+      "city_id": "sarajevo",
+      "country_iso3": "BIH",
+      "award_year": "2026",
+      "contracts_count": 850,
+      "total_value_eur_m": 15.923,
+      "single_bidder_contracts": 108,
+      "single_bidder_pct": 12.71,
+      "avg_contract_to_estimate_ratio": 1.4641,
+      "unique_winners": 0,
+      "unique_buyers": 184
+    },
+    {
+      "city_id": "travnik",
+      "country_iso3": "BIH",
+      "award_year": "2026",
+      "contracts_count": 300,
+      "total_value_eur_m": 2.568,
+      "single_bidder_contracts": 26,
+      "single_bidder_pct": 8.67,
+      "avg_contract_to_estimate_ratio": 0.9673,
+      "unique_winners": 0,
+      "unique_buyers": 37
+    }
+  ],
+  "view_event_study_did": [
+    {
+      "study_id": "es:sa_vs_zg:winter_heating_pm25_2025_2026",
+      "study_title": "ES-03: Zimski šok energetskog siromaštva i PM2.5 (Sarajevo vs. Zagreb kontrola, 2025/26)",
+      "city_id": "sarajevo",
+      "event_category": "environmental_crisis",
+      "t0_anchor_type": "effective",
+      "t0_date": "2025-11-01",
+      "outcome_metric": "openaq_pm25_ugm3",
+      "identification_grade": "staggered_multi_city_did",
+      "min_upstream_tier": "A1",
+      "treated_pre_mean": 10.92,
+      "treated_post_mean": 33.28,
+      "treated_delta": 22.36,
+      "control_pre_mean": 9.35,
+      "control_post_mean": 35.6475,
+      "control_delta": 26.2975,
+      "did_estimate": -3.9375,
+      "did_pct_points": -57.184
+    }
+  ],
+  "view_election_summary": [
+    {
+      "election_id": "elec:srb:2023-12-17:parl",
+      "city_id": "beograd",
+      "stations_n": 1180,
+      "avg_turnout_pct": 59.77,
+      "avg_invalid_pct": 2.51,
+      "avg_margin_pp": 20.81,
+      "avg_enp": 3.224
+    },
+    {
+      "election_id": "elec:srb:2023-12-17:parl",
+      "city_id": "novi_pazar",
+      "stations_n": 99,
+      "avg_turnout_pct": 53.39,
+      "avg_invalid_pct": 4.52,
+      "avg_margin_pp": 28.83,
+      "avg_enp": 2.894
+    },
+    {
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "city_id": "sarajevo",
+      "stations_n": 308,
+      "avg_turnout_pct": 45.61,
+      "avg_invalid_pct": 6.16,
+      "avg_margin_pp": 13.14,
+      "avg_enp": 4.783
+    },
+    {
+      "election_id": "elec:bih:2024-10-06:local_council",
+      "city_id": "travnik",
+      "stations_n": 76,
+      "avg_turnout_pct": 49.83,
+      "avg_invalid_pct": 5.16,
+      "avg_margin_pp": 49.95,
+      "avg_enp": 2.212
+    },
+    {
+      "election_id": "elec:hrv:2024-04-17:parl",
+      "city_id": "zagreb",
+      "stations_n": 606,
+      "avg_turnout_pct": 67.6,
+      "avg_invalid_pct": 2.22,
+      "avg_margin_pp": 6.13,
+      "avg_enp": 4.396
+    },
+    {
+      "election_id": "elec:hrv:2025-05-18:local_zg_assembly",
+      "city_id": "zagreb",
+      "stations_n": 605,
+      "avg_turnout_pct": 42.83,
+      "avg_invalid_pct": 1.86,
+      "avg_margin_pp": 26.58,
+      "avg_enp": 4.145
+    },
+    {
+      "election_id": "elec:hrv:2025-05-18:local_zg_mayor",
+      "city_id": "zagreb",
+      "stations_n": 605,
+      "avg_turnout_pct": 42.84,
+      "avg_invalid_pct": 1.71,
+      "avg_margin_pp": 30.44,
+      "avg_enp": 3.529
+    }
+  ],
+  "view_xs_3d_by_city": [
+    {
+      "city_id": "zagreb",
+      "buildings_n": 6496,
+      "footprint_km2": 15.849,
+      "volume_mio_m3": 338.92,
+      "avg_height_m": 17.03,
+      "max_height_m": 96.55,
+      "high_trust_pct": 100.0
+    },
+    {
+      "city_id": "beograd",
+      "buildings_n": 1824,
+      "footprint_km2": 0.776,
+      "volume_mio_m3": 14.12,
+      "avg_height_m": 16.35,
+      "max_height_m": 115.0,
+      "high_trust_pct": 0.0
+    },
+    {
+      "city_id": "sarajevo",
+      "buildings_n": 930,
+      "footprint_km2": 0.485,
+      "volume_mio_m3": 8.65,
+      "avg_height_m": 14.1,
+      "max_height_m": 100.0,
+      "high_trust_pct": 0.0
+    },
+    {
+      "city_id": "travnik",
+      "buildings_n": 43,
+      "footprint_km2": 0.018,
+      "volume_mio_m3": 0.16,
+      "avg_height_m": 9.31,
+      "max_height_m": 25.0,
+      "high_trust_pct": 0.0
+    },
+    {
+      "city_id": "novi_pazar",
+      "buildings_n": 5,
+      "footprint_km2": 0.006,
+      "volume_mio_m3": 0.05,
+      "avg_height_m": 7.68,
+      "max_height_m": 9.6,
+      "high_trust_pct": 0.0
+    }
+  ]
+}

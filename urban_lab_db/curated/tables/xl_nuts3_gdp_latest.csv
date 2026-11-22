@@ -1,0 +1,13 @@
+﻿nuts_code,region_name,city_hub,scale_role,year,gdp_mio_eur,gdp_eur_per_capita,gdp_pps_per_capita
+RS110,Beogradska oblast,beograd,M_core,2023,32418.65,19300.0,31500.0
+RS127,Sremska oblast,beograd,L_hinterland,2023,3233.73,11500.0,18800.0
+RS122,Juznobanatska oblast,beograd,L_hinterland,2023,2643.26,10200.0,16700.0
+RS214,Moravicka oblast,novi_pazar,XL_corridor_moravica,2023,1677.71,8900.0,14600.0
+RS211,Zlatiborska oblast,novi_pazar,L_hinterland_zlatibor,2023,2002.66,7900.0,13000.0
+RS218,Sumadijska oblast,novi_pazar,XL_corridor_sumadija,2023,2118.12,7900.0,12900.0
+RS217,Raska oblast,novi_pazar,L_region_raska,2023,1714.84,5800.0,9500.0
+HR050,Grad Zagreb,zagreb,M_core,2024,29116.76,37500.0,52500.0
+HR065,Zagrebačka županija,zagreb,L_hinterland,2024,6025.93,19500.0,27200.0
+HR028,Sisačko-moslavačka županija,zagreb,L_outer_ring,2024,2249.75,16800.0,23500.0
+HR027,Karlovačka županija,zagreb,L_outer_ring,2024,1783.45,16300.0,22800.0
+HR064,Krapinsko-zagorska županija,zagreb,L_outer_ring,2024,1694.42,14200.0,19900.0

@@ -1,0 +1,8 @@
+﻿region_id,city_hub,region_name,wheat_tonnes,wheat_ha,timber_total_m3,firewood_hardwood_m3,agri_farms_opg_count,exports_mio_eur,imports_mio_eur,trade_coverage_pct,tourism_nights,tourism_year,source_ref
+ks_sarajevo,sarajevo,Kanton Sarajevo (M),592.0,162.0,115000.0,25000.0,,923.6,3781.8,24.4,1568480,2025,"FZS KS 2026 (p.21,23,29) + ZPR KS 2025 (p.35,84)"
+zdk_bridge,sarajevo,Zeničko-dobojski kanton (L-most SA↔TR),7796.0,1887.0,280000.0,59000.0,,1087.0,1121.9,96.9,,2024,"FZS ZDK 2026 (p.21,23,29)"
+sbk_travnik,travnik,Srednjobosanski kanton (M+L Travnik/Vitez),4395.0,1346.0,389000.0,115000.0,,456.5,679.3,67.2,,2024,"FZS SBK 2025 (p.19,21,28)"
+zg_core,zagreb,Grad Zagreb (M),,,,,6047,,,,2721617,2025,HR Upisnik PG 2024 (4.058 OPG + 1.931 PG) + Eurostat tour_occ_nin2 2025
+zg_county_l,zagreb,Zagrebačka županija (L-prsten),,,,,13409,,,,1306374,2025,HR Upisnik PG 2024 (11.056 OPG + 2.188 PG) + Eurostat HR06 2025
+bg_region,beograd,Beogradski region + Srem/Banat prsten (M+L),,,,,,,,,3593933,2025,"Eurostat tour_occ_nin2 RS11 2025 + APR (249 žito firmi, 38 mlinova u BG+prstenu)"
+np_raska,novi_pazar,Novi Pazar + Raška/Pešter prsten (M+L),,,,,,,,,4679759,2025,"Eurostat tour_occ_nin2 RS21 (region) 2025 + APR (5 žito firmi, 2 mlina, 37 drvno-građ.)"

@@ -1,0 +1,15 @@
+﻿id,city_id,entity_name,entity_level,year,currency,total_budget_local,total_budget_eur,capital_expenditure_local,capital_expenditure_eur,property_tax_rev_local,income_tax_rev_local,population_ref,per_capita_eur,status,source_doc
+1,beograd,Grad Beograd (ukupno: Grad + 17 opština),city_consolidated,2026,RSD,205387000000.0,1755444444.44,,,22880000000.0,107360000000.0,1681405,1044.03,adopted,Sl. list grada Beograda 6/2026 (BG_006_2026_001.htm)
+2,beograd,Grad Beograd (gradski nivo bez opština),city_core,2026,RSD,190215000000.0,1625769230.77,,,,,1681405,966.91,adopted,beograd.rs / Sl. list 6/2026
+3,beograd,Gradske opštine Beograda (17 ukupno),municipalities_sum,2026,RSD,15172000000.0,129675213.68,,,,,1681405,77.12,adopted,beograd.rs / Sl. list 6/2026
+4,zagreb,Grad Zagreb (konsolidirani proračun izvorni),city_county_consolidated,2026,EUR,3154000000.0,3154000000.0,,,,1380000000.0,767131,4111.42,adopted,data.zagreb.hr konsolidirani-plan-prihodi/rashodi-2026 CSV
+5,zagreb,Grad Zagreb (rebalans rujan 2026),city_county_consolidated,2026,EUR,3340000000.0,3340000000.0,,,,,767131,4353.88,rebalanced,zagreb.hr rujan 2026
+6,sarajevo,Kanton Sarajevo,canton,2026,BAM,1998591126.0,1021863416.55,52782338.0,26987180.89,,456402626.0,421531,2424.17,adopted,mf.ks.gov.ba budzet-kantona-sarajevo-za-2026-godinu_0.pdf (PDF verifikovano)
+7,sarajevo,"Grad Sarajevo (4 gradske općine, gradska administracija)",city_admin,2026,BAM,26154700.0,13372685.77,,,,,271484,49.26,adopted,sarajevo.ba
+8,sarajevo,Općina Centar Sarajevo,municipality,2026,BAM,87780000.0,44881201.33,40000000.0,20451675.25,,,51919,864.45,adopted,centar.ba
+9,sarajevo,Općina Novo Sarajevo,municipality,2026,BAM,70200000.0,35892690.06,,,,,62463,574.62,adopted,novosarajevo.ba
+10,sarajevo,Općina Novi Grad Sarajevo,municipality,2026,BAM,67280000.0,34399717.77,,,,,123568,278.39,adopted,novigradsarajevo.ba / fena.ba
+11,sarajevo,Općina Stari Grad Sarajevo,municipality,2026,BAM,29000000.0,14827464.55,,,,,33534,442.16,draft_adopted_base,starigrad.ba
+12,novi_pazar,Grad Novi Pazar,city,2026,RSD,5252130000.0,44890000.0,,,450000000.0,1412000000.0,106720,420.63,adopted,novipazar.rs Budzet za 2026 - potpisan.pdf (PDF verifikovano)
+13,novi_pazar,Grad Novi Pazar,city,2025,RSD,4800000000.0,41025641.03,,,318000000.0,,106720,384.42,adopted,novipazar.rs
+14,travnik,Općina Travnik,municipality,2026,BAM,39963000.0,20432757.45,13242865.29,6770969.51,,,50970,400.88,adopted,opcinatravnik.com.ba Budzet_za_2026._godinu.pdf (PDF verifikovano)
