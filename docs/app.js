@@ -213,7 +213,7 @@ function setCity(id, { open = true } = {}) {
 }
 function setScale(s) {
   state.scale = s; state.on = new Set(SCALES[s].on);
-  if (SCALES[s].pitch) state.mode3d = true;
+  state.mode3d = !!SCALES[s].pitch; // skala bira prikaz; dugme 2D/3D ga posle menja ručno
   renderTop(); fly(); syncLayers();
 }
 function setMode(m3) { state.mode3d = m3; renderTop(); map.easeTo({ pitch: m3 ? 55 : 0, bearing: m3 ? -15 : 0, duration: 700 }); syncLayers(); }
